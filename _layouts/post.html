@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+{% if page.tags %}
+  {% for tag in page.tags %}
+    <a class="post-tag" href="/tags/{{ tag }}">
+      <p><i class="fas fa-tag" aria-hidden="true"></i> {{ tag }}</p>
+    </a>
+  {% endfor %}
+{% endif %}
+
+<article class="post-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="post-header">
+    <h2 class="post-title" itemprop="name headline">{{ page.title }}</h2>
+    <p class="post-author"><i class="fas fa-user" aria-hidden="true"></i> {{ page.author}} </p>
+    <p class="post-date"><i class="fas fa-calendar-day" aria-hidden="true"></i> {{ page.date | date: '%B %-d, %Y' }}</p>
+    {% if page.time_to_read %}
+      <p class="post-time-to-read"><i class="fas fa-clock" aria-hidden="true"></i> {{ page.time_to_read }} </p>
+    {% endif %}
+  </div>
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+  <div class="more-reading">
+    <h3>More Reading</h3>
+    {% for post in site.posts limit:4 %}
+      {% if post.url != page.url %} 
+        {% if forloop.index < 4 or found %}
+          <a class="more-posts" href="{{ post.url }}">{{ post.title }}</a>
+        {% endif %}
+      {% else %}
+        {% assign found = true %} 
+      {% endif %}
+    {% endfor %}
+  </div>
+    
+  </div>
+</article>

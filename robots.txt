@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /about/
+Disallow: /design/
+Disallow: /js/
+Disallow: /styles/
+Disallow: Gemfile
+Disallow: Gemfile.lock
