@@ -5,6 +5,7 @@ title:
   Tournament Selection Committee in 2020
 author: Jacob Varner
 time_to_read: 10 minutes
+tags: General
 ---
 
 A few years ago, the NCAA officially ditched the RPI (finally) and introduced a

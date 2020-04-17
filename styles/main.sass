@@ -1,85 +1,195 @@
 ---
 ---
 
-$blue: #00b8e6
+$dark-gray: #666666
+$light-gray: #bbbbbb
 
 body
   padding-top: 80px
 
 header
-  position: fixed
-  display: flex
-  justify-content: space-between
+  position: absolute
+  z-index: 5
   top: 0
   left: 0
-  width: calc(100% - 80px)
-  padding: 20px 40px
+  width: 100%
+  padding: 20px 0
   box-shadow: 0 2px 10px 2px rgba(0,0,0,0.3)
-  z-index: 999
+  background: white
 
-  @media only screen and (max-width: 400px)
-    padding: 20px 20px
-    width: calc(100% - 40px)
-
-  a#header-home-link, a#header-home-link:active, a#header-home-link:visited
+  div#header-container
     display: flex
-    align-items: center
-    justify-content: flex-start
-    flex-wrap: nowrap
-    text-decoration: none
+    justify-content: space-between
+    max-width: 1000px
+    padding: 0 20px
+    margin: 0 auto
 
-    svg#header-logo
-      width: 40px
-      height: 40px
-      display: block
-      fill: black
+    @media only screen and (max-width: 400px)
 
-    h1#header-title
-      font-size: 24px
-      font-weight: 700
-      font-family: "Roboto Condensed", sans-serif
-      margin: 0 10px
-      display: block
-      color: black
-      text-transform: uppercase
-
-      @media only screen and (max-width: 768px)
-        display: none
-  
-  a#header-home-link:hover
-    svg#header-logo
-      fill: $blue
-
-    h1#header-title
-      color: $blue
-  
-  nav
-    display: flex
-    align-items: center
-    justify-content: flex-end
-    flex-wrap: nowrap
-    height: 40px
-
-    a.nav-item, a.nav-item:visited, a.nav-item:active
-      display: inline-block
-      font-size: 18px
-      font-family: "Roboto Condensed", serif
-      font-weight: 400
-      color: black
+    a#header-home-link,
+    a#header-home-link:active,
+    a#header-home-link:visited
+      display: flex
+      align-items: center
+      justify-content: flex-start
+      flex-wrap: nowrap
       text-decoration: none
-      text-transform: uppercase
-    
-    a.nav-item:hover
-      color: $blue
-    
-    a.nav-item:last-child:hover
-      color: $blue
 
-    span.nav-divider
-      font-size: 24px
-      font-family: "Roboto Condensed", serif
-      font-weight: 400
+      svg#header-logo
+        width: 40px
+        height: 40px
+        display: block
+        fill: black
+
+      h1#header-title
+        font-size: 24px
+        font-weight: 700
+        font-family: "Roboto Condensed", sans-serif
+        margin: 0 10px
+        display: block
+        color: black
+        text-transform: uppercase
+
+        @media only screen and (max-width: 768px)
+          display: none
+    
+    nav
+      display: flex
+      align-items: center
+      justify-content: flex-end
+      flex-wrap: nowrap
+      height: 40px
+
+      a.nav-item,
+      a.nav-item:visited,
+      a.nav-item:active
+        display: inline-block
+        font-size: 18px
+        font-family: "Roboto Condensed", serif
+        font-weight: 400
+        color: black
+        text-decoration: none
+        text-transform: uppercase
+
+      span.nav-divider
+        font-size: 24px
+        font-family: "Roboto Condensed", serif
+        font-weight: 400
+        color: $light-gray
+        margin: 0 10px
+
+div#posts-container
+  position: relative
+  max-width: 1000px
+  display: block
+  margin: 20px auto
+  padding: 20px
+
+  div.post-container
+    display: block
+    margin: 0 0 60px 0
+    padding: 0 0 0 20px
+    border-left: 2px solid $dark-gray
+
+    span.post-tag
+      display: inline-block
+      margin: 0 10px 10px 0
+      padding: 0
+      color: $light-gray
+
+      p
+        line-height: 20px
+        font-size: 18px
+        font-family: "Roboto Condensed", serif
+        text-transform: uppercase
+        margin: 0
+        padding: 0
+    
+    h2.post-title
+      font-family: "Roboto Condensed", sans-serif
+      font-size: 30px
       color: black
-      margin: 0 10px
+      line-height: 40px
+      margin: 0 0 10px 0
+      padding: 0
+      vertical-align: middle
+
+      a, a:hover, a:visited, a:active
+        text-decoration: none
+        color: black
+      
+    p.post-author,
+    p.post-date,
+    p.post-time-to-read
+      display: inline-block
+      margin: 0 20px 0 0
+      padding: 0
+      color: $dark-gray
+      line-height: 24px
+      font-size: 16px
+      font-family: "Roboto Slab", sans-serif
+
+div.pagination
+  display: flex
+  justify-content: center
+  flex-wrap: nowrap
+  align-items: center
+  margin: 40px 0 0 0
+  padding: 0
+
+  a.pagination-previous,
+  a.pagination-next,
+  a.pagination-previous:hover,
+  a.pagination-next:hover,
+  a.pagination-previous:active,
+  a.pagination-next:active,
+  a.pagination-previous:visited,
+  a.pagination-next:visited
+    font-size: 30px
+    line-height: 30px
+    vertical-align: middle
+    color: black
+    text-decoration: none
+    margin: 0
+    padding: 0
+
+  a.disabled.pagination-previous,
+  a.disabled.pagination-next,
+  a.disabled.pagination-previous:hover,
+  a.disabled.pagination-next:hover,
+  a.disabled.pagination-previous:active,
+  a.disabled.pagination-next:active,
+  a.disabled.pagination-previous:visited,
+  a.disabled.pagination-next:visited
+    color: $light-gray
+    cursor: not-allowed
+
+  p.pagination-numbers
+    font-size: 20px
+    line-height: 20px
+    vertical-align: middle
+    margin: 0 10px 0
+    padding: 0
+    font-family: "Roboto Slab", serif
+    color: $dark-gray
+
+footer
+  display: block
+  text-align: center
+  width: calc(100%-40px) 
+  padding: 20px
+  margin: 40px 0 0 0
+
+  p
+    font-family: "Roboto Slab", serif
+    font-size: 18px
+    color: $light-gray
+    line-height: 24px
+    margin: 10px 0
+    padding: 0
+
+    a, a:hover, a:visited, a:active
+      text-decoration: none
+      color: black
 
     
