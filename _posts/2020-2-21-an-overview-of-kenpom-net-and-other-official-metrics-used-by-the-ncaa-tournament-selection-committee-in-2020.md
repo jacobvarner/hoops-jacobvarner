@@ -163,7 +163,7 @@ offense (12.9) and West Virginia has the best defense (10.3).
 
 ## Sagarin Ratings
 
-Jeff Sagrin's ratings, like KPI, are used for many other sports and therefore
+Jeff Sagarin's ratings, like KPI, are used for many other sports and therefore
 are not just basketball specific. The ratings also only factor in games against
 D1 opponents. Sagarin's ratings are a predictive metric, and he even says that
 to predict the outcome of a given game, just compare the two team's ratings and

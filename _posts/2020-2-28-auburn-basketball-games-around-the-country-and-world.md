@@ -110,6 +110,6 @@ As always, thanks for reading.
 
 War Eagle.
 
-[image1]: ../images/2020-2-28/Auburn Basketball by State.png [image2]:
-../images/2020-2-28/Auburn Basketball by City.png [image3]:
-../images/2020-2-28/Auburn Basketball by Venue.png
+[image1]: /images/2020-2-28/Auburn Basketball by State.png
+[image2]: /images/2020-2-28/Auburn Basketball by City.png
+[image3]: /images/2020-2-28/Auburn Basketball by Venue.png

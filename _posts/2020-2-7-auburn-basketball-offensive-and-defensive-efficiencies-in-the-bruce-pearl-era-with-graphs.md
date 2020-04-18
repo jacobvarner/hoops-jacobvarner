@@ -148,7 +148,7 @@ The 2017-2018 team was off to a similar start to the 2019-2020 team but then you
 can clearly see where Anfernee McLemore went down with a season ending injury in
 the 27th game against South Carolina.
 
-Auburn's best offensive game of the season came in game five against Wintrop
+Auburn's best offensive game of the season came in game five against Winthrop
 where Auburn scored 145.3 points per 100 possessions. That game is also the best
 offensive game in the Bruce Pearl era.
 
@@ -258,7 +258,7 @@ judging teams on a level playing field without overhyping defenses that play
 slow or offenses that play fast. I hope the metrics make sense and help paint an
 overall picture for both sides of the ball under Bruce Pearl at Auburn.
 
-As always, if you have any questions about specific data points or explinations
+As always, if you have any questions about specific data points or explanations
 in this post, please don't hesitate to reach out to me
 [on Twitter](https://www.twitter.com/jacobvarner). Thanks for taking the time to
 read my overview of Auburn basketball offensive and defensive efficiencies under
@@ -266,10 +266,9 @@ Bruce Pearl and I hope the graphs made it more interesting.
 
 War Eagle!
 
-[image1]: ../images/2020-2-7/Auburn Basketball Efficiency for the 2014-2015
-Season.png [image2]: ../images/2020-2-7/Auburn Basketball Efficiency for the
-2015-2016 Season.png [image3]: ../images/2020-2-7/Auburn Basketball Efficiency
-for the 2016-2017 Season.png [image4]: ../images/2020-2-7/Auburn Basketball
-Efficiency for the 2017-2018 Season.png [image5]: ../images/2020-2-7/Auburn
-Basketball Efficiency for the 2018-2019 Season.png [image6]:
-../images/2020-2-7/Auburn Basketball Efficiency for the 2019-2020 Season.png
+[image1]: /images/2020-2-7/Auburn Basketball Efficiency for the 2014-2015 Season.png
+[image2]: /images/2020-2-7/Auburn Basketball Efficiency for the 2015-2016 Season.png
+[image3]: /images/2020-2-7/Auburn Basketball Efficiency for the 2016-2017 Season.png
+[image4]: /images/2020-2-7/Auburn Basketball Efficiency for the 2017-2018 Season.png
+[image5]: /images/2020-2-7/Auburn Basketball Efficiency for the 2018-2019 Season.png
+[image6]: /images/2020-2-7/Auburn Basketball Efficiency for the 2019-2020 Season.png
