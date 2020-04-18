@@ -37,6 +37,8 @@ records in Kentucky (9-64), Arkansas (5-21), and Ohio (2-5).
 ![Full breakdown of Auburn Basketball by state sorted by games played][image1]
 _Auburn basketball games by state, sorted by total games played_
 
+{% include ad.html %}
+
 ### Auburn Basketball by City
 
 Auburn basketball has played in 131 different cities in 114 different seasons of
@@ -93,7 +95,7 @@ Auburn basketball's best home venues by record are The Sports Arena (165-54,
 ![Auburn Basketball by Venue][image3] _Auburn Basketball games by venue, sorted
 by total games played with at least 15 games_
 
----
+{% include ad.html %}
 
 Because there is a lot more data than can easily be covered in this post, I've
 added the complete data from each of these breakdowns to a separate spreadsheet

@@ -59,6 +59,8 @@ _Since this is my first time using graphs with my stats, I'm definitely open to
 feedback on things that can be better conveyed. Feel free to let me know
 [on Twitter](https://www.twitter.com/jacobvarner)._
 
+{% include ad.html %}
+
 #### 2019-2020 Season
 
 **Record:** 20-2 (through 22 games)
@@ -130,6 +132,8 @@ season. All of this was against the best overall set of opponents that Auburn
 has faced under Bruce Pearl thanks to an invite the Maui Invitational and then a
 run all the way through the SEC Tournament followed by a Final Four appearance.
 
+{% include ad.html %}
+
 # 2017-2018 Season
 
 **Record:** 26-8
@@ -186,6 +190,8 @@ efficiency, and 52.7 net efficiency.
 The Florida game at home in the 26th game of the season was the second worst
 defensive performance of the Bruce Pearl era where Auburn gave up a miserable
 140.7 points per 100 possessions.
+
+{% include ad.html %}
 
 #### 2015-2016 Season
 
@@ -248,10 +254,9 @@ wins in the SEC Tournament for Auburn since the 2008-2009 season under Jeff
 Lebo.
 
 Auburn ran out of gas and met the then undefeated Kentucky Wildcats and their
-net efficiency took a nose dive to end the season in the SEC Tournament
-Semifinal.
+net efficiency took a nose dive to end the season in the SEC Tournament Semifinal.
 
----
+{% include ad.html %}
 
 Again, I think offensive and defensive efficiency are two of the best stats for
 judging teams on a level playing field without overhyping defenses that play

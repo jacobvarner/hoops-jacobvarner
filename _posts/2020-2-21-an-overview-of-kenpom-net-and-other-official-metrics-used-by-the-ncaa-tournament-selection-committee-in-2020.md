@@ -50,6 +50,8 @@ Alongside the NET, which is a combination of both, the five other metrics that
 the NCAA uses are broken into two groups: results based metrics and predictive
 metrics.
 
+{% include ad.html %}
+
 Now, here is an overview of the six metrics included on each team's official
 team sheet:
 
@@ -92,6 +94,8 @@ toughest schedule (and a road win over Kansas) as of 2/20/2020.
 
 Currently, Minnesota has the toughest strength of schedule, but still is ranked
 60th in Strength of Record because they've gone 12-13 against that schedule.
+
+{% include ad.html %}
 
 ### Kevin Pauga Index (KPI)
 
@@ -148,6 +152,8 @@ different strengths of schedule as well as things like "luck" which are
 seemingly factored into the adjustment to the efficiencies that are then used
 for the final ratings and rankings.
 
+{% include ad.html %}
+
 ### ESPN Basketball Power Index (BPI)
 
 The BPI is ESPN's predictive metric that they describe as
@@ -187,7 +193,7 @@ a golden mean ranking of 22, and a recent ranking of 78 which brings the overall
 down quite a bit following two straight double digit losses to bad teams as of
 writing this.
 
----
+{% include ad.html %}
 
 At the end of the day, computer rankings are a major asset for the NCAA
 Tournament selection committee because college basketball in particular has a

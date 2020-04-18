@@ -24,7 +24,7 @@ obviously hard in even a series of tweets, so I’m going to attempt to explain 
 and some other related stats here while also diving more into this data for the
 entire Bruce Pearl era and looking at some interesting standouts.
 
----
+{% include ad.html %}
 
 ### Individual Win-Loss Records Explained
 
@@ -109,7 +109,7 @@ success of the team that year. Because of that, I went on to come up with my own
 stat to better assess players from year to year and I’m tentatively calling in
 win contribution and loss contribution.
 
----
+{% include ad.html %}
 
 ### Win (Loss) Contribution Explained
 
@@ -132,6 +132,8 @@ caveats due to unbalanced schedules and the parity of team.
 
 Anyways, win contributions and loss contributions are my way of showing these
 same ideas just in the context of Auburn basketball.
+
+{% include ad.html %}
 
 ### Win Contributions for the Bruce Pearl Era
 
@@ -165,7 +167,7 @@ play significant minutes can say. TJ Lang and Jordon Granger, the only other
 players to have less than 1 individual loss for the season played 62.0% and
 53.5% of team minutes in 2015–2016.
 
----
+{% include ad.html %}
 
 I hope this post sparks some interest in others and does a good enough job of
 explaining the basis for the stat for those that were confused when I mentioned

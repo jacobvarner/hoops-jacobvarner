@@ -34,6 +34,8 @@ a starter in that game (I realize that there are many things that factor into
 determining starters and that some players contribute more off the bench for
 various reasons).
 
+{% include ad.html %}
+
 ### My Calculation
 
 My method is rather simple, while the calculation is not. In order to award an
@@ -90,6 +92,8 @@ for the season MVP. Chuma Okeke was also less than a percent away from Jared
 Harper's MVP season in 2018-2019 and the last two games could have made a
 difference since Offensive Percentage does not account for missed games when
 looking at a full season.
+
+{% include ad.html %}
 
 ### Most MVPs in a Season from 2010-2020
 
@@ -155,7 +159,7 @@ shows that Brown also had his fair share of cold games with one of the lower
 average MVP placements on this list at 4.69. Brown still had the most games
 played in the decade and second most games where he finished in the top 3.
 
----
+{% include ad.html %}
 
 As of this post, I have just finished adding team and individual game stats
 going back to the 2010-11 season, which means I now have stats for every Tony
