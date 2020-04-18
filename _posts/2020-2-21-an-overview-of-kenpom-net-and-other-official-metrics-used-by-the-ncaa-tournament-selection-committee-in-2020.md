@@ -20,7 +20,7 @@ timeline quite often this time of year, I thought I would try to do my best to
 explain the different metrics and how the NCAA uses them to pick the 68 teams
 that take part in the best sporting event of the year.
 
-## Overview
+### Overview
 
 The NCAA has
 [a nice page explaining their new selection criteria](http://www.ncaa.org/about/resources/media-center/mens-basketball-selections-101-selections)
@@ -53,7 +53,7 @@ metrics.
 Now, here is an overview of the six metrics included on each team's official
 team sheet:
 
-## The NCAA Evaluation Tool (NET)
+### The NCAA Evaluation Tool (NET)
 
 As I mentioned above, the NET is the new official metric of the NCAA and is
 basically an improved replacement for the RPI. The NET is supposed to be a more
@@ -75,7 +75,7 @@ criticize it because the efficiency component is most likely still not capped.
 This is still technically speculation because seemingly no one knows the
 official algorithm used to generate the rankings.
 
-## ESPN Strength of Record
+### ESPN Strength of Record
 
 Strength of Record is one of the two results based metrics that the NCAA uses
 and
@@ -93,7 +93,7 @@ toughest schedule (and a road win over Kansas) as of 2/20/2020.
 Currently, Minnesota has the toughest strength of schedule, but still is ranked
 60th in Strength of Record because they've gone 12-13 against that schedule.
 
-## Kevin Pauga Index (KPI)
+### Kevin Pauga Index (KPI)
 
 The [KPI](https://faktor.ddns.net/#/) is a results based metric developed by now
 Assistant Director of Athletics at Michigan State,
@@ -116,7 +116,7 @@ of the season. Baylor has the best win of the season so far with a 1.13 at
 Kansas while Grand Canyon and Hampton have the worst losses of the season with
 -1.01 results against a non-D1 opponent and Howard, both at home.
 
-## Ken Pomeroy Ratings (KenPom)
+### Ken Pomeroy Ratings (KenPom)
 
 KenPom has been the metric I reference the most on Twitter, mostly because the
 site also provides a ton of other good information for each team. The
@@ -148,7 +148,7 @@ different strengths of schedule as well as things like "luck" which are
 seemingly factored into the adjustment to the efficiencies that are then used
 for the final ratings and rankings.
 
-## ESPN Basketball Power Index (BPI)
+### ESPN Basketball Power Index (BPI)
 
 The BPI is ESPN's predictive metric that they describe as
 ["a measure of team strength that is meant to be the best predictor of performance going forward."](https://www.espn.com/mens-college-basketball/bpi)
@@ -161,7 +161,7 @@ which is used to rank teams.
 Currently, Duke is the overall BPI leader at 18.4 while Gonzaga has the best
 offense (12.9) and West Virginia has the best defense (10.3).
 
-## Sagarin Ratings
+### Sagarin Ratings
 
 Jeff Sagarin's ratings, like KPI, are used for many other sports and therefore
 are not just basketball specific. The ratings also only factor in games against

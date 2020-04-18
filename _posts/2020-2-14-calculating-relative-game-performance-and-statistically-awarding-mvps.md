@@ -12,7 +12,7 @@ as well as rank the overall contribution for each player in each game. As I
 explain throughout the post, each of these metrics offer a fun way to evaluate
 players in the context of singe games, single seasons, or entire careers.
 
-## The Idea
+### The Idea
 
 I got the idea of awarding a "Game MVP" statistically from
 [Ken Pomeroy](https://www.kenpom.com/). However, unlike Pomeroy's site, I award
@@ -34,7 +34,7 @@ a starter in that game (I realize that there are many things that factor into
 determining starters and that some players contribute more off the bench for
 various reasons).
 
-## My Calculation
+### My Calculation
 
 My method is rather simple, while the calculation is not. In order to award an
 MVP and assign relative performance rankings for each game, I just use the
@@ -56,7 +56,7 @@ $$AdjGameScore = \frac{GameScore}{TeamGameScore} * TeamPts$$
 Offensive Percentage is then just each Individual Adjusted Game Score as a
 percentage of the Team Game Score.
 
-## Auburn Basketball MVPs from 2010-2020
+### Auburn Basketball MVPs from 2010-2020
 
 The reason I like the Offensive Percentage stat is because it can easily be
 extended to a full season to show who had the most contribution across all key
@@ -91,7 +91,7 @@ Harper's MVP season in 2018-2019 and the last two games could have made a
 difference since Offensive Percentage does not account for missed games when
 looking at a full season.
 
-## Most MVPs in a Season from 2010-2020
+### Most MVPs in a Season from 2010-2020
 
 While Offensive Percentage certainly does a better job of showing consistency
 throughout the season, it's also worthwhile to take a look at total number of
@@ -123,7 +123,7 @@ Chuma Okeke were quite the three headed attack in 2018-2019 with the three of
 them combining for 31 of the teams game MVPs and all three individually
 finishing in the top 10 for the last decade.
 
-## Total Game MVPs, Top 3s, and Top 5s
+### Total Game MVPs, Top 3s, and Top 5s
 
 Another way I like to get a good overall picture to to look at the players that
 not only have the most MVPs, but also compare the number of times that they

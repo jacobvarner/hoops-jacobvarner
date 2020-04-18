@@ -16,7 +16,7 @@ This post will be much lighter on "analysis" compared to some of my others, but
 I still found it enjoyable breaking the games down by different criteria. A lot
 of the data was expected, but there's some lesser known things in here as well.
 
-## Auburn Basketball by State
+### Auburn Basketball by State
 
 Auburn basketball has played games in 35 of the 50 US States plus Washington,
 D.C., Puerto Rico, and Mexico. Auburn has wins in each of those states except
@@ -37,7 +37,7 @@ records in Kentucky (9-64), Arkansas (5-21), and Ohio (2-5).
 ![Full breakdown of Auburn Basketball by state sorted by games played][image1]
 _Auburn basketball games by state, sorted by total games played_
 
-## Auburn Basketball by City
+### Auburn Basketball by City
 
 Auburn basketball has played in 131 different cities in 114 different seasons of
 basketball going all the way back to the 1905-1906 season. Auburn is undefeated
@@ -59,7 +59,7 @@ records in Lexington (3-50), Knoxville (9-51), Fayetteville (5-21), Tuscaloosa
 ![Auburn Basketball by City][image2] _Auburn Basketball games by city, sorted by
 total games played with at least 10 games_
 
-## Auburn Basketball by Venue
+### Auburn Basketball by Venue
 
 Auburn basketball has played in five different home venues: The Gymnasium
 (1905-1915), Alumni Gym (1915-1946), The Sports Arena (1946-1968),

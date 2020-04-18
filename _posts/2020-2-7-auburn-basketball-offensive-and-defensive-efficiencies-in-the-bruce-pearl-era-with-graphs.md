@@ -21,7 +21,7 @@ is not as big a deal when just looking at one team, but I'll try to note when
 games are against either very good or very bad teams in order to put some of the
 more impressive wins into perspective.
 
-## Explaining Efficiencies and Possessions
+### Explaining Efficiencies and Possessions
 
 Before I get too far into this, I want to give a basic explanation of offensive
 and defensive efficiency. In the most basic sense, each efficiency is just the
@@ -40,7 +40,7 @@ teams, and then averaged out. This isn't always exactly accurate because it's
 just based on the box score, but it allows me to calculate possessions for games
 all the time even if actual possessions were not tracked.
 
-## Overview of my Graphs Used in this Post
+### Overview of my Graphs Used in this Post
 
 Each of the graphs I use in this post all show the offensive efficiency,
 defensive efficiency, and net efficiency (offense minus defense) for each game
@@ -59,7 +59,7 @@ _Since this is my first time using graphs with my stats, I'm definitely open to
 feedback on things that can be better conveyed. Feel free to let me know
 [on Twitter](https://www.twitter.com/jacobvarner)._
 
-# 2019-2020 Season
+#### 2019-2020 Season
 
 **Record:** 20-2 (through 22 games)
 
@@ -93,7 +93,7 @@ KenPom ranking for opponents, but that should improve as Auburn continues to
 face above average teams in conference play and hopefully has a longer post
 season similar to last season.
 
-# 2018-2019 Season
+#### 2018-2019 Season
 
 **Record:** 30-10
 
@@ -159,7 +159,7 @@ possessions). The College of Charleston game came at a perfect time which saved
 Auburn's poor offense of just 84.6 points per 100 possessions and allowed Auburn
 to remain undefeated in opening round NCAA Tournament games.
 
-# 2016-2017 Season
+#### 2016-2017 Season
 
 **Record:** 18-14
 
@@ -187,7 +187,7 @@ The Florida game at home in the 26th game of the season was the second worst
 defensive performance of the Bruce Pearl era where Auburn gave up a miserable
 140.7 points per 100 possessions.
 
-# 2015-2016 Season
+#### 2015-2016 Season
 
 **Record:** 11-20
 
@@ -218,7 +218,7 @@ The very last game of the season was the worst defensively where Auburn gave up
 Tournament. The game was also the worst defensive performance by Auburn in the
 Bruce Pearl era.
 
-# 2014-2015 Season
+#### 2014-2015 Season
 
 **Record:** 15-20
 

@@ -12,11 +12,11 @@ So the idea/reason for this post goes back to a few tweets I had earlier this
 month about the individual win-loss records for Auburn basketball players so far
 this season:
 
-<center>
+<div class="tweet-wrapper">
   <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">Assuming I have the calculation right, I&#39;m getting the following individual W-L for this year&#39;s Auburn major contributers so far:<br><br>Doughty: 1.82 - 0.91<br>Okoro: 2.09 - 0.39<br>McCormick: 1.66 - 0.87<br>Purifoy: 1.59 - 0.43<br>Wiley: 2.07 - 0.14<br>McLemore: 1.49 - 0.15</p>&mdash; Jacob Varner 👨‍💻 🏀 🌮 (@jacobvarner) <a href="https://twitter.com/jacobvarner/status/1219104474414960640?ref_src=twsrc%5Etfw">January 20, 2020</a>
   </blockquote>
-</center>
+</div>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I tried to explain the calculations the in a general since on Twitter, but it’s
@@ -26,7 +26,7 @@ entire Bruce Pearl era and looking at some interesting standouts.
 
 ---
 
-## Individual Win-Loss Records Explained
+### Individual Win-Loss Records Explained
 
 I got the concept of individual win-loss records from advanced analytics pioneer
 Dean Oliver, and specifically his book “Basketball on Paper.” Oliver is mostly
@@ -84,7 +84,7 @@ I use or reference, feel free to leave a comment below or
 [reply on Twitter](https://www.twitter.com/jacobvarner) and I’ll do my best to
 explain it further if I can.
 
-## Individual Win-Loss Records for Auburn Players
+### Individual Win-Loss Records for Auburn Players
 
 To get a sense of what the stat looks like with actual data behind it, here are
 the individual results for the past two seasons:
@@ -111,7 +111,7 @@ win contribution and loss contribution.
 
 ---
 
-## Win (Loss) Contribution Explained
+### Win (Loss) Contribution Explained
 
 My concept of individual win contribution and loss contribution is simply the
 individual wins (losses) divided by the team wins (losses) for that season. In
@@ -133,7 +133,7 @@ caveats due to unbalanced schedules and the parity of team.
 Anyways, win contributions and loss contributions are my way of showing these
 same ideas just in the context of Auburn basketball.
 
-## Win Contributions for the Bruce Pearl Era
+### Win Contributions for the Bruce Pearl Era
 
 Like I mentioned above, win contribution tends to be a good stat for accounting
 for good players on bad teams as shown by KT Harrell having the highest win
