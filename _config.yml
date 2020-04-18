@@ -7,12 +7,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://hoops.jacobvarner.com"
 
-# Twitter username
-twitter_username: jacobvarner
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-41944502-9
-
 # Number of posts per page and url/slug used for pagination
 paginate: 10
 paginate_path: "/page:num/"
