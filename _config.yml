@@ -15,6 +15,9 @@ paginate_path: "/page:num/"
 sass:
   style: compressed
 
+# Include ads?
+show_ads: false
+
 # Build settings
 plugins:
   - jekyll-feed
