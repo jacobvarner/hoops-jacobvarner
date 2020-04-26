@@ -100,7 +100,7 @@ This probably isn't a question that will be answered until basketball is played,
 
 ### Mississippi State Bulldogs
 
-The transfer portal and other forms of departure have not been kind to the Ben Howland as five players have announced they're transferring, four guys have graduated, and three players have declared for the NBA Draft with Nick Weatherspoon and Robert Woodard III already announcing they plan to stay in. All in all, Mississippi State is losing at least seven scholarship players with the potential to lose one more if Reggie Perry decides to stay in the draft.
+The transfer portal and other forms of departure have not been kind to the Ben Howland as five players have announced they're transferring, four guys have graduated, and three players have declared for the NBA Draft with Nick Weatherspoon and Robert Woodard II already announcing they plan to stay in. All in all, Mississippi State is losing at least seven scholarship players with the potential to lose one more if Reggie Perry decides to stay in the draft.
 
 To counter this mass exodus, the Bulldogs will have transfer Tolu Smith available after sitting out last season and have signed a 4-star and 3-star prospect. There are six scholarships remaining for next year's Mississippi State Bulldogs, so limiting this to just one question mark for next season seems like an understatement.
 
