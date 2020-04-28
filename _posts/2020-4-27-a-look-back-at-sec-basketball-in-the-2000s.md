@@ -157,13 +157,13 @@ Like Black Lovell's original inspiration for this, I'm just hoping that I can ke
 
 Thanks for reading, and feel free to let me know [on Twitter](https://www.twitter.com/jacobvarner) if you notice other trends or things that stand out to you.
 
-[image1]: /images/2020-4-27/SEC Basketball Regular Season Wins Each Year from 2000 to 2020.png
-[image2]: /images/2020-4-27/Ranking SEC Basketball Teams By Regular Season Wins Over the Last 5 Years 10 Years and Since 2000 Overall.png
-[image3]: /images/2020-4-27/SEC Basketball Regular Season Conference Wins Each Year from 2000 to 2020.png
-[image4]: /images/2020-4-27/Ranking SEC Basketball Teams By Regular Season Conference Wins Over the Last 5 Years 10 Years and Since 2000 Overall.png
-[image5]: /images/2020-4-27/SEC Tournament Wins Each Year From 2000 to 2019.png
-[image6]: /images/2020-4-27/Ranking SEC Tournament Wins Over the Last 5 Years 10 Years and Since 2000 Overall.png
-[image7]: /images/2020-4-27/SEC Basketball NCAA Tournament Wins Each Year from 2000 to 2019.png
-[image8]: /images/2020-4-27/Ranking SEC Basketball Teams By NCAA Tournament Wins Over the Last 5 Years 10 Years and Since 2000 Overall.png
-[image9]: /images/2020-4-27/SEC Basketball Postseason Status Each Year from 2000 to 2019.png
-[image10]: /images/2020-4-27/Ranking SEC Basketball Teams By Postseason Status Over the Last 5 Years 10 Years and Since 2000 Overall.png
+[image1]: /images/2020-4-27/Image1.png
+[image2]: /images/2020-4-27/Image2.png
+[image3]: /images/2020-4-27/Image3.png
+[image4]: /images/2020-4-27/Image4.png
+[image5]: /images/2020-4-27/Image5.png
+[image6]: /images/2020-4-27/Image6.png
+[image7]: /images/2020-4-27/Image7.png
+[image8]: /images/2020-4-27/Image8.png
+[image9]: /images/2020-4-27/Image9.png
+[image10]: /images/2020-4-27/Image10.png
