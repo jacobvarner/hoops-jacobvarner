@@ -155,7 +155,7 @@ I already have a plan to go back and compare teams based on all time wins, tourn
 
 Like Black Lovell's original inspiration for this, I'm just hoping that I can keep myself entertained in the absence of real basketball content and as a result, I plan to pass some of that entertainment onto others.
 
-Thanks for reading and feel free to let me know [on Twitter](https://www.twitter.com/jacobvarner) if you notice other trends or things that stand out to you.
+Thanks for reading, and feel free to let me know [on Twitter](https://www.twitter.com/jacobvarner) if you notice other trends or things that stand out to you.
 
 [image1]: /images/2020-4-27/SEC Basketball Regular Season Wins Each Year from 2000 to 2020.png
 [image2]: /images/2020-4-27/Ranking SEC Basketball Teams By Regular Season Wins Over the Last 5 Years 10 Years and Since 2000 Overall.png
