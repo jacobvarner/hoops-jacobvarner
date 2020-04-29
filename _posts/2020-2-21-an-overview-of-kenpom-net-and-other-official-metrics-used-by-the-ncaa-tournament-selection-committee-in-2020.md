@@ -1,8 +1,6 @@
 ---
 layout: post
-title:
-  An Overview of KenPom, the NET, and Other Official Metrics Used by the NCAA
-  Tournament Selection Committee in 2020
+title: An overview of KenPom, the NET, and other official metrics used by the NCAA Tournament selection committee in 2020
 author: Jacob Varner
 time_to_read: 10 minutes
 tags: General

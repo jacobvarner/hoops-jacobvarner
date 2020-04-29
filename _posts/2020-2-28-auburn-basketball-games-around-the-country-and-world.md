@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Auburn Basketball Games Around the Country (and World)
+title: Auburn basketball games around the country (and world)
 author: Jacob Varner
 tags: [Auburn, History]
 time_to_read: 4 minutes

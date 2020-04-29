@@ -1,8 +1,6 @@
 ---
 layout: post
-title:
-  Auburn Basketball Offensive and Defensive Efficiencies in the Bruce Pearl Era
-  - With Graphs!
+title: Auburn basketball offensive and defensive efficiencies in the Bruce Pearl era - with graphs!
 author: Jacob Varner
 tags: [Auburn, Stats]
 time_to_read: 9 minutes

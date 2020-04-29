@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Look Back at SEC Basketball in the 2000s - Total Wins, Conference Wins, and Tournament Success
+title: A look back at SEC basketball in the 2000s - total wins, conference wins, and tournament success
 author: Jacob Varner
 tags: [SEC, History]
 time_to_read: 10 minutes

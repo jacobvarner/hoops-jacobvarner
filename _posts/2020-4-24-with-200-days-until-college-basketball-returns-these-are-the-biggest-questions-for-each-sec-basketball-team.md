@@ -1,6 +1,6 @@
 ---
 layout: post
-title: With 200 Days Left Until College Basketball Returns These are the Biggest Questions for Each SEC Basketball Team
+title: With 200 days left until college basketball returns these are the biggest questions for each SEC team
 author: Jacob Varner
 tags: [SEC]
 time_to_read: 20 minutes

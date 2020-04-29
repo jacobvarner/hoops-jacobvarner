@@ -1,8 +1,6 @@
 ---
 layout: post
-title:
-  Breaking Down Individual Win-Loss Records for Auburn Basketball in the Bruce
-  Pearl Era
+title: Breaking down individual win-loss records for Auburn basketball in the Bruce Pearl era
 author: Jacob Varner
 tags: [Auburn, Stats]
 time_to_read: 7 minutes

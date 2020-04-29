@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Calculating Relative Game Performance and Statistically Awarding MVPs
+title: Calculating relative game performance and statistically awarding MVPs
 author: Jacob Varner
 tags: [Auburn, Stats]
 time_to_read: 8 minutes
