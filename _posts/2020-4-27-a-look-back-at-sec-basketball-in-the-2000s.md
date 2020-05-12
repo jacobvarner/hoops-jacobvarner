@@ -157,13 +157,13 @@ Like Black Lovell's original inspiration for this, I'm just hoping that I can ke
 
 Thanks for reading, and feel free to let me know [on Twitter](https://www.twitter.com/jacobvarner) if you notice other trends or things that stand out to you.
 
-[image1]: /images/2020-4-27/Image1.png
-[image2]: /images/2020-4-27/Image2.png
-[image3]: /images/2020-4-27/Image3.png
-[image4]: /images/2020-4-27/Image4.png
-[image5]: /images/2020-4-27/Image5.png
-[image6]: /images/2020-4-27/Image6.png
-[image7]: /images/2020-4-27/Image7.png
-[image8]: /images/2020-4-27/Image8.png
-[image9]: /images/2020-4-27/Image9.png
-[image10]: /images/2020-4-27/Image10.png
+[image1]: {{ "/images/2020-4-27/Image1.png" | relative_url }}
+[image2]: {{ "/images/2020-4-27/Image2.png" | relative_url }}
+[image3]: {{ "/images/2020-4-27/Image3.png" | relative_url }}
+[image4]: {{ "/images/2020-4-27/Image4.png" | relative_url }}
+[image5]: {{ "/images/2020-4-27/Image5.png" | relative_url }}
+[image6]: {{ "/images/2020-4-27/Image6.png" | relative_url }}
+[image7]: {{ "/images/2020-4-27/Image7.png" | relative_url }}
+[image8]: {{ "/images/2020-4-27/Image8.png" | relative_url }}
+[image9]: {{ "/images/2020-4-27/Image9.png" | relative_url }}
+[image10]: {{ "/images/2020-4-27/Image10.png" | relative_url }}

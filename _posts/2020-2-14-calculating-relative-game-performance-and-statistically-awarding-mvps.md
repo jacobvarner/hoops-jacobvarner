@@ -175,6 +175,6 @@ of players, just [let me know on Twitter](https://wwww.twitter.com/jacobvarner).
 
 Thanks for reading and War Eagle!
 
-[image1]: /images/2020-2-14/Auburn Basketball Season MVPs for 2010-2020.png
-[image2]: /images/2020-2-14/Top Ten Game MVPs in a Season for 2010-2020.png
-[image3]: /images/2020-2-14/Most Individual Game MVPs from 2010-2020.png
+[image1]: {{ "/images/2020-2-14/Auburn Basketball Season MVPs for 2010-2020.png" | relative_url }}
+[image2]: {{ "/images/2020-2-14/Top Ten Game MVPs in a Season for 2010-2020.png" | relative_url }}
+[image3]: {{ "/images/2020-2-14/Most Individual Game MVPs from 2010-2020.png" | relative_url }}

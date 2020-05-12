@@ -27,7 +27,7 @@ layout: default
     {% for post in site.posts limit:4 %}
       {% if post.url != page.url %} 
         {% if forloop.index < 4 or found %}
-          <a class="more-posts" href="{{ post.url }}">{{ post.title }}</a>
+          <a class="more-posts" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         {% endif %}
       {% else %}
         {% assign found = true %} 

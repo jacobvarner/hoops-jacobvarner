@@ -4,7 +4,7 @@ title: Jacob Varner's Basketball Blog
 # Website description
 description: >- # this means to ignore newlines until "baseurl:"
 
-# the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/"
 url: "https://hoops.jacobvarner.com"
 
 # Number of posts per page and url/slug used for pagination
@@ -16,7 +16,7 @@ sass:
   style: compressed
 
 # Include ads?
-show_ads: false
+show_ads: true
 
 # Build settings
 plugins:

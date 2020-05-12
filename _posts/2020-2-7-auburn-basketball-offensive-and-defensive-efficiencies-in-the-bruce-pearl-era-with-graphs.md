@@ -269,9 +269,9 @@ Bruce Pearl and I hope the graphs made it more interesting.
 
 War Eagle!
 
-[image1]: /images/2020-2-7/Auburn Basketball Efficiency for the 2014-2015 Season.png
-[image2]: /images/2020-2-7/Auburn Basketball Efficiency for the 2015-2016 Season.png
-[image3]: /images/2020-2-7/Auburn Basketball Efficiency for the 2016-2017 Season.png
-[image4]: /images/2020-2-7/Auburn Basketball Efficiency for the 2017-2018 Season.png
-[image5]: /images/2020-2-7/Auburn Basketball Efficiency for the 2018-2019 Season.png
-[image6]: /images/2020-2-7/Auburn Basketball Efficiency for the 2019-2020 Season.png
+[image1]: {{ "/images/2020-2-7/Auburn Basketball Efficiency for the 2014-2015 Season.png" | relative_url }}
+[image2]: {{ "/images/2020-2-7/Auburn Basketball Efficiency for the 2015-2016 Season.png" | relative_url }}
+[image3]: {{ "/images/2020-2-7/Auburn Basketball Efficiency for the 2016-2017 Season.png" | relative_url }}
+[image4]: {{ "/images/2020-2-7/Auburn Basketball Efficiency for the 2017-2018 Season.png" | relative_url }}
+[image5]: {{ "/images/2020-2-7/Auburn Basketball Efficiency for the 2018-2019 Season.png" | relative_url }}
+[image6]: {{ "/images/2020-2-7/Auburn Basketball Efficiency for the 2019-2020 Season.png" | relative_url }}

@@ -183,6 +183,6 @@ boring.
 
 War Eagle.
 
-[image1]: /images/2020-1-31/image1.png
-[image2]: /images/2020-1-31/image2.png
-[image3]: /images/2020-1-31/image3.png
+[image1]: {{ "/images/2020-1-31/image1.png" | relative_url }}
+[image2]: {{ "/images/2020-1-31/image2.png" | relative_url }}
+[image3]: {{ "/images/2020-1-31/image3.png" | relative_url }}
