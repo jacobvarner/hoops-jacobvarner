@@ -18,6 +18,8 @@ sass:
 # Include ads?
 show_ads: true
 
+future: false
+
 # Build settings
 plugins:
   - jekyll-feed
