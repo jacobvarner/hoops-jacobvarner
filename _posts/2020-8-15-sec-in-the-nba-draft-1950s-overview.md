@@ -152,6 +152,8 @@ The SEC had four players selected to close out the decade with Johnny Cox gettin
 
 Mississippi State's Bailey Howell was picked fourth overall, making him the third and final top-5 pick of the 1950s.
 
+{% include ad-content.html %}
+
 ### Team-by-Team Overview
 
 Throughout the 1950s NBA Drafts, 61 SEC players were taken out of 981 total selections across the ten drafts (6.218%).

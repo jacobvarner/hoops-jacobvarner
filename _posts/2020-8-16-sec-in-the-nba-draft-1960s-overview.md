@@ -150,6 +150,8 @@ Despite a large draft, the current SEC schools only had seven players taken in t
 
 Following Kareem Abdul-Jabbar, Neal Walk out of Florida was drafted second overall by the Phoenix Suns. At the time, this was tied for the highest an SEC player had been taken in a draft.
 
+{% include ad-content.html %}
+
 ### Team-by-Team Overview
 
 Throughout the 1960s, there were 75 players drafted from current SEC schools out of 1,312 total selections (5.716%)
