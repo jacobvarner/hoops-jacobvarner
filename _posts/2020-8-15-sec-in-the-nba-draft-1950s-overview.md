@@ -40,7 +40,7 @@ Yes, the draft formats for the early years didn't make a ton of sense compared t
 
 ![1950 NBA Draft selections from current SEC schools][image1]
 
-Art Burris out of Tennessee officially became the first basketball player drafted into the NBA all the way down at the 28th overall pick in the draft.
+Art Burris out of Tennessee officially became the first SEC basketball player drafted into the NBA all the way down at the 28th overall pick in the draft.
 
 Overall, there were eight players taken from current SEC schools including three from Tennessee and two from Kentucky. Ed Montgomery from Tennessee was the very last pick in the very first NBA Draft.
 
