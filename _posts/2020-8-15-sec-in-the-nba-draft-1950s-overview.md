@@ -10,7 +10,7 @@ With the NBA Draft pushed back this year, among all the other changes, it gave m
 
 <!-- Make sure to check out other posts in this series: -->
 
-<!-- [1960s NBA Drafts - ](% post_url 2020-8-17-sec-in-nba-draft-1960s-overview %}) -->
+<!-- [1960s NBA Drafts](% post_url 2020-8-17-sec-in-nba-draft-1960s-overview %}) -->
 
 <!-- [1970s NBA Drafts](% post_url 2020-8-17-sec-in-nba-draft-1970s-overview %}) -->
 
