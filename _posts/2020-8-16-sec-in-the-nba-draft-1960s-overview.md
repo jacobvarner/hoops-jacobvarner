@@ -50,11 +50,11 @@ The 1961 NBA Draft had 107 total selections with a format that matched previous 
 
 ![1961 NBA Draft selections from current SEC schools][image2]
 
-There were eight players selected from current NBA teams with the Los Angeles Lakers and New York Knicks selecting two SEC players each.
+There were eight players selected from current SEC teams with the Los Angeles Lakers and New York Knicks selecting two SEC players each.
 
 The Chicago Packers (now Washington Wizards) selecting Jerry Graves from Mississippi State was the only SEC player taken in the top-20 picks.
 
-Jack Waters being drafted 85th overall by the Cincinnati Royals (now Sacramento Kings) was the only players from Ole Miss taken in this decade.
+Jack Waters being drafted 85th overall by the Cincinnati Royals (now Sacramento Kings) was the only player from Ole Miss taken in this decade.
 
 {% include ad-content.html %}
 
