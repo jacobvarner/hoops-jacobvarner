@@ -8,9 +8,9 @@ time_to_read: 5 minutes
 
 With the NBA Draft pushed back this year, among all the other changes, it gave me time to go back and get data on every player selected from a current SEC school. The first draft under the NBA was all the way back in 1950, and that's where this series starts. I am going to go over each of the decades leading up to today as well as a final article summarizing the draft history of all fourteen SEC basketball programs.
 
-<!-- Make sure to check out other posts in this series: -->
+Make sure to check out other posts in this series:
 
-<!-- [1960s NBA Drafts](% post_url 2020-8-17-sec-in-nba-draft-1960s-overview %}) -->
+[1960s NBA Drafts](% post_url 2020-8-17-sec-in-nba-draft-1960s-overview %})
 
 <!-- [1970s NBA Drafts](% post_url 2020-8-17-sec-in-nba-draft-1970s-overview %}) -->
 
