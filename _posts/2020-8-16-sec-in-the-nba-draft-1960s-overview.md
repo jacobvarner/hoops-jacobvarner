@@ -6,7 +6,7 @@ tags: [SEC, NBA Draft]
 time_to_read: 5 minutes
 ---
 
-With the NBA Draft pushed back this year, among all the other changes, it gave me time to go back and get data on every player selected from a current SEC school. The first draft under the NBA was all the way back in 1950, and that's where this series starts. I am going to go over each of the decades leading up to today as well as a final article summarizing the draft history of all fourteen SEC basketball programs.
+With the NBA Draft pushed back this year, among all the other changes, it gave me time to go back and get data on every player selected from a current SEC school. The first draft under the NBA was back in 1950, and that's where this series starts. I am going to go over each of the decades leading up to today as well as a final article summarizing the draft history of all fourteen SEC basketball programs.
 
 Make sure to check out other posts in this series:
 
@@ -40,7 +40,7 @@ The 1960 NBA Draft had an even 100 total selections with the first six rounds co
 
 ![1960 NBA Draft selections from current SEC schools][image1]
 
-The current SEC teams had eight players selected in the 1960 NBA Draft with Kentucky having half of the selections. Tennessee, Texas A&M, LSU, and Auburn each had a single player selected as well.
+The current SEC teams had eight players selected in the 1960 NBA Draft with Kentucky having half of the selections. Tennessee, Texas A&M, LSU, and Auburn each had a single-player selected as well.
 
 As the final SEC team remaining without an NBA Draft pick, Auburn finally had a player drafted when Henry Hart was selected by the New York Knicks with the 82nd overall pick.
 
@@ -72,7 +72,7 @@ At the 96th overall pick, Jerry Carlton was the only player drafted out of Arkan
 
 ### 1963 NBA Draft
 
-The 1963 NBA Draft dropped back down to just 84 total selections with a first territorial pick, a first round for the rest of the nine teams to pick, and then six rounds where each team picks once.
+The 1963 NBA Draft dropped back down to just 84 total selections with a first territorial pick, a first-round for the rest of the nine teams to pick, and then six rounds where each team picks once.
 
 ![1963 NBA Draft selections from current SEC schools][image4]
 
@@ -88,7 +88,7 @@ The 1964 NBA Draft had 101 total selections including two territorial picks at t
 
 ![1964 NBA Draft selections from current SEC schools][image5]
 
-With just four players selected from curred SEC schools, the 1964 NBA Draft marked the second fewest SEC players taken in a draft after just three players were taken in the 1954 NBA Draft.
+With just four players selected from curred SEC schools, the 1964 NBA Draft marked the second-fewest SEC players taken in a draft after just three players were taken in the 1954 NBA Draft.
 
 Kentucky, Texas A&M, Missouri, and Tennessee each had one pick with Cotton Nash from Kentucky being drafted by the Los Angeles Lakers with the 14th overall pick.
 
@@ -136,9 +136,9 @@ The 1968 NBA Draft saw another large expansion as there were 214 total selection
 
 The current SEC schools had 12 total players selected in the 1968 NBA Draft with two going in the top-10.
 
-South Carolina had four total picks in this draft including three near the top with Gary Gregor going to the Phoenix Suns at 8, Skip Harlicka going to the Altanta Hawks at 13, and Jack Thompson going to the Baltimore Bullets (now Washington Wizards) at 33.
+South Carolina had four total picks in this draft including three near the top with Gary Gregor going to the Phoenix Suns at 8, Skip Harlicka going to the Atlanta Hawks at 13, and Jack Thompson going to the Baltimore Bullets (now Washington Wizards) at 33.
 
-South Carolina's four total picks in this draft follows up their three players taken in the 1967 NBA Draft.
+South Carolina's four total picks in this draft followed up their three players taken in the 1967 NBA Draft.
 
 ### 1969 NBA Draft
 

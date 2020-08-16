@@ -6,7 +6,7 @@ tags: [SEC, NBA Draft]
 time_to_read: 5 minutes
 ---
 
-With the NBA Draft pushed back this year, among all the other changes, it gave me time to go back and get data on every player selected from a current SEC school. The first draft under the NBA was all the way back in 1950, and that's where this series starts. I am going to go over each of the decades leading up to today as well as a final article summarizing the draft history of all fourteen SEC basketball programs.
+With the NBA Draft pushed back this year, among all the other changes, it gave me time to go back and get data on every player selected from a current SEC school. The first draft under the NBA was back in 1950, and that's where this series starts. I am going to go over each of the decades leading up to today as well as a final article summarizing the draft history of all fourteen SEC basketball programs.
 
 Make sure to check out other posts in this series:
 
@@ -42,7 +42,7 @@ The 1980 NBA Draft had 214 total selections with the first six rounds expanding 
 
 There were 18 players from current SEC schools taken in the 1980 NBA Draft with every school being represented except for Florida.
 
-The San Antonio Spurs got a handful of SEC players in 1980 with four different picks from Tennessee, Georgia, and Arkansas ranging from the 15th pick all the way down to the 209th pick.
+The San Antonio Spurs got a handful of SEC players in 1980 with four different picks from Tennessee, Georgia, and Arkansas ranging from the 15th pick down to the 209th pick.
 
 ### 1981 NBA Draft
 
@@ -62,7 +62,7 @@ The 1982 NBA Draft had 225 total selections.
 
 ![1982 NBA Draft selections from current SEC schools][image3]
 
-From the current SEC schools, 16 players were drafted ranging from the 3rd overall pick all the way down to the 218th pick.
+From the current SEC schools, 16 players were drafted ranging from the 3rd overall pick down to the 218th pick.
 
 Georgia legend and eventual NBA great Dominique Wilkins was taken 3rd overall by the Utah Jazz.
 
@@ -160,7 +160,7 @@ Throughout the 1980s, there were 158 players drafted from current SEC schools ou
 
 ![1980s NBA Drafts team-by-team overview][image11]
 
-Kentucky once again had the most players selected in this decade, but many of the other current SEC programs were right there with them where Alabama, Arkansas, Auburn, Georgia, LSU, Missouri, and Tennessee all had 12 or more picks in the 1980s.
+Kentucky once again had the most players selected in this decade, but many of the other current SEC programs were right there with them were Alabama, Arkansas, Auburn, Georgia, LSU, Missouri, and Tennessee all had 12 or more picks in the 1980s.
 
 Auburn led the way with three top-5 picks throughout the decade and Kentucky also had two in the same range.
 

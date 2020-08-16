@@ -6,7 +6,7 @@ tags: [SEC, NBA Draft]
 time_to_read: 5 minutes
 ---
 
-With the NBA Draft pushed back this year, among all the other changes, it gave me time to go back and get data on every player selected from a current SEC school. The first draft under the NBA was all the way back in 1950, and that's where this series starts. I am going to go over each of the decades leading up to today as well as a final article summarizing the draft history of all fourteen SEC basketball programs.
+With the NBA Draft pushed back this year, among all the other changes, it gave me time to go back and get data on every player selected from a current SEC school. The first draft under the NBA was back in 1950, and that's where this series starts. I am going to go over each of the decades leading up to today as well as a final article summarizing the draft history of all fourteen SEC basketball programs.
 
 Make sure to check out other posts in this series:
 
@@ -112,7 +112,7 @@ The 1976 NBA Draft had 173 total selections with the first four rounds decreasin
 
 There were 11 players drafted from current SEC schools in the 1976 NBA Draft with eight different schools having a player selected.
 
-Alabama led the way, and landed another top-5 pick, when Leon Douglas was taken with the fourth overall pick by the Detroit Pistons.
+Alabama led the way, and landed another top-5 pick when Leon Douglas was taken with the fourth overall pick by the Detroit Pistons.
 
 There were five total players taken in the top-30 of the draft with Butch Feher from Vanderbilt landing just outside that mark at 33.
 
@@ -134,7 +134,7 @@ The 1978 NBA Draft had 202 total selections with the first five rounds once agai
 
 ![1978 NBA Draft selections from current SEC schools][image9]
 
-With 15 players drafted from current SEC schools, the 1978 once again tied the record for most players drafted from current SEC schools in a single draft.
+With 15 players drafted from current SEC schools, the 1978 draft once again tied the record for most players drafted from current SEC schools in a single draft.
 
 Kentucky had four different players drafted, led by Rick Robey going third overall to the Indiana Pacers, with all four of them being selected in the top-50 picks.
 

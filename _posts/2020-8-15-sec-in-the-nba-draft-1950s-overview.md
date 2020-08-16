@@ -6,7 +6,7 @@ tags: [SEC, NBA Draft]
 time_to_read: 5 minutes
 ---
 
-With the NBA Draft pushed back this year, among all the other changes, it gave me time to go back and get data on every player selected from a current SEC school. The first draft under the NBA was all the way back in 1950, and that's where this series starts. I am going to go over each of the decades leading up to today as well as a final article summarizing the draft history of all fourteen SEC basketball programs.
+With the NBA Draft pushed back this year, among all the other changes, it gave me time to go back and get data on every player selected from a current SEC school. The first draft under the NBA was back in 1950, and that's where this series starts. I am going to go over each of the decades leading up to today as well as a final article summarizing the draft history of all fourteen SEC basketball programs.
 
 Make sure to check out other posts in this series:
 
@@ -36,13 +36,13 @@ The total number of selections in each draft also differs, so I will indicate ho
 
 ### 1950 NBA Draft
 
-The 1950 NBA Draft consisted of 121 total picks with a single territorial pick to start it off, a first round with 11 picks, eight more rounds with 12 picks, a tenth round with ten picks, and an 11th and 12th round with two and one pick respectively.
+The 1950 NBA Draft consisted of 121 total picks with a single territorial pick to start it off, a first-round with 11 picks, eight more rounds with 12 picks, the tenth round with ten picks, and an 11th and 12th rounds with two picks and one pick respectively.
 
 Yes, the draft formats for the early years didn't make a ton of sense compared to the modern standard.
 
 ![1950 NBA Draft selections from current SEC schools][image1]
 
-Art Burris out of Tennessee officially became the first SEC basketball player drafted into the NBA all the way down at the 28th overall pick in the draft.
+Art Burris out of Tennessee officially became the first SEC basketball player drafted into the NBA down at the 28th overall pick in the draft.
 
 Overall, there were eight players taken from current SEC schools including three from Tennessee and two from Kentucky. Ed Montgomery from Tennessee was the very last pick in the very first NBA Draft.
 
@@ -60,17 +60,17 @@ The Tri-Cities Blackhawks (now Atlanta Hawks) favored SEC teams by selecting hal
 
 ### 1952 NBA Draft
 
-The 1952 NBA Draft had 106 total selections but after the first territorial pick and a first round of just nine picks, each of the following nine following rounds had just one or two picks each and there was a large pool of players selected by teams picking all of their picks at once.
+The 1952 NBA Draft had 106 total selections but after the first territorial pick and the first round of just nine picks, each of the following nine following rounds had just one or two picks each and there was a large pool of players selected by teams picking all of their picks at once.
 
 ![1952 NBA Draft selections from current SEC schools][image3]
 
 There were nine total players selected from current SEC schools with Joe Dean out of LSU being first at the fifth overall pick in the draft.
 
-As LSU's first ever NBA Draft pick, Joe Dean also became the first SEC player selected in the top-5.
+As LSU's first-ever NBA Draft pick, Joe Dean also became the first SEC player selected in the top-5.
 
 ### 1953 NBA Draft
 
-The 1953 NBA Draft had 122 total selections starting with two territorial picks, a first round of seven picks, 11 rounds of two or three picks, and then another large pool of extra picks at the end.
+The 1953 NBA Draft had 122 total selections starting with two territorial picks, the first round of seven picks, 11 rounds of two or three picks, and then another large pool of extra picks at the end.
 
 ![1953 NBA Draft selections from current SEC schools][image4]
 
@@ -108,7 +108,7 @@ This was Ole Miss's fist NBA Draft pick and through six NBA Drafts, only Auburn 
 
 ### 1956 NBA Draft
 
-The 1956 NBA Draft had 92 total selections with a territorial pick first, then a first round of seven picks followed by nine rounds with one pick each and the remaining players selected in a large pool of "other picks."
+The 1956 NBA Draft had 92 total selections with a territorial pick first, then the first round of seven picks followed by nine rounds with one pick each and the remaining players selected in a large pool of "other picks."
 
 ![1956 NBA Draft selections from current SEC schools][image7]
 
@@ -118,7 +118,7 @@ The Minneapolis Lakers (now Los Angeles Lakers) used three of their 13 picks in 
 
 ### 1957 NBA Draft
 
-The 1957 NBA Draft had 85 total selections with the first six rounds consisting of one pick for each of the eight teams followed by final rounds where the teams picking dwindled down round after round.
+The 1957 NBA Draft had 85 total selections with the first six rounds consisting of one pick for each of the eight teams followed by final rounds where the teams picking dwindled round after round.
 
 Despite teams picking once per round for the first several rounds, there was still no snake order to the draft so the Cincinnati Royals (now Sacramento Kings) picked first in each of the first twelve rounds.
 
@@ -132,7 +132,7 @@ The Boston Celtics selected three of the five players from the SEC taken in the 
 
 ### 1958 NBA Draft
 
-The 1958 NBA Draft had 88 total selections with the format being very similar to the previous year's draft with the addition of a single territorial pick to start off the selections.
+The 1958 NBA Draft had 88 total selections with the format being very similar to the previous year's draft with the addition of a single territorial pick to start the selections.
 
 ![1958 NBA Draft selections from current SEC schools][image9]
 
