@@ -2,7 +2,23 @@
 title: Jacob Varner's Basketball Blog
 
 # Website description
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
+  Jacob Varner's personal blog for all things basketball with a focus on stats
+  and analysis for Auburn and the SEC.
+
+# Author for Twitter summary card
+author:
+  twitter: jacobvarner
+
+# Set default image and other fallbacks
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /images/logo-black-on-white.png
+        height: 400
+        width: 400
 
 baseurl: "/"
 url: "https://hoops.jacobvarner.com"
