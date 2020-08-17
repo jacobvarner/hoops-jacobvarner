@@ -4,29 +4,30 @@ title: Auburn basketball games around the country (and world)
 author: Jacob Varner
 tags: [Auburn, History]
 time_to_read: 4 minutes
+description: A complete look at the many different places Auburn has played basketball games all across America and the world.
 ---
 
 I just recently finished adding the game locations and other information to my
 Auburn basketball spreadsheet, so I decided to pull some data on games by city,
-state, and venue. Some of this data is still incomplete, because I have yet to
-figure out where some games were played in the early 1900's and in some cases, I
+state, and venue. Some of this data is still incomplete because I have yet to
+figure out where some games were played in the early 1900s, and in some cases, I
 can't find whether games were even played on the road or at home.
 
 This post will be much lighter on "analysis" compared to some of my others, but
 I still found it enjoyable breaking the games down by different criteria. A lot
-of the data was expected, but there's some lesser known things in here as well.
+of the data was expected, but there are some lesser-known things in here as well.
 
 ### Auburn Basketball by State
 
 Auburn basketball has played games in 35 of the 50 US States plus Washington,
-D.C., Puerto Rico, and Mexico. Auburn has wins in each of those states except
+D.C., Puerto Rico, and Mexico. Auburn has won in each of those states except
 for Alaska (0-3), Colorado (0-2), New Mexico (0-1), Wisconsin (0-1),
 Massachusetts (0-1), and Iowa (0-1).
 
 Auburn has played more than 100 games in Louisiana (123 games), Florida (130),
 Mississippi (139), Tennessee (178), Georgia (229), and Alabama (1,437). Auburn
 has a losing record in each of those states except for Alabama where the Tigers
-have won 65.81% of their games all time.
+have won 65.81% of their games all-time.
 
 Auburn is undefeated in Washington, DC (9-0), West Virginia (3-0), and Maryland
 (2-0). The Tigers are also 11-1 in Puerto Rico and 5-1 in Utah.
@@ -42,10 +43,10 @@ _Auburn basketball games by state, sorted by total games played_
 ### Auburn Basketball by City
 
 Auburn basketball has played in 131 different cities in 114 different seasons of
-basketball going all the way back to the 1905-1906 season. Auburn is undefeated
+basketball going back to the 1905-1906 season. Auburn is undefeated
 in 30 of those cities and winless in 33 of them.
 
-For the most part, Auburn has played most of their games in current SEC cities.
+For the most part, Auburn has played most of its games in current SEC cities.
 Auburn has played 50 or more games in Lexington (53), Knoxville (60), Tuscaloosa
 (62), Oxford (66), Starkville (70), Baton Rouge (74), Gainesville (77), Athens
 (86), Birmingham (88), Nashville (91), Atlanta (113), and Auburn (1,197).
@@ -88,11 +89,11 @@ Atlanta Athletic Club (1-12), Kentucky's Rupp Arena (3-30), Georgia Tech's
 Heisman Gymnasium (2-15), Alabama's Foster Auditorium (1-7), Tennessee's Stokely
 Center (3-19), and Tennessee's Thompson-Boling Arena (3-18).
 
-Auburn basketball's best home venues by record are The Sports Arena (165-54,
+Auburn basketball's best home venues, by winning percentage, are The Sports Arena (165-54,
 75.34%), Auburn Arena (115-53, 68.45%), Beard-Eaves-Memorial Coliseum (392-181,
 68.41%), The Gymnasium (27-13, 67.50%), and Alumni Gym (124-73, 62.94%).
 
-![Auburn Basketball by Venue][image3] _Auburn Basketball games by venue, sorted
+![Auburn Basketball by Venue][image3] _Auburn Basketball games by the venue, sorted
 by total games played with at least 15 games_
 
 {% include ad-content.html %}

@@ -4,6 +4,7 @@ title: "SEC in the NBA Draft: 1960s Overview"
 author: Jacob Varner
 tags: [SEC, NBA Draft]
 time_to_read: 5 minutes
+description: A complete rundown of all NBA Draft picks from current SEC basketball schools throughout the 1960s decade.
 ---
 
 With the NBA Draft pushed back this year, among all the other changes, it gave me time to go back and get data on every player selected from a current SEC school. The first draft under the NBA was back in 1950, and that's where this series starts. I am going to go over each of the decades leading up to today as well as a final article summarizing the draft history of all fourteen SEC basketball programs.

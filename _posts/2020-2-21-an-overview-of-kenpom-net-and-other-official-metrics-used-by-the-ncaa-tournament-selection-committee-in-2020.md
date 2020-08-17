@@ -3,7 +3,8 @@ layout: post
 title: An overview of KenPom, the NET, and other official metrics used by the NCAA Tournament selection committee in 2020
 author: Jacob Varner
 time_to_read: 10 minutes
-tags: General
+tags: NCAA Tournament
+description: The NCAA Tournament selection committee uses a handful of evaluation metrics, such as KenPom, the NET, strength of record, and others, and this is how they work.
 ---
 
 A few years ago, the NCAA officially ditched the RPI (finally) and introduced a
@@ -22,7 +23,7 @@ that take part in the best sporting event of the year.
 
 The NCAA has
 [a nice page explaining their new selection criteria](http://www.ncaa.org/about/resources/media-center/mens-basketball-selections-101-selections)
-if you want to double check the things I cover, but I am going to try to go into
+if you want to double-check the things I cover, but I am going to try to go into
 more detail and also explain the other five metrics that they officially use.
 
 At the end of the day, there is still a group of people deciding which teams
@@ -32,20 +33,20 @@ indicate what seed a team will receive, which isn't the case at all. There are
 no rankings that seed the tournament on their own.
 
 The selection committee officially uses the NET, ESPN's Strength of Record and
-BPI, KPI, KenPom, and the Sagarin rankings to evaluate each team. The NET is
+BPI, KPI, KenPom, and Sagarin rankings to evaluate each team. The NET is
 also used with a new quadrant system that categorizes wins and losses as Quad 1,
 2, 3 or 4 games based on the ranking of the opponent and where the game is
 played.
 
-The committee has also said they they do take player's missing games into
+The committee has also said that they take a player's missing games into
 consideration as long as the player is back for the NCAA Tournament. I have not
-seen any specifics on how exactly they take this into consideration, but it's
+seen any specifics on how exactly they consider this, but it's
 safe to say a team that loses a few games while a top player is out is seen as
 more favorable than a team with a similar resume or slightly resume that didn't
 lose any key players to injury.
 
 Alongside the NET, which is a combination of both, the five other metrics that
-the NCAA uses are broken into two groups: results based metrics and predictive
+the NCAA uses are broken into two groups: results-based etrics and predictive
 metrics.
 
 {% include ad-content.html %}
@@ -56,8 +57,7 @@ team sheet:
 ### The NCAA Evaluation Tool (NET)
 
 As I mentioned above, the NET is the new official metric of the NCAA and is
-basically an improved replacement for the RPI. The NET is supposed to be a more
-modern metric that includes "the Team Value index, which is based on game
+an improved replacement for the RPI. The NET is supposed to be a modernized metric that includes "the Team Value Index, which is based on game
 results and factors game location, the opponent and outcome, as well as net
 efficiency, winning percentage, adjusted winning percentage, and a capped
 scoring margin."
@@ -97,20 +97,20 @@ Currently, Minnesota has the toughest strength of schedule, but still is ranked
 
 ### Kevin Pauga Index (KPI)
 
-The [KPI](https://faktor.ddns.net/#/) is a results based metric developed by now
+The [KPI](https://faktor.ddns.net/#/) is a results-based metric developed by now
 Assistant Director of Athletics at Michigan State,
 [Kevin Pauga](https://www.kpisports.net/about/). The KPI started as a large
 Excel sheet and has developed into a comprehensive metric used by college
-basketball and other sports over the last decade plus.
+basketball and other sports over the last decade-plus.
 
 The KPI assigns a value for each game based on the opponent and location and
-then uses the aggregate of each games score to rank teams. For instance,
+then uses the aggregate of each game's score to rank teams. For instance,
 Auburn's best win of the season was 0.77 at Mississippi State while their worst
 loss was -0.11 at Missouri. Auburn currently sits in 5th overall with a rating
 of 0.367, just 0.001 ahead of both Villanova and Creighton at 0.366 as of
 2/20/2020.
 
-Each team also has a rating for strength of schedule, overall differential,
+Each team also has a rating for the strength of schedule, overall differential,
 offensive differential, and defensive differential.
 
 Because each game is assigned a score, it's easy to see the best wins and losses
@@ -129,8 +129,8 @@ and they are
 In the most basic sense, KenPom ranks teams based on the difference between
 their adjusted offensive efficiency and adjusted defensive efficiency. KenPom
 does not disclose his exact formula, but it adjusts each teams efficiency (how
-many points they score or give up per 100 possessions) to account for the level
-of competition they have played.
+many points they score or give up, per 100 possessions) to account for the level
+of the competition they have played.
 
 This means that how efficient a team is is more important than results and hence
 why the rankings are supposed to be an indication of how a team will perform in
@@ -139,11 +139,11 @@ win means that a team has a higher offensive efficiency than defensive
 efficiency for the game, but wins (even over good teams) don't always lead to
 big jumps in the rankings, especially later in the season.
 
-KenPom also allows for pretty easy comparison between teams from year to year.
+KenPom also allows for easy comparisons between teams from year to year.
 For instance, Kansas is the best KenPom team with an adjusted net efficiency of
 +30.99 as of me writing this. However, they would only be the 3rd best team last
-year with that efficiency. In fact, the top 8 teams at the end of last season
-are "better" than the second best team this season (Baylor, +27.54).
+year with that efficiency. The top 8 teams at the end of last season
+are "better" than the second-best team this season (Baylor, +27.54).
 
 Like many of the other advanced metrics, KenPom also has a calculation for
 different strengths of schedule as well as things like "luck" which are
@@ -158,7 +158,7 @@ The BPI is ESPN's predictive metric that they describe as
 ["a measure of team strength that is meant to be the best predictor of performance going forward."](https://www.espn.com/mens-college-basketball/bpi)
 
 I have not been able to find a detailed description of how the BPI is calculated
-or what it's mostly based on, but it is at least broken down into an two metrics
+or what it's mostly based on, but it is at least broken down into two metrics
 for offense and defense that are added together to get the actual BPI rating
 which is used to rank teams.
 
@@ -168,7 +168,7 @@ offense (12.9) and West Virginia has the best defense (10.3).
 ### Sagarin Ratings
 
 Jeff Sagarin's ratings, like KPI, are used for many other sports and therefore
-are not just basketball specific. The ratings also only factor in games against
+are not just basketball-specific. The ratings also only factor in games against
 D1 opponents. Sagarin's ratings are a predictive metric, and he even says that
 to predict the outcome of a given game, just compare the two team's ratings and
 then simply add an adjustment to the home team (the exact amount for adjustment
@@ -177,8 +177,8 @@ changes as the season goes based on more data gathered).
 I do not reference Sagarin as often and am not as familiar with the ratings, but
 you can get a pretty good explanation
 [directly on the site](https://www.usatoday.com/sports/ncaab/sagarin/). Like
-others, Sagarin has his own rating for schedule which ranks teams based on
-strength of schedule.
+others, Sagarin has his rating for a schedule which ranks teams based on the overall
+strength of opponents.
 
 Sagarin has three ratings that are combined to create the overall rating for
 each team: a predictor rating based on expected future scores, a golden mean
@@ -188,30 +188,29 @@ trends for a team.
 
 As an example, Auburn is currently 44th overall, with a predictor ranking of 28,
 a golden mean ranking of 22, and a recent ranking of 78 which brings the overall
-down quite a bit following two straight double digit losses to bad teams as of
+down quite a bit following two straight double-digit losses to bad teams as of
 writing this.
 
 {% include ad-content.html %}
 
 At the end of the day, computer rankings are a major asset for the NCAA
-Tournament selection committee because college basketball in particular has a
-large number of teams competing against each other and with just 30ish regular
+Tournament selection committee because college basketball, in particular, has a large number of teams competing against each other and with just 30ish regular
 season games to consider, schedules are certainly not going to overlap much.
 Computer rankings and metrics allow for teams to be normalized and easily
 compared based on many different factors.
 
 The NCAA selection committee uses six different metrics (and two different types
 of metrics) because each one looks at different things and the rankings can be
-quite different across the board. If the committee only went of KPI for example,
-Auburn would be the top 2 seed and has been a 1 seed for most of recent weeks.
+quite different across the board. If the committee only went off of KPI for example,
+Auburn would be the top two-seed and has been a one-seed for most of the recent weeks.
 However, based on Sagarin, Auburn would barely be an 11 seed in the tournament.
 
 The committee looks at each of these metrics to get a sense of how good a team
-is but then still look ats head to head results, "the eye test", and other
+is, but then still look at its head to head results, "the eye test," and other
 things as I mentioned at the top.
 
-One thing definitely not factored into this is human opinion polls like the AP
-and Coaches poll. Those polls are great for teams to market and TV networks to
+Human opinion polls like the AP
+and Coaches poll are not factored into this. Those polls are great for teams to market and TV networks to use to
 put numbers by team names, but at the end of the season, they are pretty much
 meaningless.
 

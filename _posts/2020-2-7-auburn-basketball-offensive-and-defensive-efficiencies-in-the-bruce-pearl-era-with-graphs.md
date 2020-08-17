@@ -4,19 +4,20 @@ title: Auburn basketball offensive and defensive efficiencies in the Bruce Pearl
 author: Jacob Varner
 tags: [Auburn, Stats]
 time_to_read: 9 minutes
+description: Calculating offensive and defensive efficiencies to evaluate every Auburn basketball team in the Bruce Pearl era using visual comparisons.
 ---
 
-One of the most essential "advanced metrics" that I (and a lot of people) use to
-judge teams is offensive and defensive efficiency. It's a common metric for
-comparing NBA teams and is also useful in college basketball, although, as with
-a lot of things, the majorly unbalanced schedules in college cause there to be
+The most essential advanced metrics that I (and a lot of people) use to
+judge teams are offensive and defensive efficiency. They're both common metrics for
+comparing NBA teams and are also useful in college basketball, although, as with
+a lot of things, the unbalanced schedules in college cause there to be
 some caveats.
 
-I don't have near the amount of data as [Ken Pomeroy](https://www.kenpomery.com)
+I don't have near the amount of data as [Ken Pomeroy](https://www.kenpom.com)
 or other bigger sites, so my offensive and defensive efficiencies (also called
 ratings) don't factor in opponents, so they're NOT adjusted efficiencies. This
 is not as big a deal when just looking at one team, but I'll try to note when
-games are against either very good or very bad teams in order to put some of the
+games are against either very good or very bad teams to put some of the
 more impressive wins into perspective.
 
 ### Explaining Efficiencies and Possessions
@@ -44,16 +45,16 @@ Each of the graphs I use in this post all show the offensive efficiency,
 defensive efficiency, and net efficiency (offense minus defense) for each game
 of the season. I've also plotted a line that is a running average of the
 offensive and defensive efficiencies as the season progresses. With this, a game
-with a higher offensive efficiency than defensive efficiency is a win for Auburn
-and any games for both metrics above the average are "good" games at that point
+with higher offensive efficiency than defensive efficiency is a win for Auburn
+, and any games for both metrics above the average are "good" games at that point
 in the season.
 
 The offensive efficiencies are in green while the defensive efficiencies are in
 red. The yellow line at the bottom is the net efficiency which shows whether
 Auburn won or loss if it is positive or negative, as well as the margin of
-victory or margin of defeat in a tempo free way.
+victory or margin of defeat in a tempo-free way.
 
-_Since this is my first time using graphs with my stats, I'm definitely open to
+_Since this is my first time using graphs with my stats, I'm open to
 feedback on things that can be better conveyed. Feel free to let me know
 [on Twitter](https://www.twitter.com/jacobvarner)._
 
@@ -74,14 +75,14 @@ feedback on things that can be better conveyed. Feel free to let me know
 ![Auburn Basketball Efficiency for the 2019-2020 Season][image6]
 
 I've mentioned several times on Twitter that the Alabama and Florida games this
-season were major outliers. In fact, they were two of the worst offensive games
+season were major outliers. They're two of the worst offensive games
 Auburn has played individually in the Bruce Pearl era and were the worst
 back-to-back games during his tenure. As a result, the net efficiency also takes
 a big dip in those games.
 
 Another game of note is the win over Cal State Northridge where Auburn had the
-second best offensive efficiency in the Bruce Pearl era with 141.7 points per
-100 possessions as well as the fifth best net efficiency at 56.2.
+second-best offensive efficiency in the Bruce Pearl era with 141.7 points per
+100 possessions as well as the fifth-best net efficiency at 56.2.
 
 While this is the first season since 2015-2016 that the offensive efficiency for
 the season hasn't improved on the previous year, the current season average for
@@ -90,7 +91,7 @@ defensive efficiency is the best in the Bruce Pearl era by almost 5 points at
 
 Currently, Auburn doesn't have the best strength of schedule based on average
 KenPom ranking for opponents, but that should improve as Auburn continues to
-face above average teams in conference play and hopefully has a longer post
+face above-average teams in conference play and hopefully has a longer post
 season similar to last season.
 
 #### 2018-2019 Season
@@ -109,7 +110,7 @@ season similar to last season.
 
 The 2018-2019 season was much more up or down, especially at the beginning of
 the season, and that can be seen by the very jagged lines for both offensive and
-defensive efficiency. However, the team clearly got hot at the perfect time
+defensive efficiency. However, the team got hot at the perfect time
 three games with over a 20 net efficiency in the SEC and NCAA Tournaments
 against Tennessee, Kansas, and North Carolina.
 
@@ -121,14 +122,14 @@ Peter's game was the best net efficiency performance in the Bruce Pearl era
 game was the best defensive efficiency performance in the Bruce Pearl era.
 
 The 140.7 offensive efficiency in the first game of the season against South
-Alabama is the second best offensive performance in the Bruce Pearl era (against
+Alabama is the second-best offensive performance in the Bruce Pearl era (against
 a team ranked 174 in KenPom at the time).
 
 Overall, the 2018-2019 team posted the best offensive efficiency for a season in
 the Bruce Pearl era and the best defensive efficiency for a season up until this
 season. All of this was against the best overall set of opponents that Auburn
-has faced under Bruce Pearl thanks to an invite the Maui Invitational and then a
-run all the way through the SEC Tournament followed by a Final Four appearance.
+has faced under Bruce Pearl thanks to an invite to the Maui Invitational and then a
+run through the SEC Tournament followed by a Final Four appearance.
 
 {% include ad-content.html %}
 
@@ -147,7 +148,7 @@ run all the way through the SEC Tournament followed by a Final Four appearance.
 ![Auburn Basketball Efficiency for the 2017-2018 Season][image4]
 
 The 2017-2018 team was off to a similar start to the 2019-2020 team but then you
-can clearly see where Anfernee McLemore went down with a season ending injury in
+can see where Anfernee McLemore went down with a season-ending injury in
 the 27th game against South Carolina.
 
 Auburn's best offensive game of the season came in game five against Winthrop
@@ -185,7 +186,7 @@ Auburn's biggest win of the year came against Coastal Carolina and former coach
 Cliff Ellis where Auburn posted a 137.0 offensive efficiency, 84.3 defensive
 efficiency, and 52.7 net efficiency.
 
-The Florida game at home in the 26th game of the season was the second worst
+The Florida game at home in the 26th game of the season was the second-worst
 defensive performance of the Bruce Pearl era where Auburn gave up a miserable
 140.7 points per 100 possessions.
 
@@ -212,10 +213,10 @@ Auburn still finished with the worst record under Bruce Pearl and worst season
 record since Tony Barbee's team in 2012-2013.
 
 Despite a lot of bad performances on both ends of the court, Auburn still posted
-the third best offensive performance under Bruce Pearl with 140.6 points per 100
+the third-best offensive performance under Bruce Pearl with 140.6 points per 100
 possession against Northwestern State in the fourth game of the season. The game
 was the best offensive performance of the year and was 25.2 points per 100
-possessions better than every other game the rest of the season.
+possessions better than every other game for the rest of the season.
 
 The very last game of the season was the worst defensively where Auburn gave up
 141.0 points per 100 possessions against Tennessee in the first round of the SEC
@@ -237,7 +238,7 @@ Bruce Pearl era.
 ![Auburn Basketball Efficiency for the 2014-2015 Season][image1]
 
 If you look at the averages for offensive and defensive efficiency as the year
-went on, it's pretty clear the the 2014-2015 was pretty even on both ends of the
+went on, it's pretty clear that the 2014-2015 team was pretty even on both ends of the
 court but couldn't put both sides together very often (until the end of the
 year).
 
@@ -245,13 +246,13 @@ Right before the end of the regular season, Auburn posted four straight games
 with offensive efficiencies below 100. It looked like it was going to be a rough
 ending for Bruce Pearl's first season at Auburn.
 
-However, the Tigers actually turned up the defense in the SEC Tournament with
+However, the Tigers turned up the defense in the SEC Tournament with
 three games at 95.2, 84.0, and 95.0 points allowed per 100 possessions on the
 way to wins over Mississippi State, Texas A&M, and LSU. Those would be the first
 wins in the SEC Tournament for Auburn since the 2008-2009 season under Jeff
 Lebo.
 
-Auburn ran out of gas and met the then undefeated Kentucky Wildcats and their
+Auburn ran out of gas and met the then-undefeated Kentucky Wildcats and their
 net efficiency took a nose dive to end the season in the SEC Tournament Semifinal.
 
 {% include ad-content.html %}
