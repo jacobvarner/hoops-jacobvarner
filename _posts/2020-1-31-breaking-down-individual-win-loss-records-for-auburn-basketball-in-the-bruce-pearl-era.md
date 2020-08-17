@@ -4,6 +4,7 @@ title: Breaking down individual win-loss records for Auburn basketball in the Br
 author: Jacob Varner
 tags: [Auburn, Stats]
 time_to_read: 7 minutes
+description: Adapting John Oliver's individual win-loss advanced stat and applying it to Auburn basketball players in the Bruce Pearl era.
 ---
 
 So the idea/reason for this post goes back to a few tweets I had earlier this
@@ -17,8 +18,8 @@ this season:
 </div>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I tried to explain the calculations the in a general since on Twitter, but it’s
-obviously hard in even a series of tweets, so I’m going to attempt to explain it
+I tried to explain the calculations in a general sense on Twitter, but it’s
+difficult, even in even a series of tweets, so I’m going to attempt to explain it
 and some other related stats here while also diving more into this data for the
 entire Bruce Pearl era and looking at some interesting standouts.
 
@@ -32,7 +33,7 @@ associated with the NBA, and so some things don’t directly translate to colleg
 especially in the context of one team, in my case.
 
 Anyways, in my most basic explanation, individual win-loss records are supposed
-to show how much each individual player contributed to the wins and losses of
+to show how much each player contributed to the wins and losses of
 the season. The best players should contribute more wins and less losses. While
 not practical, I like to think of this stat as showing what a teams record would
 be if you just had five of that one player playing all season.
@@ -51,10 +52,10 @@ James, is:
 $$IndWin\% = \frac{ORtg^2}{ORtg^2 + DRtg^2}$$
 
 The “games responsible for” stat is a little more complex, and I had to make
-some slight modifications to make it fit to Auburn and the data that I have
+some slight modifications to make it fit Auburn and the data that I have
 available to me. Oliver uses four different metrics, percentage of team
 offensive possessions contributed to, percentage of team defensive stops made,
-percentage of team minutes played, and percentage of team games started. Oliver
+percentage of team minutes played, and the percentage of team games started. Oliver
 gives more weight to the first two for reasons he explains in his book.
 
 When I was getting these to work for Auburn, I found that the percentage of
@@ -93,7 +94,7 @@ _2019-2020 Season (Through 20 games)_
 ![Individual Win-Loss Records for Auburn basketball's major contributors in the 2018-2020 season][image2]
 _2018-2019 Season (40 games)_
 
-I’ve sorted each of these tables by the games responsible for, the it should be
+I’ve sorted each of these tables by the games responsible for, and they should be
 in order of the most impactful player, whether they contribute in a good way or
 bad way, they’re making the most contribution.
 
@@ -121,12 +122,12 @@ to Win Shares. Win Shares are also pretty complicated, but if you’re intereste
 they’re explained fairly well
 [here](https://www.basketball-reference.com/about/ws.html).
 
-The reason I do not calculate Win Shares if mainly because they (like other
+The reason I do not calculate Win Shares is mainly because they (like other
 advanced NBA stats) rely on a value for league averages in a few key stats.
 Because the NBA is a 30 team league, averages are pretty readily available. If I
 was using this for college stats, I could use an SEC average or an entire NCAA
 average, but I don’t think that is very practical and would have a lot more
-caveats due to unbalanced schedules and the parity of team.
+caveats due to unbalanced schedules and the parity of the team's schedule.
 
 Anyways, win contributions and loss contributions are my way of showing these
 same ideas just in the context of Auburn basketball.
@@ -159,7 +160,7 @@ list despite the team winning 30 games that season. This stat would also
 probably be even more impressive for Chuma since he missed 2 of the games that
 are still counted against him in win contribution and games responsible for.
 
-Also of note, Isaac Okoro is on pace to match Chuma Okeke and stay well under 1
+Also of note, Isaac Okoro is on pace to match Chuma Okeke and stay well under one
 individual loss for the season, which is not something that many players that
 play significant minutes can say. TJ Lang and Jordon Granger, the only other
 players to have less than 1 individual loss for the season played 62.0% and
@@ -176,7 +177,7 @@ least by the end of the season.
 This is the first post of me explaining some of the more involved stats I
 calculate and Tweet about, but if you have any others in the past or future that
 you have questions about, let me know and I might dedicate a full post to them
-as well. I also plan on doing more visual analysis in the near future.
+as well. I also plan on doing more visual analysis soon.
 
 Thanks for reading, and hopefully my stupid obsession with numbers isn’t too
 boring.
