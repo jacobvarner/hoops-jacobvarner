@@ -34,7 +34,11 @@ sass:
 # Include ads?
 show_ads: true
 
+# Set whether future dated posts are included or not
 future: false
+
+# Set timezone for site generation
+timezone: America/Chicago
 
 # Build settings
 plugins:
