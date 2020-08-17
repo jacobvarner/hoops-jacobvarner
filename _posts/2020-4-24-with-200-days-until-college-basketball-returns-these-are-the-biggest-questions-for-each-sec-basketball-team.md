@@ -19,7 +19,7 @@ Outside of that, these are the biggest decisions left to be made and questions I
 
 ### Alabama Crimson Tide
 
-Alabama, and second-year head coach Nate Oats, have already made a splash in the last few weeks by picking up big commitments from key high school prospects and important transfers. As I write this, Alabama has already signed three four-star high school prospects, the 3rd overall JUCO prospect, and a key grad transfer in Jordan Bruner. Former five-star guard Jahvon Quinerly who transferred from Villanova will also be eligible while two other players return from injury.
+Alabama, and second-year head coach Nate Oats, have already made a splash in the last few weeks by picking up big commitments from key high school prospects and important transfers. As I write this, Alabama has already signed three 4-star high school prospects, the 3rd overall JUCO prospect, and a key grad transfer in Jordan Bruner. Former 5-star guard Jahvon Quinerly who transferred from Villanova will also be eligible while two other players return from injury.
 
 All in all, there are eight newcomers for the Crimson Tide next season, but with a second-year head coach trying to implement a new uptempo system, that might be better than usual for teams bringing in several newcomers. Kira Lewis, arguably the best player on Alabama's roster last season, and certainly the most important, has already announced that he is staying in the draft, and this will be a major blow for the Crimson Tide.
 
@@ -29,7 +29,7 @@ With either back, Alabama is a contender at the top of the SEC next season, but 
 
 ### Arkansas Razorbacks
 
-This section is going to sound very repetitive, because honestly, I see Arkansas in almost the same boat as Alabama right now. Both programs have a quality coach going into year two, both programs have signed an impressive class of newcomers including a mix of four-star high school prospects and key transfers, and both schools are waiting to see if their stars are going to stay in the NBA Draft.
+This section is going to sound very repetitive, because honestly, I see Arkansas in almost the same boat as Alabama right now. Both programs have a quality coach going into year two, both programs have signed an impressive class of newcomers including a mix of 4-star high school prospects and key transfers, and both schools are waiting to see if their stars are going to stay in the NBA Draft.
 
 Both Isaiah Joe and Mason Jones have entered their name into the NBA Draft, and like Alabama, there is just currently one roster spot remaining for either to return without another player having to transfer or give up their scholarship in some way. I'm trying not to sound repetitive, but again, who decides to return to Arkansas is the biggest question mark I still have for next season.
 
@@ -41,7 +41,7 @@ Like Alabama, if both return, Arkansas is an easy contender at the top of the SE
 
 ### Auburn Tigers
 
-Auburn loses five scholarship players to graduation and Isaac Okoro to the NBA Draft, which is somehow even more than they lost last season. Bruce Pearl proved people wrong and made noise with a "depleted" team last season, but this will arguably be a bigger challenge. So far, the Tigers have reloaded quite well with the best recruiting class in program history including five-star Sharife Cooper and three other 3/four-stars. It'll be another big challenge to reload, but with the promise the freshman class showed, plus Bruce Pearl at the helm, Auburn should be fine.
+Auburn loses five scholarship players to graduation and Isaac Okoro to the NBA Draft, which is somehow even more than they lost last season. Bruce Pearl proved people wrong and made noise with a "depleted" team last season, but this will arguably be a bigger challenge. So far, the Tigers have reloaded quite well with the best recruiting class in program history including 5-star Sharife Cooper and three other 3/4-stars. It'll be another big challenge to reload, but with the promise the freshman class showed, plus Bruce Pearl at the helm, Auburn should be fine.
 
 However, "fine" probably won't cut it for the new expectations of Auburn basketball. That being said, there are still two more spots left on next year's team, and who fills those two spots is the biggest question remaining for Auburn. The Tigers missed out on top ten prospects Jalen Green, who opted for the G League, and Greg Brown, who chose to stay home and play for Texas, but there are still quality players that have the option of playing for Auburn next season.
 
@@ -51,7 +51,7 @@ Obviously with Kuminga (or some other highly rated recruit) Auburn would get eno
 
 ### Florida Gators
 
-Florida is only losing Kerry Blackshear to graduation and Dontay Bassett who is transferring the Weber State. The Gators have been fortunate to have both Scottie Lewis, a former five-star prospect, and Keyontae Johnson announce that they are returning for next season. They have added two four-star prospects out of high school and the fifth overall JUCO prospect as well as two transfers that will be available next season.
+Florida is only losing Kerry Blackshear to graduation and Dontay Bassett who is transferring the Weber State. The Gators have been fortunate to have both Scottie Lewis, a former 5-star prospect, and Keyontae Johnson announce that they are returning for next season. They have added two 4-star prospects out of high school and the fifth overall JUCO prospect as well as two transfers that will be available next season.
 
 Andrew Nembhard could still potentially decide to declare for the NBA Draft, but with the deadline quickly approaching, it looks like he might opt to stay for his Junior season. With Nembhard there are no more roster spots remaining for next season, so his decision is probably the biggest decision left for Florida and if he goes, whomever Mike White gets to replace him will also be very important.
 
@@ -63,17 +63,17 @@ As a bonus question I have for Florida next season, I'm wondering what Mike Whit
 
 Tom Crean is entering his third season in Athens, but this year he doesn't have a top prospect to build the hype. Anthony Edwards is likely going to be a top-five pick in the NBA draft, three other guys graduated, and Rodney Howard is transferring to play for rival Georgia Tech. Rayshaun Hammonds has also declared for the NBA Draft, but it would be odd for him to remain in and not return for his senior season.
 
-The Bulldogs have signed two four-star high school prospects and two top ten JUCO guys to help replenish the roster for next season. I'm not sure if this will be enough to replace Anthony Edwards, but there are still five other players from last year's class, including Sahvir Wheeler, who will have a year of experience under their belt and could make a bigger difference in their sophomore campaign.
+The Bulldogs have signed two 4-star high school prospects and two top ten JUCO guys to help replenish the roster for next season. I'm not sure if this will be enough to replace Anthony Edwards, but there are still five other players from last year's class, including Sahvir Wheeler, who will have a year of experience under their belt and could make a bigger difference in their sophomore campaign.
 
 Even with Rayshaun Hammonds back, Georgia will still just have him and Tye Fagan as the only Junior and Senior on the roster. Because of this, I think the biggest question remaining for Georgia right now is which player fills the last roster spot. I believe that a graduate transfer with immediate eligibility and the ability to add needed experience would be ideal. I believe Justin Kier would be a fantastic option to fill this last spot, but the George Mason transfer is also considering Arkansas, Georgetown, Iowa State, Michigan, Minnesota, and NC State as finalists.
 
 ### Kentucky Wildcats
 
-In typical Kentucky fashion, the Wildcats are losing five guys to the NBA draft as well as Johnny Juzang and Kahlil Whitney deciding to transfer and Nate Sestina finishing his one year in Lexington. Also in line with the norm at Kentucky, John Calipari already has three five-stars and three four-stars signed in the 2020 class and has added Creighton graduate transfer, Davion Mintz.
+In typical Kentucky fashion, the Wildcats are losing five guys to the NBA draft as well as Johnny Juzang and Kahlil Whitney deciding to transfer and Nate Sestina finishing his one year in Lexington. Also in line with the norm at Kentucky, John Calipari already has three 5-stars and three 4-stars signed in the 2020 class and has added Creighton graduate transfer, Davion Mintz.
 
 Talent will likely never be a problem while John Calipari is at Kentucky, and next season certainly isn't an exception. However, the distribution of talent by position is still a concern for the Wildcats. Kentucky missed out on Matt Haarms when the 7'-3" center opted to play his final season at BYU and both high schooler Greg Brown and transfer Marcus Santos-Silva have decided not to join Kentucky for next season.
 
-With so many players leaving from last year's regular-season SEC champion squad, Kentucky still has three scholarship spots remaining for them to potentially fill. They only have Keion Brooks and the three four-star prospects listed as forwards, and could use a true big to anchor the frontcourt next season. Filling that need will be the biggest issue for Kentucky right now. The 2021 class could have some options, but right now it's not looking great for the Wildcat.
+With so many players leaving from last year's regular-season SEC champion squad, Kentucky still has three scholarship spots remaining for them to potentially fill. They only have Keion Brooks and the three 4-star prospects listed as forwards, and could use a true big to anchor the frontcourt next season. Filling that need will be the biggest issue for Kentucky right now. The 2021 class could have some options, but right now it's not looking great for the Wildcat.
 
 It's hard to pick against Kentucky in the SEC, but Calipari could struggle even more to figure out how to take a "small ball" lineup and still make them SEC champions and major contenders in March.
 
@@ -83,7 +83,7 @@ It's hard to pick against Kentucky in the SEC, but Calipari could struggle even 
 
 LSU certainly loses Skyler Mays to graduation, and with Trendon Watford and Darius Days currently declared for the NBA Draft, the Tigers could be losing three of their best players from last season. They're currently one scholarship spot over for next season, so while I would expect at least one of those two guys to return, they currently don't have any spots left for them to return (and one more person could potentially leave).
 
-That being said, LSU once again has a nationally relevant recruiting class with a five-star, two four-stars, and three 3-stars committed or signed. On top of that the Tigers have signatures from transfers Shareef O'Neal and Josh LeBlanc while Parker Edwards will be available after sitting last season.
+That being said, LSU once again has a nationally relevant recruiting class with a 5-star, two 4-stars, and three 3-stars committed or signed. On top of that the Tigers have signatures from transfers Shareef O'Neal and Josh LeBlanc while Parker Edwards will be available after sitting last season.
 
 I think LSU has already added enough talent to be good once again next season, especially with the momentum Will Wade has built in the last two few years, but the biggest decision for the Tigers will probably be the eligibility of Shareef O'Neal and Josh LeBlanc. O'Neal in particular would add another valuable option to the Tigers' frontcourt if he can get a waiver for immediate eligibility or the NCAA somehow changes their transfer eligibility rules in time to take effect for the 2020-2021 season.
 
@@ -103,7 +103,7 @@ This probably isn't a question that will be answered until basketball is played,
 
 The transfer portal and other forms of departure have not been kind to the Ben Howland as five players have announced they're transferring, four guys have graduated, and three players have declared for the NBA Draft with Nick Weatherspoon and Robert Woodard II already announcing they plan to stay in. All in all, Mississippi State is losing at least seven scholarship players with the potential to lose one more if Reggie Perry decides to stay in the draft.
 
-To counter this mass exodus, the Bulldogs will have transfer Tolu Smith available after sitting out last season and have signed a four-star and three-star prospect. Six scholarships are remaining for next year's Mississippi State Bulldogs, so limiting this to just one question mark for next season seems like an understatement.
+To counter this mass exodus, the Bulldogs will have transfer Tolu Smith available after sitting out last season and have signed a 4-star and 3-star prospect. Six scholarships are remaining for next year's Mississippi State Bulldogs, so limiting this to just one question mark for next season seems like an understatement.
 
 While Abdul Ado has put his name into the draft, it seems very apparent that he will return and be one of the top guys for the Bulldogs next season. Outside of that, they're going to need a lot of help either from incoming transfers of high school guys that reclassify from the 2021 class. Ben Howland has started to settle down from the other top coaches in the SEC now entering his sixth year, but this will be a very important next few months for him as he tries to build out a team that can try to at least compete for the top half of the league.
 
@@ -111,7 +111,7 @@ While Abdul Ado has put his name into the draft, it seems very apparent that he 
 
 Reed Nikko graduated and Tray Jackson transferring are the only for sure departures, but Cuonzo Martin also has to wait to see what Mitchell Smith, Jeremiah Tilmon, and Xavier Pinson decide to do after declaring for the NBA Draft. All three will likely return and are just testing the waters, and with Missouri having five scholarship spots to fill including them, I'd say it's looking like they'll be back.
 
-That leaves Missouri with quite a bit of experience returning next season and still two scholarship spots to fill with newcomers. With just one three-star player committed, the Tigers aren't exactly reloading, so adding a couple more weapons via transfer or reclassification could help. Who fills the last two spots will make an impact on Missouri going into next season, but it's not my main question with the Tigers.
+That leaves Missouri with quite a bit of experience returning next season and still two scholarship spots to fill with newcomers. With just one 3-star player committed, the Tigers aren't exactly reloading, so adding a couple more weapons via transfer or reclassification could help. Who fills the last two spots will make an impact on Missouri going into next season, but it's not my main question with the Tigers.
 
 Instead, I'm more curious about the jump that all the Smiths (Mitchell, Dru, and Mark) will make with another year as well as Tilmon, Pinson, and others returning. Missouri should have one of the most experienced rosters next season, and if Cuonzo Martin can get the best out of each of these guys, Missouri might be able to climb the SEC standings. There were flashes of the Tigers putting it together at times last season, but another year of almost the same squad could be just what they need to compete.
 
@@ -119,7 +119,7 @@ Instead, I'm more curious about the jump that all the Smiths (Mitchell, Dru, and
 
 ### South Carolina Gamecocks
 
-Frank Martin loses Micaiah Henry and Malik Kotsar to graduation and Jair Bolden to transfer and just replaced them with two three-star recruits. Normally, this wouldn't seem like the best recipe for success, but Frank Martin has done enough to prove that he can get a lot out of any roster he's dealt.
+Frank Martin loses Micaiah Henry and Malik Kotsar to graduation and Jair Bolden to transfer and just replaced them with two 3-star recruits. Normally, this wouldn't seem like the best recipe for success, but Frank Martin has done enough to prove that he can get a lot out of any roster he's dealt.
 
 AJ Lawson and talented freshman Jermaine Couisnard are both returning, so there are key pieces for Frank Martin to work with. However, as the talent in the rest of the league continues to increase quickly, I'm starting to wonder if Frank Martin can work his magic once again. The Gamecocks currently have zero scholarship spots remaining, so there aren't many decisions or unknowns left to figure out. That leaves South Carolina as one of the most "complete" teams as of this moment.
 
@@ -127,7 +127,7 @@ That completeness could be a big benefit as Frank Martin will have even more tim
 
 ### Tennessee Volunteers
 
-Tennessee loses Lamonte Turner and Jordan Bowden to graduation and Jalen Johnson is transferring to ETSU, but other than that, Rick Barnes returns a good bit of talent AND has signed a top recruiting class nationally. Two newly available transfers, two five-stars, a four-star, and a three-star dual-sport athlete join the Volunteers on top of the leadership and skills of John Fulkerson and Yves Pons.
+Tennessee loses Lamonte Turner and Jordan Bowden to graduation and Jalen Johnson is transferring to ETSU, but other than that, Rick Barnes returns a good bit of talent AND has signed a top recruiting class nationally. Two newly available transfers, two 5-stars, a 4-star, and a 3-star dual-sport athlete join the Volunteers on top of the leadership and skills of John Fulkerson and Yves Pons.
 
 Honestly, with a full roster already, and plenty of talent to add to the key players returning, Tennessee doesn't leave me with a lot of questions and I'm probably already to declare them as the preseason favorite in the SEC and a national contender. Last season was a down year after two straight seasons at the top of the SEC, but it looks like the Volunteers will be right back on top of the league.
 
@@ -137,7 +137,7 @@ I'm trying to avoid talking too much about my high expectations for Tennessee ri
 
 ### Texas A&M Aggies
 
-After year one of the Buzz Williams era at Texas A&M, the Aggies lose three players to graduation and one player is transferring. They have replaced them with a four-star, two 3-stars, and graduate transfer Kevin Marfo from Quinnipiac.
+After year one of the Buzz Williams era at Texas A&M, the Aggies lose three players to graduation and one player is transferring. They have replaced them with a 4-star, two 3-stars, and graduate transfer Kevin Marfo from Quinnipiac.
 
 With Savion Flagg, Quenton Jackson, and Jay Jay Chandler all returning for their senior season after being significant contributors last season, Buzz Williams has enough to be dangerous in the SEC in year two. However, with all that returning talent, the Aggies are looking to just have three guys listed as forwards and with Flagg listed as a guard and forward.
 
@@ -147,7 +147,7 @@ I have high expectations for year two of Buzz Williams, but I don't think A&M ha
 
 ### Vanderbilt Commodores
 
-Last but not least (well, they might have been the last two years) is the Vanderbilt Commodores. Vanderbilt is losing two guys to the transfer portal and Aaron Nesmith and Saben Lee have declared for the NBA Draft. Nesmith is staying in the draft, but Lee could return, and his decision will be key. Vanderbilt adds three three-star prospects and will have two transfers eligible after sitting last season. Senior Clevon Brown was also granted another year of eligibility after missing most of last season due to injury.
+Last but not least (well, they might have been the last two years) is the Vanderbilt Commodores. Vanderbilt is losing two guys to the transfer portal and Aaron Nesmith and Saben Lee have declared for the NBA Draft. Nesmith is staying in the draft, but Lee could return, and his decision will be key. Vanderbilt adds three 3-star prospects and will have two transfers eligible after sitting last season. Senior Clevon Brown was also granted another year of eligibility after missing most of last season due to injury.
 
 Vanderbilt has had pretty poor luck the last few years with their top players getting injured and then failing to win in the SEC. Although finishing at the bottom of the league in consecutive years isn't great, it has at least given some guys the opportunity to earn experience that they probably wouldn't have earned without the injuries, and specifically last year, Jerry Stackhouse was able to use his first season to play around with rotations.
 

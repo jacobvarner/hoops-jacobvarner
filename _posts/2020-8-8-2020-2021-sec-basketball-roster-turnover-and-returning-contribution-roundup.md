@@ -39,7 +39,7 @@ _Recruiting class rankings and player rankings are based on the [247Sports Compo
 
 Entering his second season in Tuscaloosa, Nate Oats has to be thrilled to have John Petty back for his senior season. A healthy Herb Jones and young Jaden Shackelford with a quality year of experience under his belt will also help with the transition. The Crimson Tide are right in the middle of the league for all the returning contribution categories, but they still have plenty of talent joining the squad with the 12th ranked recruiting class, key transfers, and Jahvon Quinerly eligible after sitting out last season as a result of his transfer from Villanova.
 
-Nate Oats has plenty of weapons going into the season, and as a result, Alabama is already getting tons of preseason praise and expectations are reasonably high. If the incoming talented backcourt can help offset the loss of a projected first-round draft pick in Kira Lewis and Alex Reese and Herb Jones can help the trio of four-star forwards get acclimated and create a formidable frontcourt, Alabama certainly has the potential for compete at the top of a very deep league this season.
+Nate Oats has plenty of weapons going into the season, and as a result, Alabama is already getting tons of preseason praise and expectations are reasonably high. If the incoming talented backcourt can help offset the loss of a projected first-round draft pick in Kira Lewis and Alex Reese and Herb Jones can help the trio of 4-star forwards get acclimated and create a formidable frontcourt, Alabama certainly has the potential for compete at the top of a very deep league this season.
 
 {% include ad-content.html %}
 
@@ -59,7 +59,7 @@ Nate Oats has plenty of weapons going into the season, and as a result, Alabama 
 
 **Incoming Recruiting Class National Rank:** 8th (4th)
 
-Mason Jones leaving one year early for the NBA Draft is certainly leaving big shoes to fill, but Isaiah Joe opting to withdraw from the Draft and return gives Eric Musselman plenty of skill and experience in his own right. Similar to Alabama, Arkansas also loaded up with four-stars and key transfers in the off-season and will hope that they all gel well and can make the most of whatever pre-season practice the current situation allows them.
+Mason Jones leaving one year early for the NBA Draft is certainly leaving big shoes to fill, but Isaiah Joe opting to withdraw from the Draft and return gives Eric Musselman plenty of skill and experience in his own right. Similar to Alabama, Arkansas also loaded up with 4-stars and key transfers in the off-season and will hope that they all gel well and can make the most of whatever pre-season practice the current situation allows them.
 
 Having three grad transfers joining the team will help make up for the loss of upperclassmen, but the Razorbacks are going to need their three top-100 recruits to play up to the expectations of their rankings if the Razorbacks want to offset a large amount of contribution that is missing from last season.
 
@@ -259,7 +259,7 @@ I've mentioned several times throughout this post that I think experience will b
 
 Like Missouri, South Carolina returns a ton of contribution, but in South Carolina's case, they're coming off another signature Frank Martin season where the Gamecocks surpassed expectations and still managed to finish in the top half of the league. AJ Lawson deciding to withdraw from the NBA Draft and return will be a key piece for the Gamecocks to rely on and I trust Frank Martin to make the most of all the returning experience and get them playing together well.
 
-After sitting out last season, Seventh Woods is also now eligible after transferring from North Carolina and he's also joined by two three-star recruits as the only newcomers. I believe that the SEC will have even more talent this upcoming season than the last two years, but given South Carolina finished at 10-8 last year and returns almost everyone, I'd lean towards a top-half finish for Frank Martin's squad being the floor going into the year and if they surpass expectations like they often do, another run in the NCAA tournament is possible.
+After sitting out last season, Seventh Woods is also now eligible after transferring from North Carolina and he's also joined by two 3-star recruits as the only newcomers. I believe that the SEC will have even more talent this upcoming season than the last two years, but given South Carolina finished at 10-8 last year and returns almost everyone, I'd lean towards a top-half finish for Frank Martin's squad being the floor going into the year and if they surpass expectations like they often do, another run in the NCAA tournament is possible.
 
 {% include ad-content.html %}
 
@@ -279,7 +279,7 @@ After sitting out last season, Seventh Woods is also now eligible after transfer
 
 **Incoming Recruiting Class National Rank:** 4th (2nd)
 
-Jordan Bowden and Lamonte Turner are big losses for the Vols, but they are still in a great position to get back to the top of the league with Yves Pons opting to withdraw from the NBA Draft and return at the last moment to join John Fulkerson to anchor the frontcourt. While Tennessee is another team returning a bunch of talent, they also add the nation's fourth-best recruiting class that includes two five-star, top-20 players.
+Jordan Bowden and Lamonte Turner are big losses for the Vols, but they are still in a great position to get back to the top of the league with Yves Pons opting to withdraw from the NBA Draft and return at the last moment to join John Fulkerson to anchor the frontcourt. While Tennessee is another team returning a bunch of talent, they also add the nation's fourth-best recruiting class that includes two 5-star, top-20 players.
 
 Rick Barnes has probably the most talent returning and adds the second-best recruiting class in the SEC. While the SEC seems to be made up of teams either returning key talent or adding a bunch of new talent this year, Tennessee manages to do both. The SEC will be nothing close to an easy league to predict, but assuming everything goes as planned, I think I'm already fairly confident in picking Tennessee as the preseason favorite.
 
@@ -303,7 +303,7 @@ Rick Barnes has probably the most talent returning and adds the second-best recr
 
 Buzz Williams joins Nate Oates and Eric Musselman as the most recent batch of highly touted up-and-coming coaches to join the league last season. With all going into their second year in the SEC, Buzz Williams will try to keep up with them through returning talent and a highly ranked recruiting class of his own.
 
-The Aggies won enough games last season to finish in the top of the league after a pretty poor non-conference showing. If Buzz Williams can get this year's team to match the full season to last year's conference play success, Texas A&M might have enough to make it back to the post-season. The two top-100, four-stars joining the squad along with graduate transfer Kevin Marfo should provide a spark to pair with the returning skill and hopefully, the Aggies can get back into conference title conversation if things go their way.
+The Aggies won enough games last season to finish in the top of the league after a pretty poor non-conference showing. If Buzz Williams can get this year's team to match the full season to last year's conference play success, Texas A&M might have enough to make it back to the post-season. The two top-100, 4-stars joining the squad along with graduate transfer Kevin Marfo should provide a spark to pair with the returning skill and hopefully, the Aggies can get back into conference title conversation if things go their way.
 
 {% include ad-content.html %}
 
