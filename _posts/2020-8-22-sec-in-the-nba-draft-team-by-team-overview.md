@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SEC in the NBA Draft: 2010s Overview"
+title: "SEC in the NBA Draft: Team-by-Team Overview"
 author: Jacob Varner
 tags: [SEC, NBA Draft]
 time_to_read: 5 minutes
