@@ -9,21 +9,17 @@ description: A complete rundown of all NBA Draft picks from current SEC basketba
 
 With the NBA Draft pushed back this year, among all the other changes, it gave me time to go back and get data on every player selected from a current SEC school. The first draft under the NBA was all the way back in 1950, and that's where this series starts. I am going to go over each of the decades leading up to today as well as a final article summarizing the draft history of all fourteen SEC basketball programs.
 
-<!-- Make sure to check out other posts in this series: -->
+Make sure to check out other posts in this series:
 
-<!-- [1950s NBA Drafts]({% post_url 2020-8-15-sec-in-the-nba-draft-1950s-overview %}) -->
+[1950s NBA Drafts]({% post_url 2020-8-15-sec-in-the-nba-draft-1950s-overview %})
 
-<!-- [1960s NBA Drafts]({% post_url 2020-8-16-sec-in-the-nba-draft-1960s-overview %}) -->
+[1960s NBA Drafts]({% post_url 2020-8-16-sec-in-the-nba-draft-1960s-overview %})
 
-<!-- [1970s NBA Drafts]({% post_url 2020-8-17-sec-in-the-nba-draft-1970s-overview %}) -->
+[1970s NBA Drafts]({% post_url 2020-8-17-sec-in-the-nba-draft-1970s-overview %})
 
-<!-- [1980s NBA Drafts]({% post_url 2020-8-18-sec-in-the-nba-draft-1980s-overview %}) -->
+[1980s NBA Drafts]({% post_url 2020-8-18-sec-in-the-nba-draft-1980s-overview %})
 
-<!-- [1990s NBA Drafts]({% post_url 2020-8-19-sec-in-the-nba-draft-1990s-overview %}) -->
-
-<!-- [2010s NBA Drafts]({% post_url 2020-8-21-sec-in-the-nba-draft-2010s-overview %}) -->
-
-<!-- [Overview by School]({% post_url 2020-8-22-sec-in-the-nba-draft-team-by-team-overview %}) -->
+[1990s NBA Drafts]({% post_url 2020-8-19-sec-in-the-nba-draft-1990s-overview %})
 
 This series is mostly to publish all of the data that I have gathered so far, but I plan to add to it and add other interesting posts on specific aspects in the future.
 

@@ -19,12 +19,6 @@ Make sure to check out other posts in this series:
 
 [1980s NBA Drafts]({% post_url 2020-8-18-sec-in-the-nba-draft-1980s-overview %})
 
-<!-- [2000s NBA Drafts]({% post_url 2020-8-20-sec-in-the-nba-draft-2000s-overview %}) -->
-
-<!-- [2010s NBA Drafts]({% post_url 2020-8-21-sec-in-the-nba-draft-2010s-overview %}) -->
-
-<!-- [Overview by School]({% post_url 2020-8-22-sec-in-the-nba-draft-team-by-team-overview %}) -->
-
 This series is mostly to publish all of the data that I have gathered so far, but I plan to add to it and add other interesting posts on specific aspects in the future.
 
 ---
