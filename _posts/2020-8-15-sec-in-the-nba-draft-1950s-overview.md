@@ -17,6 +17,8 @@ Make sure to check out other posts in this series:
 
 [1980s NBA Drafts]({% post_url 2020-8-18-sec-in-the-nba-draft-1980s-overview %})
 
+[1990s NBA Drafts]({% post_url 2020-8-19-sec-in-the-nba-draft-1990s-overview %})
+
 This series is mostly to publish all of the data that I have gathered so far, but I plan to add to it and add other interesting posts on specific aspects in the future.
 
 ---
