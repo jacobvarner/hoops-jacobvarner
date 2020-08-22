@@ -23,6 +23,8 @@ Make sure to check out other posts in this series:
 
 [2010s NBA Drafts]({% post_url 2020-8-21-sec-in-the-nba-draft-2010s-overview %})
 
+[Team-by-Team Overview]({% post url 2020-8-22-sec-in-the-nba-draft-team-by-team-overview %})
+
 This series is mostly to publish all of the data that I have gathered so far, but I plan to add to it and add other interesting posts on specific aspects in the future.
 
 ---
@@ -81,7 +83,7 @@ The 2004 NBA Draft was the first since the league expanded to the current 30 tea
 
 There were five players drafted from current SEC schools and none of them went in the first round.
 
-Ole Miss did have one of their rare draft picks with Justin Reed going 40th overall to the Boston Celtics.
+Ole Miss had one of their rare NBA Draft picks with Justin Reed going 40th overall to the Boston Celtics.
 
 ### 2005 NBA Draft
 
@@ -91,7 +93,7 @@ The 2005 NBA Draft was the first with all 60 selections and included productive 
 
 The SEC had five players selected with three of them sneaking into the first round.
 
-With the very last pick in the first round, the New York Knicks selected David Lee out of Florida and he actually ended up going on to one of the more productive careers for players taken in the 2005 NBA Draft.
+With the very last pick in the first round, the New York Knicks selected David Lee out of Florida and he ended up going on to one of the more productive careers for players taken in the 2005 NBA Draft.
 
 {% include ad-content.html %}
 
@@ -103,13 +105,13 @@ The 2006 NBA Draft had LaMarcus Aldridge second overall but then also had some s
 
 There were just four players drafted from current SEC schools in the 2006 NBA Draft.
 
-LSU picked up another top five pick when Tyrus Thomas was drafted fourth overall by the Portland Trail Blazers.
+LSU picked up another top-five pick when Tyrus Thomas was drafted fourth overall by the Portland Trail Blazers.
 
-The eventual best player from the SEC in this draft ended up being Rajon Rondo out of Kentucky all the way down at the 21st overall pick.
+The eventual best player from the SEC in this draft ended up being Rajon Rondo out of Kentucky down at the 21st overall pick.
 
 ### 2007 NBA Draft
 
-The 2007 NBA Draft featured the Portland Trail Blazers passing up on Kevin Durant, who ended up going second overall, in order to select Greg Oden from Ohio State.
+The 2007 NBA Draft featured the Portland Trail Blazers passing up on Kevin Durant, who ended up going second overall, to select Greg Oden from Ohio State.
 
 ![2007 NBA Draft selections from current SEC schools][image8]
 
@@ -139,7 +141,7 @@ The 2009 NBA Draft included Blake Griffin as the number one pick and James Harde
 
 ![2009 NBA Draft selections from current SEC schools][image10]
 
-The SEC closed out the decade with six player selected where once again they all came from different schools.
+The SEC closed out the decade with six players selected where once again they all came from different schools.
 
 Just one of the players, DeMarre Carroll out of Missouri, was taken in the first round.
 
@@ -153,9 +155,9 @@ Throughout the 2000s, there were 59 players drafted from current SEC schools out
 
 Florida ended up having the most players drafted in the decade with 12, which made the 2000s the only decade where Kentucky did not have the most players drafted.
 
-LSU and Florida were also the only teams that had top five picks this decade, which each having two.
+LSU and Florida were also the only teams that had top five picks this decade, with each having two.
 
-Florida had over half of their leage leading 12 picks go in the first round anf four of them went in the top ten.
+Florida had over half of their league-leading 12 picks go in the first round and four of them went in the top ten.
 
 [image1]: {{ "/images/2020-8-20/SEC-in-the-NBA-Draft-2000-NBA-Draft.png" | relative_url }}
 [image2]: {{ "/images/2020-8-20/SEC-in-the-NBA-Draft-2001-NBA-Draft.png" | relative_url }}

@@ -23,6 +23,8 @@ Make sure to check out other posts in this series:
 
 [2010s NBA Drafts]({% post_url 2020-8-21-sec-in-the-nba-draft-2010s-overview %})
 
+[Team-by-Team Overview]({% post url 2020-8-22-sec-in-the-nba-draft-team-by-team-overview %})
+
 This series is mostly to publish all of the data that I have gathered so far, but I plan to add to it and add other interesting posts on specific aspects in the future.
 
 ---
@@ -43,7 +45,7 @@ This was a rather slim draft for the SEC with just four players being selected. 
 
 Mahmoud Abdul-Rauf out of LSU was the first guy off the board in the SEC when he was selected third overall by the Denver Nuggets.
 
-As the 20th pick in the draft, the Minnesota Timberwolves selected Gerald Glass, making him the all-time higest draft pick out of Ole Miss.
+As the 20th pick in the draft, the Minnesota Timberwolves selected Gerald Glass, making him the all-time highest draft pick out of Ole Miss.
 
 ### 1991 NBA Draft
 
@@ -75,7 +77,7 @@ The 1993 NBA Draft was headlined by Chris Webber and Penny Hardaway in the first
 
 ![1993 NBA Draft selections from current SEC schools][image4]
 
-LSU capped off their streak of 16 NBA Drafts in a row with at least one player selected, which is still a program and SEC record. It'll be difficult for LSU to match that feat, and Kentucky, who currently has a 12 year streak is the only SEC program that could break the record.
+LSU capped off their streak of 16 NBA Drafts in a row with at least one player selected, which is still a program and SEC record. It'll be difficult for LSU to match that feat, and Kentucky, who currently has a 12-year streak is the only SEC program that could break the record.
 
 Jamal Mashburn going fourth overall to the Dallas Mavericks snapped Kentucky's longest draft drought after no Wildcats were selected in the previous four NBA Drafts.
 
@@ -115,7 +117,7 @@ After a dominant National Championship run, Kentucky had four players drafted wi
 
 ### 1997 NBA Draft
 
-The 1997 NBA Draft only had 57 total selections but included Tim Duncan going first overall to the San Antonio Spurs and Chauncey Billups going third overall the the Boston Celtics.
+The 1997 NBA Draft only had 57 total selections but included Tim Duncan going first overall to the San Antonio Spurs and Chauncey Billups going third overall to the Boston Celtics.
 
 ![1997 NBA Draft selections from current SEC schools][image8]
 
@@ -143,11 +145,11 @@ There were just three players selected but two players, Jumaine Jones from Georg
 
 ### Team-by-Team Overview
 
-Througout the 1990s, there were 51 players drafted from current SEC schools out of 559 total selections (9.123%).
+Throughout the 1990s, there were 51 players drafted from current SEC schools out of 559 total selections (9.123%).
 
 ![1990s NBA Drafts team-by-team overview][image11]
 
-Outside of the 1996 NBA Draft and a few top five picks, the 1990s were a fairly quiete year for the SEC's NBA Draft production.
+Outside of the 1996 NBA Draft and a few top five picks, the 1990s were a fairly quiet year for the SEC's NBA Draft production.
 
 Kentucky again had the most players taken with eight of their ten draft picks going in the first round.
 

@@ -23,6 +23,8 @@ Make sure to check out other posts in this series:
 
 [2000s NBA Drafts]({% post_url 2020-8-20-sec-in-the-nba-draft-2000s-overview %})
 
+[Team-by-Team Overview]({% post url 2020-8-22-sec-in-the-nba-draft-team-by-team-overview %})
+
 This series is mostly to publish all of the data that I have gathered so far, but I plan to add to it and add other interesting posts on specific aspects in the future.
 
 ---
@@ -69,7 +71,7 @@ The SEC had a dominant draft with 15 players selected, including all of the firs
 
 Kentucky had Anthony Davis and Michael Kidd-Gilchrist go one and two overall to the New Orleans Hornets (now New Orleans Pelicans) and Charlotte Bobcats (now Charlotte Hornets).
 
-Mississippi State had their first first round pick since 1996 when Arnett Moultrie was selected 27th overall by the Miami Heat.
+Mississippi State had their first first-round pick since 1996 when Arnett Moultrie was selected 27th overall by the Miami Heat.
 
 ### 2013 NBA Draft
 
@@ -85,7 +87,7 @@ The SEC still managed to put two players in the top ten when Nerlens Noel went s
 
 ### 2014 NBA Draft
 
-The 2014 NBA Draft had some key big man selected like Joel Embiid at the third overall pick and Nikola Jokic all the way down at the 41st pick.
+The 2014 NBA Draft had some key big men selected like Joel Embiid at the third overall pick and Nikola Jokic down at the 41st pick.
 
 ![2014 NBA Draft selections from current SEC schools][image5]
 
@@ -117,7 +119,7 @@ While the SEC only had six players drafted in the 2016 NBA Draft, five of them w
 
 The Philadelphia 76ers drafted Ben Simmons first overall making him the second player from LSU and fourth player from the SEC taken in that position.
 
-Vanderbilt produced two first round picks in Wade Baldwin at 17 and Damian Jones at 30.
+Vanderbilt produced two first-round picks in Wade Baldwin at 17 and Damian Jones at 30.
 
 ### 2017 NBA Draft
 
@@ -167,7 +169,7 @@ The SEC making up 13.333% of total draft picks was their best percentage and 80 
 
 Kentucky made up for allowing Florida and LSU to have more draft picks in the 2000s by getting 37 draft picks in the 2010s, almost equalling the total number by the rest of the SEC schools combined. 
 
-This also made the second decade in a row and fifth overall where every SEC school had at least one player drafted with Alabama, Auburn, Ole Miss, and South Carolina all having a single player taken.
+This also made the second decade in a row and fifth overall where every SEC school had at least one player drafted with Alabama, Auburn, Ole Miss, and South Carolina all having a player taken.
 
 [image1]: {{ "/images/2020-8-21/SEC-in-the-NBA-Draft-2010-NBA-Draft.png" | relative_url }}
 [image2]: {{ "/images/2020-8-21/SEC-in-the-NBA-Draft-2011-NBA-Draft.png" | relative_url }}

@@ -201,7 +201,7 @@ Since 1955 Ole Miss has had 15 players selected in the NBA Draft. Four of those 
 
 Ole Miss's highest-ever selection was Gerald Glass being drafted 20th overall by the Minnesota Timberwolves in the 1990 NBA Draft.
 
-The most players ever taken in a single draft was two in the 1983 NBA Draft where Carlos Clark went 91st overall and Roger Stieg went 95th overall.
+The most players ever taken in a single draft were two in the 1983 NBA Draft where Carlos Clark went 91st overall and Roger Stieg went 95th overall.
 
 The Rebels have had one first-round pick and no top ten or top-five picks. The only first-round pick was:
 

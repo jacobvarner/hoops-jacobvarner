@@ -23,6 +23,8 @@ Make sure to check out other posts in this series:
 
 [2010s NBA Drafts]({% post_url 2020-8-21-sec-in-the-nba-draft-2010s-overview %})
 
+[Team-by-Team Overview]({% post url 2020-8-22-sec-in-the-nba-draft-team-by-team-overview %})
+
 This series is mostly to publish all of the data that I have gathered so far, but I plan to add to it and add other interesting posts on specific aspects in the future.
 
 ---
