@@ -29,7 +29,7 @@ Isaac Okoro wasn't a top draft prospect coming into the season, but after just a
 
 Okoro's new home will depend a lot on team fit and if he gets a chance to sell teams on his ability to improve his shooting. Okoro is projected to go as high as fourth in a few mock drafts, which would make him tied for the highest draft pick in Auburn history with [Chuck Person (1986 NBA Draft) and Chris Morris (1988 NBA Draft)]({% post_url 2020-8-22-sec-in-the-nba-draft-team-by-team-overview %}).
 
-As Okoro is all but assured to become a lottery pick, with even his worst projection being 12th overall to the Spurs, he will likely become Auburn's third lottery pick and eighth first-round pick.
+As Okoro is all but assured to become a lottery pick, with even his worst projection being 12th overall to the Kings, he will likely become Auburn's third lottery pick and eighth first-round pick.
 
 {% include ad-content.html %}
 
