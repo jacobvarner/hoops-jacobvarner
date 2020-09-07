@@ -29,15 +29,15 @@ Isaac Okoro wasn't a top draft prospect coming into the season, but after just a
 
 Okoro's new home will depend a lot on team fit and if he gets a chance to sell teams on his ability to improve his shooting. Okoro is projected to go as high as fourth in a few mock drafts, which would make him tied for the highest draft pick in Auburn history with [Chuck Person (1986 NBA Draft) and Chris Morris (1988 NBA Draft)]({% post_url 2020-8-22-sec-in-the-nba-draft-team-by-team-overview %}).
 
-As Okoro is all but assured to become a lottery pick, with even his worst projection being 12th overall to the Kings, he will likely become Auburn's third lottery pick and eighth first-round pick.
+As Okoro is all but assured to become a lottery pick, with even his worst projection being 12th overall to the Kings, he will likely become Auburn's third lottery pick and the eighth first-round pick.
 
 {% include ad-content.html %}
 
 ### Aaron Nesmith - SO, Vanderbilt
 
-Vanderbilt didn't have a great year again, and Aaron Nesmith even missed most of the season with an injury, but in his short time on the court he was an efficient scorer and excellend shooter. Nesmith's dominant offensive ability caused him to rise up draft boards, despite sitting almost all of SEC play.
+Vanderbilt didn't have a great year again, and Aaron Nesmith even missed most of the season with an injury, but in his short time on the court, he was an efficient scorer and excellent shooter. Nesmith's dominant offensive ability caused him to rise up draft boards, despite sitting almost all of SEC play.
 
-The sharpshooting guard could find himself in the lottery as well, but is almost a gauranteed first-round pick. If Nesmith can land in the lottery, he would be Vanderbilt's second lottery pick and if he stays in the first-round, he'll be the Dores ninth first round pick in the NBA Draft.
+The sharpshooting guard could find himself in the lottery as well, but is almost a guaranteed first-round pick. If Nesmith can land in the lottery, he would be Vanderbilt's second lottery pick and if he stays in the first round, he'll be the Dores ninth first-round pick in the NBA Draft.
 
 ### Tyrese Maxey - FR, Kentucky
 
@@ -45,7 +45,7 @@ While Tyrese Maxey didn't end up being one of the Kentucky players gunning for t
 
 It seems weird to consider Maxey as falling in the NBA Draft, but compared to Kentucky's recent standards, him not being a solidified top-five pick does seem a little rare for the Wildcats.
 
-Maxey is still a surefire first round pick with a pretty good chance to go in the lottery like the four other SEC players above him. Maxey averages just outside of the lottery based on the 57 mock drafts I included, but one outlier that had him falling to the second round pulls that average down a little more.
+Maxey is still a surefire first-round pick with a pretty good chance to go in the lottery like the four other SEC players above him. Maxey averages just outside of the lottery based on the 57 mock drafts I included, but one outlier that had him falling to the second round pulls that average down a little more.
 
 If Maxey does end up falling to the 15th pick or lower, the 2020 NBA Draft would mark [the first time that a Kentucky player did not go in the lottery since the 2009 NBA Draft]({% post_url 2020-8-21-sec-in-the-nba-draft-2010s-overview %}).
 
@@ -55,17 +55,17 @@ If Maxey does end up falling to the 15th pick or lower, the 2020 NBA Draft would
 
 The young, quick point guard from Alabama has two years of college basketball experience under his belt, but still is just 19 years old.
 
-Lewis is the last almost consenus player to go in the first-round. Several of the drafts that I included are just first-round only mock drafts, and two of those managed to have Kira falling out of the first round, and therefore didn't include him in their mock drafts. Three mock drafts overall had Lewis being drafted in the second round.
+Lewis is the last almost consensus player to go in the first round. Several of the drafts that I included are just first-round only mock drafts, and two of those managed to have Kira falling out of the first round, and therefore didn't include him in their mock drafts. Three mock drafts overall had Lewis being drafted in the second round.
 
-If Lewis remains in the first round like he's expected to, he would become the 16th first-round pick in Alabama's history. If he can sneak in to the lottery somehow, he would be the fourth lottery pick in Alabama basketball history.
+If Lewis remains in the first round like he's expected to, he would become the 16th first-round pick in Alabama's history. If he can sneak into the lottery somehow, he would be the fourth lottery pick in Alabama basketball history.
 
 ### Robert Woodard II - SO, Mississippi State
 
-Here is where things get a little more inconsistent. Because many of the mock drafts I've included have only mocked the first-round so far, Robert Woodard II finds himself in just 25 of the mock drafts overall with 11 having him sneak into the end of the first-round.
+Here is where things get a little more inconsistent. Because many of the mock drafts I've included have only mocked the first-round so far, Robert Woodard II finds himself in just 25 of the mock drafts overall with 11 having him sneak into the end of the first round.
 
 ### Reggie Perry - SO, Mississippi State
 
-Reggie Perry finds himself in 17 of the 57 mock drafts that I included, but would likely be a more common pick if more mock drafts had included second round players at this time.
+Reggie Perry finds himself in 17 of the 57 mock drafts that I included, but would likely be a more common pick if more mock drafts had included second-round players at this time.
 
 A few lesser-known mock drafts have Perry as a first-round draft pick, but the more likely outcome seems to be projected as a middle to late second-round pick.
 
@@ -75,17 +75,17 @@ A few lesser-known mock drafts have Perry as a first-round draft pick, but the m
 
 Isaiah Joe became the first college basketball player to take advantage of the weird draft declaration loophole caused by the difference in deadlines given by the NCAA and NBA. Joe originally announced that he was withdrawing from the draft and planned to return to Arkansas, then re-declared for the NBA Draft right before the NBA's deadline.
 
-While the decision definitely hurts Arkansas's chances for next season, Joe still likely has a pretty safe chance of getting drafted and I ultimately think he made the right call, especially with all the unknowns about next season.
+While the decision hurts Arkansas's chances for next season, Joe still likely has a pretty safe chance of getting drafted and I ultimately think he made the right call, especially with all the unknowns about next season.
 
-Joe was projected as a first-round pick in five of the mock drafts I included and many of the full two-round mock drafts have him going somewhere in the second-round.
+Joe was projected as a first-round pick in five of the mock drafts I included and many of the full two-round mock drafts have him going somewhere in the second round.
 
 ### Immanuel Quickley - SO, Kentucky
 
-Quickley made the most of his return to Kentucky by playing his way to an SEC Player of the Year Award and rising up the draft boards. It seems a little weird that Kentucky only has one safe first-round pick, but Quickley does appear to be the other likely guy to have his name called on NBA Draft nigth.
+Quickley made the most of his return to Kentucky by playing his way to an SEC Player of the Year Award and rising up the draft boards. It seems a little weird that Kentucky only has one safe first-round pick, but Quickley does appear to be the other likely guy to have his name called on NBA Draft night.
 
 ### Ashton Hagans - SO, Kentucky
 
-Asthon Hagans size might be a factor, or teams might have questions about his odd disappearance from Kentucky's team late in the year. However, there are still a handful of drafts that have Hagans getting drafted and if more of these mock drafts included the second-round, it might be considered an even more likely outcome.
+Asthon Hagan's size might be a factor, or teams might have questions about his odd disappearance from Kentucky's team late in the year. However, there are still a handful of drafts that have Hagans getting drafted and if more of these mock drafts included the second-round, it might be considered an even more likely outcome.
 
 Of the mock drafts that did include a second round, he did still only go as high as the 45th pick, so it might be a long, stressful draft night for the Kentucky guard.
 
@@ -101,17 +101,17 @@ One of only two SEC basketball seniors to end up on any of the mock drafts, Mays
 
 ### Mason Jones - JR, Arkansas
 
-Mason Jones decided earlier than Isaiah Joe that he was going to stay in the draft and forgoe his senior season of college basketball eligibility. Jones is mocked as high as the 40th overall pick and averages around the middle to late second round. However, without many full two-round mock drafts, it's hard to determine how likely him getting drafted is while he only appears in nine of the 57 mock drafts that I included.
+Mason Jones decided earlier than Isaiah Joe that he was going to stay in the draft and forgo his senior season of college basketball eligibility. Jones is mocked as high as the 40th overall pick and averages around the middle to the late second round. However, without many full two-round mock drafts, it's hard to determine how likely him getting drafted is while he only appears in nine of the 57 mock drafts that I included.
 
 {% include ad-content.html %}
 
 ### Khalil Whitney - FR, Kentucky
 
-Whitney opted to transfer from Kentucky in the middle of the year and ultimately just decided to declare for the NBA Draft and spend more time preparing for the professional game. It doesn't appear that that was the best decision as Whitney only appears in three of the 57 mock drafts that I looked at with his highest selection being all the way down at the 52nd overall pick.
+Whitney opted to transfer from Kentucky in the middle of the year and ultimately just decided to declare for the NBA Draft and spend more time preparing for the professional game. It doesn't appear that that was the best decision as Whitney only appears in three of the 57 mock drafts that I looked at with his highest selection being the 52nd overall pick.
 
 ### Austin Wiley - SR, Auburn
 
-The massive big man that spent his entire extended college basketball career at Auburn has a chance to be a late second-round draft pick according to at least two of the mocks that I found. Wiley's body and ability to run the floor could be an asset to an NBA bench, but I'm still not sure he fits in as well as he would of if he were going into the NBA several years ago instead.
+The massive big man that spent his entire extended college basketball career at Auburn has a chance to be a late second-round draft pick according to at least two of the mocks that I found. Wiley's body and ability to run the floor could be an asset to an NBA bench, but I'm still not sure he fits in as well as he would if he were going into the NBA several years ago instead.
 
 ### Saben Lee - JR, Vanderbilt
 
@@ -119,7 +119,7 @@ The last player to show up in one of the 57 mock drafts that I've included was V
 
 {% include ad-content.html %}
 
-I plan to continue to check on these mock drafts for updates and hope to find more for future posts. Here is where each player stands currently, and you can check the links below if you are curious what many different people across the internet think about the upcoming NBA Draft.
+I plan to continue to check on these mock drafts for updates and hope to find more for future posts. Here is where each player stands currently, and you can check the links below if you are curious about what many different people across the internet think about the upcoming NBA Draft.
 
 ![SEC Basketball Players in a Consensus of 2020 NBA Mock Drafts after the Lottery][image1]
 
