@@ -31,6 +31,8 @@ Renaldo Balkman was a 4-star recruit and 83rd overall recruit in the 2003 high s
 
 Jermareo Davidson was ranked just outside the top-60 in his high school class as the 67th overall recruit. He ended up making the SEC All-Freshman team and twice made the All-SEC team in his four years at Alabama. After a productive career in college, he ended up improving his class position by 31 places when he was drafted 36th overall in the 2007 NBA Draft.
 
+![All basketball prospects from the 2003 recruiting class that improved their NBA draft position][image1]
+
 {% include ad-content.html %}
 
 ### 2004 Recruiting Class
@@ -61,6 +63,8 @@ Sundiata Gaines was the 88th ranked player and 4-star recruit in the 2004 high s
 
 While he never made it to playing in an NBA game, Shan Foster still improved from the 67th overall recruit in the 2004 high school class to a 51st overall draft pick in the 2008 NBA Draft after four years at Vanderbilt.
 
+![All basketball prospects from the 2004 recruiting class that improved their NBA draft position][image2]
+
 {% include ad-content.html %}
 
 ### 2005 Recruiting Class
@@ -71,6 +75,8 @@ The 2005 high school recruiting class had just one player make it to the NBA aft
 
 His NBA career was pretty minor at just 71 total games from 2011 to 2013, but Chris Johnson went from the 275th ranked player and a 3-star recruit to signing as an undrafted free agent in the NBA after four years at LSU including one on the SEC All-Defensive team.
 
+![All basketball prospects from the 2005 recruiting class that improved their NBA draft position][image3]
+
 ### 2006 Recruiting Class
 
 The 2006 high school recruiting class had four different players improve their position from high school to the NBA but just one player went from outside the top-60 to playing in an NBA game.
@@ -79,6 +85,8 @@ The 2006 high school recruiting class had four different players improve their p
 
 Donald Sloan was a 4-star recruit and ranked 77th overall in his high school class. After four years at Texas A&M, he signed an undrafted free agent deal and went on to play 218 games in the NBA from 2012 to 2016.
 
+![All basketball prospects from the 2006 recruiting class that improved their NBA draft position][image4]
+
 ### 2007 Recruiting Class
 
 The 2007 high school recruiting class had just two players imrpove their draft stock with Anthony Randolph of LSU only going from the 15th ranked prospect to the 14th pick in the 2008 NBA Draft.
@@ -86,6 +94,8 @@ The 2007 high school recruiting class had just two players imrpove their draft s
 **Festus Ezeli - Vanderbilt**
 
 As the only player in the 2007 recruiting class in the SEC to improve from outside of the top-60 to an NBA Draft pick, Festus Ezeli spent five seasons at Vanderbilt and went from the 116th ranked prospect in the 2007 high school class to the 30th overall pick in the 2012 NBA Draft.
+
+![All basketball prospects from the 2007 recruiting class that improved their NBA draft position][image5]
 
 {% include ad-content.html %}
 
@@ -125,6 +135,8 @@ Trey Thompkins joined his college teammate Travis Leslie in improving on his hig
 
 While not as impressive as Josh Harrellson, Darius Miller went from the 82nd best player in the 2008 high school class to the 46th overall pick in the 2012 NBA Draft after four seasons in Lexington, including a National Championship in his senior season.
 
+![All basketball prospects from the 2008 recruiting class that improved their NBA draft position][image6]
+
 {% include ad-content.html %}
 
 ### 2009 Recruiting Class
@@ -139,9 +151,13 @@ Khris Middleton was originally the 102nd ranked player in the 2009 high school c
 
 Eric Bledsoe was the 68th ranked player in the 2009 high school recruiting class but spent just one year at Kentucky and ended up as the 18th overall pick in the 2010 NBA Draft.
 
+![All basketball prospects from the 2009 recruiting class that improved their NBA draft position][image7]
+
 ### 2010 Recruiting Class
 
 The 2010 high school recruiting class had just one player improve their draft stock with Erik Murphy going from the 55th ranked prospect to the 49th pick in the 2013 NBA Draft.
+
+![All basketball prospects from the 2010 recruiting class that improved their NBA draft position][image8]
 
 ### 2011 Recruiting Class
 
@@ -150,6 +166,8 @@ The 2011 high school recruiting class had five differe players technically impro
 **Josh Richardson - Tennessee**
 
 Josh Richardson went from a 3-star recruit that was ranked all the way down as the 246th overall player in the 2011 high school class to the 40th overall pick in the 2015 NBA Draft after spending four seasons at Tennessee.
+
+![All basketball prospects from the 2011 recruiting class that improved their NBA draft position][image9]
 
 {% include ad-content.html %}
 
@@ -164,6 +182,8 @@ After just three seasons at Florida from 2012 to 2015, Michael Frazier made his 
 **Alex Caruso - Texas A&M**
 
 Alex Caruso was originally the 85th ranked prospect in the 2012 high school class but wound up signing as an undrafted free agent in 2017 after playing all four seasons at Texas A&M. Caruso is currently contibuting to the Los Angeles Lakers' NBA Championship goals.
+
+![All basketball prospects from the 2012 recruiting class that improved their NBA draft position][image10]
 
 ### 2013 Recruiting Class
 
@@ -181,6 +201,8 @@ Also from the 2013 recruiting class and also from Vanderbilt, Damian Jones went 
 
 Tim Quarterman was originally the 71st ranked recruit in the 2013 high school class but was able to sign as an undrafted free agent in 2016 after just three seasons of playing at LSU.
 
+![All basketball prospects from the 2013 recruiting class that improved their NBA draft position][image11]
+
 {% include ad-content.html %}
 
 ### 2014 Recruiting Class
@@ -194,6 +216,8 @@ Yante Maten was ranked as the 225th player in the 2014 high school recruiting cl
 **Wade Baldwin - Vanderbilt**
 
 Wade Baldwin was just a 3-star recruit and ranked 131st in the 2014 high school class but he ended up as the 17th overall pick in the 2016 NBA Draft after just two seasons at Vanderbilt.
+
+![All basketball prospects from the 2014 recruiting class that improved their NBA draft position][image12]
 
 {% include ad-content.html %}
 
@@ -225,6 +249,8 @@ As the fifth and final 3-star recruit in the 2015 class to reach the NBA, Chris 
 
 Quinndary Weatherspoon was originally the 102nd ranked recruit in the 2015 high school class, but used his four years at Mississippi State to become the 49th overall pick in the 2019 NBA Draft. He played 11 games in his first NBA season.
 
+![All basketball prospects from the 2015 recruiting class that improved their NBA draft position][image13]
+
 {% include ad-content.html %}
 
 ### 2016 Recruiting Class
@@ -247,6 +273,8 @@ Robert Williams was barely out of the top-60 as the 61st ranked recruit in the 2
 
 Jared Harper was the 90th ranked player in the 2016 high school class, and after just three years at Auburn, he signed as an undrafted free agent with the Phoenix Suns and played in three NBA games.
 
+![All basketball prospects from the 2016 recruiting class that improved their NBA draft position][image14]
+
 {% include ad-content.html %}
 
 ### 2017 Recruiting Class
@@ -257,9 +285,13 @@ The 2017 high school recruiting class had six different players improve from the
 
 Nicholas Claxton was originally the 231st ranked recruit in the 2017 high school class but just needed two years at Georgia to become the 31st overall pick in the 2019 NBA Draft.
 
+![All basketball prospects from the 2017 recruiting class that improved their NBA draft position][image15]
+
 ### 2018 Recruiting Class
 
 The 2018 recruiting class has already had two players improve their position from high school ranking to NBA draft selection and with Kira Lewis projected to go higher than 39th in the 2020 NBA Draft, that will likely expand to at least three different players.
+
+![All basketball prospects from the 2018 recruiting class that improved their NBA draft position][image16]
 
 ### 2019 Recruiting Class
 
@@ -274,3 +306,20 @@ I now have a mostly complete spreadsheet covering SEC baketball recruits and pai
 If there are other things that you would like to see based on SEC recruiting over time, please let me know [on Twitter](https://www.twitter.com/jacobvarner) and I might answer your quick questions or make a series or post based on what you want to see.
 
 Thanks for reading.
+
+[image1]: {{ "/images/2020-9-7/2003-improved-draft-stock.png" | relative_url }} 
+[image2]: {{ "/images/2020-9-7/2004-improved-draft-stock.png" | relative_url }} 
+[image3]: {{ "/images/2020-9-7/2005-improved-draft-stock.png" | relative_url }} 
+[image4]: {{ "/images/2020-9-7/2006-improved-draft-stock.png" | relative_url }} 
+[image5]: {{ "/images/2020-9-7/2007-improved-draft-stock.png" | relative_url }} 
+[image6]: {{ "/images/2020-9-7/2008-improved-draft-stock.png" | relative_url }} 
+[image7]: {{ "/images/2020-9-7/2009-improved-draft-stock.png" | relative_url }} 
+[image8]: {{ "/images/2020-9-7/2010-improved-draft-stock.png" | relative_url }} 
+[image9]: {{ "/images/2020-9-7/2011-improved-draft-stock.png" | relative_url }} 
+[image10]: {{ "/images/2020-9-7/2012-improved-draft-stock.png" | relative_url }} 
+[image11]: {{ "/images/2020-9-7/2013-improved-draft-stock.png" | relative_url }}
+[image12]: {{ "/images/2020-9-7/2014-improved-draft-stock.png" | relative_url }}
+[image13]: {{ "/images/2020-9-7/2015-improved-draft-stock.png" | relative_url }}
+[image14]: {{ "/images/2020-9-7/2016-improved-draft-stock.png" | relative_url }}
+[image15]: {{ "/images/2020-9-7/2017-improved-draft-stock.png" | relative_url }}
+[image16]: {{ "/images/2020-9-7/2018-improved-draft-stock.png" | relative_url }} 
