@@ -57,7 +57,7 @@ Also from Florida's 2004 recruiting class, Taurean Green was initially a 4-star 
 
 **Sundiata Gaines - Georgia**
 
-Sundiata Gaines was the 88th ranked player and 4-star recruit in the 2004 high school class. After four seasons at Georgia, Gaines signed as an undrafted free agent in 2009 and played 113 games for variuos NBA teams between 2009 and 2012.
+Sundiata Gaines was the 88th ranked player and 4-star recruit in the 2004 high school class. After four seasons at Georgia, Gaines signed as an undrafted free agent in 2009 and played 113 games for various NBA teams between 2009 and 2012.
 
 **Shan Foster - Vanderbilt**
 
@@ -89,7 +89,7 @@ Donald Sloan was a 4-star recruit and ranked 77th overall in his high school cla
 
 ### 2007 Recruiting Class
 
-The 2007 high school recruiting class had just two players imrpove their draft stock with Anthony Randolph of LSU only going from the 15th ranked prospect to the 14th pick in the 2008 NBA Draft.
+The 2007 high school recruiting class had just two players improve their draft stock with Anthony Randolph of LSU only going from the 15th ranked prospect to the 14th pick in the 2008 NBA Draft.
 
 **Festus Ezeli - Vanderbilt**
 
@@ -125,7 +125,7 @@ He never ended up playing in an NBA game, but Marcus Denmon still went from the 
 
 **Travis Leslie - Georgia**
 
-Despite just a 10 game NBA career, Travis Leslie still used his three years at Geogria to go from the 105th ranked player out of high school to the 47th overall pick in the 2011 NBA Draft.
+Despite just a 10 game NBA career, Travis Leslie still used his three years at Georgia to go from the 105th ranked player out of high school to the 47th overall pick in the 2011 NBA Draft.
 
 **Trey Thompkins - Georgia**
 
@@ -145,7 +145,7 @@ The 2009 high school recruiting class technically had four different players imp
 
 **Khris Middleton - Texas A&M**
 
-Khris Middleton was originally the 102nd ranked player in the 2009 high school class, but played his way to becoming the 39th overall pick in the 2012 NBA Draft after just three years at Texas A&M. Middleton has had a long NBA career and is still contributing on a championshiop contender.
+Khris Middleton was originally the 102nd ranked player in the 2009 high school class, but played his way to becoming the 39th overall pick in the 2012 NBA Draft after just three years at Texas A&M. Middleton has had a long NBA career and is still contributing on a championship contender.
 
 **Eric Bledsoe - Kentucky**
 
@@ -161,7 +161,7 @@ The 2010 high school recruiting class had just one player improve their draft st
 
 ### 2011 Recruiting Class
 
-The 2011 high school recruiting class had five differe players technically improve their ranking from high school to the NBA draft, but just one player made a big jump from way outside of the top-60 to getting selected in the NBA Draft. Kentavious Caldwell-Pope, Johnny O'Bryant, Bradley Beal, adn Michael Kidd-Gilchrist all improved their position by four spots or less.
+The 2011 high school recruiting class had five different players technically improve their ranking from high school to the NBA draft, but just one player made a big jump from way outside of the top-60 to getting selected in the NBA Draft. Kentavious Caldwell-Pope, Johnny O'Bryant, Bradley Beal, and Michael Kidd-Gilchrist all improved their position by four spots or less.
 
 **Josh Richardson - Tennessee**
 
@@ -181,13 +181,13 @@ After just three seasons at Florida from 2012 to 2015, Michael Frazier made his 
 
 **Alex Caruso - Texas A&M**
 
-Alex Caruso was originally the 85th ranked prospect in the 2012 high school class but wound up signing as an undrafted free agent in 2017 after playing all four seasons at Texas A&M. Caruso is currently contibuting to the Los Angeles Lakers' NBA Championship goals.
+Alex Caruso was originally the 85th ranked prospect in the 2012 high school class but wound up signing as an undrafted free agent in 2017 after playing all four seasons at Texas A&M. Caruso is currently contributing to the Los Angeles Lakers' NBA Championship goals.
 
 ![All basketball prospects from the 2012 recruiting class that improved their NBA draft position][image10]
 
 ### 2013 Recruiting Class
 
-The 2013 high school recruiting class had four different players improve improve their position in from high school to the NBA with three of them going from outside the top-60 to getting drafted or signing as an undrafted free agent.
+The 2013 high school recruiting class had four different players improve their position in from high school to the NBA with three of them going from outside the top-60 to getting drafted or signing as an undrafted free agent.
 
 **Luke Kornet - Vanderbilt**
 
@@ -227,7 +227,7 @@ The 2015 high school recruiting class had seven different players improve their 
 
 **Kyle Alexander - Tennessee**
 
-Kyle Alexander was the 362nd ranked recruit in the 2015 class but ended up signing as an undrafted free agent in 2019 after four seasons at Tennessee. He is currently the second lowest ranked recruit to play in the NBA from the SEC since 2003.
+Kyle Alexander was the 362nd ranked recruit in the 2015 class but ended up signing as an undrafted free agent in 2019 after four seasons at Tennessee. He is currently the second-lowest ranked recruit to play in the NBA from the SEC since 2003.
 
 **Admiral Schofield - Tennessee**
 
@@ -263,7 +263,7 @@ Grant Williams was only the 191st ranked player in the 2016 high school class, b
 
 **Jordan Bone - Tennessee**
 
-Jordan Bone was ranked just 20 spots ahead of Tennessee teammate, Grant Williams, at 171st in the 2016 high school class. Bone then used his three years at Tenneessee to eventually become the 57th overall pick in the 2019 NBA Draft. Bone played just 10 games with the Detroit Pistons in his first NBA season after being drafted by the New Orleans Pelicans.
+Jordan Bone was ranked just 20 spots ahead of Tennessee teammate, Grant Williams, at 171st in the 2016 high school class. Bone then used his three years at Tennessee to eventually become the 57th overall pick in the 2019 NBA Draft. Bone played just 10 games with the Detroit Pistons in his first NBA season after being drafted by the New Orleans Pelicans.
 
 **Robert Williams - Texas A&M**
 
@@ -297,11 +297,11 @@ The 2018 recruiting class has already had two players improve their position fro
 
 With the 2020 NBA Draft being the first opportunity for players from the 2019 high school class, it seems that Isaac Okoro and Anthony Edwards are the only recruits with the chance to improve their standing after just one season in the SEC.
 
-Isaac Okoro was the 45th overall recruit and is [currently projected to go in the top 12 picks]({% post_url 2020-8-28-where-sec-basketball-players-are-projected-to-get-drafted-according-to-over-50-2020-nba-mock-drafts %}) while Anthony Edwards was the 2nd overall prospect and will need to go number one overall to technially improve on his high school ranking.
+Isaac Okoro was the 45th overall recruit and is [currently projected to go in the top 12 picks]({% post_url 2020-8-28-where-sec-basketball-players-are-projected-to-get-drafted-according-to-over-50-2020-nba-mock-drafts %}) while Anthony Edwards was the 2nd overall prospect and will need to go number one overall to technically improve on his high school ranking.
 
 {% include ad-content.html %}
 
-I now have a mostly complete spreadsheet covering SEC baketball recruits and paired with my spreadsheet on NBA Draft picks out of th SEC, this was the first series that I wanted to write on. I plan to have some other fun posts based on the information I've collected and will continue to collect, but I hope this was a nice look at players that have outperformed their high school recruiting ranking.
+I now have a mostly complete spreadsheet covering SEC basketball recruits and paired with my spreadsheet on NBA Draft picks out of the SEC, this was the first series that I wanted to write on. I plan to have some other fun posts based on the information I've collected and will continue to collect, but I hope this was a nice look at players that have outperformed their high school recruiting ranking.
 
 If there are other things that you would like to see based on SEC recruiting over time, please let me know [on Twitter](https://www.twitter.com/jacobvarner) and I might answer your quick questions or make a series or post based on what you want to see.
 
