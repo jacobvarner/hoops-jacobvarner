@@ -35,7 +35,7 @@ In his first season at Arkansas, Olu Famutimi made the SEC All-Freshman Team and
 
 The 2004 recruiting class had 12 players fall from their high school ranking to their position after college, but none of the players fell from inside the top-30 to not making the NBA. Alabama's Ron Steele was the closest when he fell from a high school ranking of 31 to never getting to play in the NBA.
 
-Randolph Morris from Kentucky had the biggest drop going from the eighth overall recruit out of high school to an undrafted free-agent two years later.
+Randolph Morris from Kentucky had the biggest drop going from the eighth overall recruit out of high school to an undrafted free agent two years later.
 
 ![All basketball prospects from the 2004 recruiting class that fell from their high school ranking to NBA selection][image2]
 
@@ -189,7 +189,7 @@ Even worse than Hill, Walker was the 7th overall recruit and made it only two se
 
 ### 2014 Recruiting Class
 
-The 2014 recruiting class had eight players fall from their high school ranking, but none of the players that missed out on the NBA completely were in the top-30. Devin Robinson from Florida had the biggest drop, but he only went from the 18th ranked recruit to signing as an undrafted free-agent in 2017.
+The 2014 recruiting class had eight players fall from their high school ranking, but none of the players that missed out on the NBA completely were in the top-30. Devin Robinson from Florida had the biggest drop, but he only went from the 18th ranked recruit to signing as an undrafted free agent in 2017.
 
 ![All basketball prospects from the 2014 recruiting class that fell from their high school ranking to NBA selection][image12]
 
