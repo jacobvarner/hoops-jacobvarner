@@ -231,7 +231,7 @@ Kyle Alexander was the 362nd ranked recruit in the 2015 class but ended up signi
 
 **Admiral Schofield - Tennessee**
 
-Continuing the trend of Tennessee's 2015 recruiting class, Admirial Schofield went fro the 251st ranked player in the 2015 recruiting class to getting drafted 42nd overall in the 2019 NBA Draft after four seasons at Tennessee.
+Continuing the trend of Tennessee's 2015 recruiting class, Admiral Schofield went fro the 251st ranked player in the 2015 recruiting class to getting drafted 42nd overall in the 2019 NBA Draft after four seasons at Tennessee.
 
 **Terence Davis - Ole Miss**
 

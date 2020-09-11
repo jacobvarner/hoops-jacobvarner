@@ -85,7 +85,7 @@ Quickley made the most of his return to Kentucky by playing his way to an SEC Pl
 
 ### Ashton Hagans - SO, Kentucky
 
-Asthon Hagan's size might be a factor, or teams might have questions about his odd disappearance from Kentucky's team late in the year. However, there are still a handful of drafts that have Hagans getting drafted and if more of these mock drafts included the second-round, it might be considered an even more likely outcome.
+Ashton Hagan's size might be a factor, or teams might have questions about his odd disappearance from Kentucky's team late in the year. However, there are still a handful of drafts that have Hagans getting drafted and if more of these mock drafts included the second-round, it might be considered an even more likely outcome.
 
 Of the mock drafts that did include a second round, he did still only go as high as the 45th pick, so it might be a long, stressful draft night for the Kentucky guard.
 
