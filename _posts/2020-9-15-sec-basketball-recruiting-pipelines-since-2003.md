@@ -5,7 +5,7 @@ author: Jacob Varner
 tags: [SEC, Recruiting]
 time_to_read: 6 minutes
 description: A breakdown of where each SEC basketball school has sourced their talent since 2003 with frequency maps for each team with some that may surprise you.
-image: "/images/2020-9-14/sec-basketball-recruiting-map.png"
+image: "/images/2020-9-15/sec-basketball-recruiting-map.png"
 ---
 
 I figured out that you could do some pretty cool stuff with map data in Google Sheets and now have quite a bit of SEC recruiting data so I figured I would take a look at where each SEC school has done most of their recruiting over the last two decades.
@@ -267,21 +267,21 @@ Several of the maps came as a surprise to me and based on [the many incorrect gu
 
 I've got one or two more things that I want to work on based on my recent gathering of recruiting data, but as always, I'm open to what other types of posts or projects you'd like to see given I have the time and ability to find the data to answer your questions and curiosity. Don't hesitate to [reach out to me on Twitter](https://www.twitter.com/jacobvarner) to let me know which projects you have enjoyed or what kind of things you'd like to see in the future.
 
-[image1]: {{ "/images/2020-9-14/alabama-basketball-recruiting-map.png" | relative_url}}
-[image2]: {{ "/images/2020-9-14/arkansas-basketball-recruiting-map.png" | relative_url}}
-[image3]: {{ "/images/2020-9-14/auburn-basketball-recruiting-map.png" | relative_url}}
-[image4]: {{ "/images/2020-9-14/florida-basketball-recruiting-map.png" | relative_url}}
-[image5]: {{ "/images/2020-9-14/georgia-basketball-recruiting-map.png" | relative_url}}
-[image6]: {{ "/images/2020-9-14/kentucky-basketball-recruiting-map.png" | relative_url}}
-[image7]: {{ "/images/2020-9-14/lsu-basketball-recruiting-map.png" | relative_url}}
-[image8]: {{ "/images/2020-9-14/mississippi-state-basketball-recruiting-map.png" | relative_url}}
-[image9]: {{ "/images/2020-9-14/missouri-basketball-recruiting-map.png" | relative_url}}
-[image10]: {{ "/images/2020-9-14/ole-miss-basketball-recruiting-map.png" | relative_url}}
-[image11]: {{ "/images/2020-9-14/south-carolina-basketball-recruiting-map.png" | relative_url}}
-[image12]: {{ "/images/2020-9-14/tennessee-basketball-recruiting-map.png" | relative_url}}
-[image13]: {{ "/images/2020-9-14/texas-am-basketball-recruiting-map.png" | relative_url}}
-[image14]: {{ "/images/2020-9-14/vanderbilt-basketball-recruiting-map.png" | relative_url}}
-[image15]: {{ "/images/2020-9-14/sec-basketball-recruiting-map.png" | relative_url}}
+[image1]: {{ "/images/2020-9-15/alabama-basketball-recruiting-map.png" | relative_url}}
+[image2]: {{ "/images/2020-9-15/arkansas-basketball-recruiting-map.png" | relative_url}}
+[image3]: {{ "/images/2020-9-15/auburn-basketball-recruiting-map.png" | relative_url}}
+[image4]: {{ "/images/2020-9-15/florida-basketball-recruiting-map.png" | relative_url}}
+[image5]: {{ "/images/2020-9-15/georgia-basketball-recruiting-map.png" | relative_url}}
+[image6]: {{ "/images/2020-9-15/kentucky-basketball-recruiting-map.png" | relative_url}}
+[image7]: {{ "/images/2020-9-15/lsu-basketball-recruiting-map.png" | relative_url}}
+[image8]: {{ "/images/2020-9-15/mississippi-state-basketball-recruiting-map.png" | relative_url}}
+[image9]: {{ "/images/2020-9-15/missouri-basketball-recruiting-map.png" | relative_url}}
+[image10]: {{ "/images/2020-9-15/ole-miss-basketball-recruiting-map.png" | relative_url}}
+[image11]: {{ "/images/2020-9-15/south-carolina-basketball-recruiting-map.png" | relative_url}}
+[image12]: {{ "/images/2020-9-15/tennessee-basketball-recruiting-map.png" | relative_url}}
+[image13]: {{ "/images/2020-9-15/texas-am-basketball-recruiting-map.png" | relative_url}}
+[image14]: {{ "/images/2020-9-15/vanderbilt-basketball-recruiting-map.png" | relative_url}}
+[image15]: {{ "/images/2020-9-15/sec-basketball-recruiting-map.png" | relative_url}}
 
 
 
