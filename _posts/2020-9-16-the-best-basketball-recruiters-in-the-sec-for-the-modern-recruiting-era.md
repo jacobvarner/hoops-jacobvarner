@@ -11,9 +11,9 @@ Since the beginning of the 2003 season, there have been 47 different head coache
 
 I wanted to attempt to look at the different levels of success for each of those 47 coaches over the last 17 years and try to categorize them into tiers and see which coaches have the best track record of success as well as newer coaches that are already showing early promise. The SEC as a whole has seen a major resurgence of talent through the ability of many different teams to pursue top basketball prospects out of high school.
 
-Before I get started, I am aware that a lot recruiting is not to a single coaches credit and that there are many assistant coaches in the SEC that are pivotal in these head coaches maintaining their success on the recruiting trail. That being said, it's a lot harder to find consistent data for assistant coaches recruiting and landing prospects, so consider these rankings an evaluation of the entire staff (that is also often changing for many of these head coaches).
+Before I get started, I am aware that a lot of recruiting is not to a single coach's credit and that there are many assistant coaches in the SEC that are pivotal in these head coaches maintaining their success on the recruiting trail. That being said, it's a lot harder to find consistent data for assistant coaches recruiting and landing prospects, so consider these rankings an evaluation of the entire staff (that is also often changing for many of these head coaches).
 
-Lastly, I have simply assigned recruits to a coach if they committed in class before the coaches first season on the court. In many cases a lot of these recruits might have been initially recruited by the previous coach, but ultimately the incoming coach had at least part of the recruiting period and convinced these players to stay committed.
+Lastly, I have simply assigned recruits to a coach if they committed in class before the coach's first season on the court. In many cases, a lot of these recruits might have been initially recruited by the previous coach, but ultimately the incoming coach had at least part of the recruiting period and convinced these players to stay committed.
 
 With all of that being said, here are my "rankings." And while I tried to base these almost entirely off of data, if you disagree with where I place certain coaches or disagree with the metrics that I value, I'm open for more input and discussion [on Twitter](https://www.twitter.com/jacobvarner).
 
@@ -23,11 +23,11 @@ With all of that being said, here are my "rankings." And while I tried to base t
 
 John Calipari is obviously in a league all by himself when it comes to recruiting. There might be a few other coaches nationally that can rival his accomplishments on the recruiting trail, but no one in the SEC comes close.
 
-Calipari, in his 12 recruiting classes at Kentucky has 67 total players with an average 247 Sports Composite rating of 0.9826 and average star classification of 4.612.
+Calipari, in his 12 recruiting classes at Kentucky has 67 total players with an average 247 Sports Composite rating of 0.9826 and an average star classification of 4.612.
 
-With 46 total 5-star signees, Calipari at Kentucky has more than the next 13 SEC coaches combined and his 37 McDonald's All-Americans is 24 more than even SEC and college basketball legend Billy Donovan had in his 16 seasons at Florida.
+With 46 total 5-star signees, Calipari at Kentucky has more than the next 13 SEC coaches combined and his 37 McDonald's All-Americans are 24 more than even SEC and college basketball legend Billy Donovan had in his 16 seasons at Florida.
 
-When looking at the average ranking of his recruits, the 26.45 average is the only SEC result less than 100, and includes 24 different top-10 prospects
+When looking at the average ranking of his recruits, the 26.45 average is the only SEC result less than 100 and includes 24 different top-10 prospects
 
 {% include ad-content.html %}
 
@@ -35,25 +35,25 @@ When looking at the average ranking of his recruits, the 26.45 average is the on
 
 **Billy Donovan**
 
-Before jumping to the NBA, Billy Donovan coached 18 seasons at Florida and has a long list of accomplishments to show for it. While his recruiting metrics since 2003 don't quite match up to the incredible results on the court, he's still clearly one of the top recruiters and developer of talent.
+Before jumping to the NBA, Billy Donovan coached 18 seasons at Florida and has a long list of accomplishments to show for it. While his recruiting metrics since 2003 don't quite match up to the incredible results on the court, he's still clearly one of the top recruiters and developers of talent.
 
 Donovan has the second most 5-star recruits since 2003 with 8 and has the most 4-star recruits at 24, despite leaving the SEC after the 2014-2015 season. He is also second in recruiting McDonald's All-Americans with 13.
 
-Since 2003, Donovan has the third highest average recruit ranking according to the 247 Sport Composit at 0.9462, trailing just John Calipari and newcomer Eric Musselman. He also has the third highest average star rating behind just John Calipari and Bryce Drew at 3.844.
+Since 2003, Donovan has the third-highest average recruit ranking according to the 247 Sport Composit at 0.9462, trailing just John Calipari and newcomer Eric Musselman. He also has the third-highest average star rating behind just John Calipari and Bryce Drew at 3.844.
 
 **Bruce Pearl**
 
 Bruce Pearl has the benefit of proving that he can find success at two different SEC schools, Tennessee (2005-2010) and Auburn (2014-Present) while having an impressive ability to develop talent.
 
-Pearl is already tied for fourth with four 5-star recruits since 2003 and is third with 23 4-star recruits. With things mostly rolling at Auburn, it seems like Pearl also has the chance to start adding to both of those numbers as higher ranked prospects start to take Auburn seriously.
+Pearl is already tied for fourth with four 5-star recruits since 2003 and is third with 23 4-star recruits. With things mostly rolling at Auburn, it seems like Pearl also has the chance to start adding to both of those numbers as higher-ranked prospects start to take Auburn seriously.
 
-Because of his knack for developing lower ranked recruits and utilizing key Junior College players, Bruce Pearl only has an average recruit rating of 0.9242 (12th), average star classification of 3.689 (8th), and average ranking of 144.29 (16th).
+Because of his knack for developing lower-ranked recruits and utilizing key Junior College players, Bruce Pearl only has an average recruit rating of 0.9242 (12th), average star classification of 3.689 (8th), and an average ranking of 144.29 (16th).
 
 **Rick Stansbury**
 
 Rick Stansbury spent exactly 13 years coaching in the SEC with nine of those being since 2003 where he recruited 37 total players including two 5-stars and 16 4-stars for an average star rating since 2003 of 3.417.
 
-Stansbury has carried his recruiting prowess to Western Kentucky now, but even at Mississippi State, he was able to pull in top talent when the league as a whole wasn't really a popular destiation for top prospects.
+Stansbury has carried his recruiting prowess to Western Kentucky now, but even at Mississippi State, he was able to pull in top talent when the league as a whole wasn't really a popular destination for top prospects.
 
 {% include ad-content.html %}
 
@@ -73,9 +73,9 @@ Regardless, in terms of recruiting, Tubby Smith managed to sign three 5-star and
 
 **Johnny Jones**
 
-In my opinion (and I'd think many others would agree) Johnny Jones was a pretty big failure overall at LSU, but he still managed to bring in some top talent in his five season, including top ranked prospect Ben Simmons in 2015.
+In my opinion (and I'd think many others would agree) Johnny Jones was a pretty big failure overall at LSU, but he still managed to bring in some top talent in his five seasons, including top-ranked prospect Ben Simmons in 2015.
 
-In just five years in Baton Rouge, Jones brought in three 5-star recruits and four 4-star recruits with an average recruit clasification of 3.526 (8th).
+In just five years in Baton Rouge, Jones brought in three 5-star recruits and four 4-star recruits with an average recruit classification of 3.526 (8th).
 
 {% include ad-content.html %}
 
@@ -101,23 +101,23 @@ Howland may have just one 5-star recruit, but his 14 4-star recruits give him an
 
 Ignoring the speculative methods that Wade has used, he's still managed to find immediate success on the recruiting trail after just four classes at LSU.
 
-Wade already had four 5-star recruits which is tied for third most since 2003. He has an average star classification of 3.700 (7th) and average recruit rating of 0.9326 (7th). If he can continue to dodge the NCAA and prove that he's recruiting in the right way, Wade is well on his path to being one of the best recruiters in the SEC.
+Wade already has four 5-star recruits, which is tied for third-most since 2003. He has an average star classification of 3.700 (7th) and an average recruit rating of 0.9326 (7th). If he can continue to dodge the NCAA and prove that he's recruiting in the right way, Wade is well on his path to being one of the best recruiters in the SEC.
 
 **Michael White**
 
 Michael White already has six recruiting classes in the SEC, so he might not fit exactly in this group, but he's a relative newcomer in the major head coaching jobs so I think this is the best fit for him.
 
-At Florida, White has already signed three 5-star recruits and ten 4-star recruits which gives him an average star classification of 3.727 (5th) and average recruit rating of 0.9336 (6th). The concern for White is if he can continue the recruiting success at a recently relevant program like Florida without reaching some of the success that Billy Donovan made the standard.
+At Florida, White has already signed three 5-star recruits and ten 4-star recruits which gives him an average star classification of 3.727 (5th) and an average recruit rating of 0.9336 (6th). The concern for White is if he can continue the recruiting success at a recently relevant program like Florida without reaching some of the success that Billy Donovan made the standard.
 
 **Eric Musselman**
 
 Eric Musselman is one of the newest head coaches in the SEC, but he's already off to a promising start at a program that has higher expectations than what Mike Anderson could sustain before him.
 
-Musselman hasn't signed a 5-star prospect yet, but through his first two seasons in the SEC, he has an average star classification of 3.800 (4th) and an average recruit rating of 0.9490 (2nd) thanks to his early sucess landing highly rated 4-star recruits in his first two recruiting classes.
+Musselman hasn't signed a 5-star prospect yet, but through his first two seasons in the SEC, he has an average star classification of 3.800 (4th) and an average recruit rating of 0.9490 (2nd) thanks to his early success landing highly-rated 4-star recruits in his first two recruiting classes.
 
 **Nate Oats**
 
-I think Nate Oats is off to almost the exact same hot start that Eric Musselman is in the SEC. Both have yet to land a conseneus 5-star recruit, but that's mostly likely coming soon.
+I think Nate Oats is off to almost the exact same hot start that Eric Musselman is in the SEC. Both have yet to land a consensus 5-star recruit, but that's most likely coming soon.
 
 Oats has landed six 4-star recruits in just two years of recruiting and has an impressive average recruit rating of 0.9351 (5th) and average star classification of 3.600 (12th).
 
@@ -151,4 +151,4 @@ A single 5-star recruit:
 
 Almost every current coach is included in one of these groups and that speaks to the rapid increase of talent and competition in the league currently. If some of the newer coaches continue their success on the recruiting trail, the SEC could see even more of a rise to the national picture for more teams than just Kentucky and the other few SEC schools that happen to reach a short peak.
 
-Recruiting is the source of almost every good college basketball program, and as SEC school continue to build on their facilities, coaching staffs, and fan support, there's a good chance that SEC basketball can start to attain the respect that SEC football has grown to have.
+Recruiting is the source of almost every good college basketball program, and as SEC schools continue to build on their facilities, coaching staff, and fan support, there's a good chance that SEC basketball can start to attain the respect that SEC football has grown to have.
