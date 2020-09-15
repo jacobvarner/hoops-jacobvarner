@@ -282,8 +282,3 @@ I've got one or two more things that I want to work on based on my recent gather
 [image13]: {{ "/images/2020-9-15/texas-am-basketball-recruiting-map.png" | relative_url}}
 [image14]: {{ "/images/2020-9-15/vanderbilt-basketball-recruiting-map.png" | relative_url}}
 [image15]: {{ "/images/2020-9-15/sec-basketball-recruiting-map.png" | relative_url}}
-
-
-
-
-
