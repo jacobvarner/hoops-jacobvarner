@@ -4,7 +4,7 @@ title: The Best Basketball Recruiters in the SEC for the Modern Recruiting Era
 author: Jacob Varner
 tags: [SEC, Recruiting]
 time_to_read: 6 minutes
-description: It's quite obvious at this point that John Calipari has completely dominated the recruiting game, especially in the SEC, but I attempt to sort other high profile SEC head coaches into different tiers based on their recruiting success and early promise.
+description: It's quite obvious at this point that John Calipari has completely dominated the recruiting game, especially in the SEC, but I attempt to sort through other high profile SEC head coaches into different tiers based on their recruiting success and early promise.
 ---
 
 Since the beginning of the 2003 season, there have been 47 different head coaches to have coached for the 14 current SEC schools. Some coaches are able to accomplish more with less, but at the end of the day, the ability to recruit well in college basketball is almost always high up on the list of skills that schools require.
