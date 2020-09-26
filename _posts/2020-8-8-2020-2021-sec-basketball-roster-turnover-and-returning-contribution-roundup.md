@@ -11,7 +11,7 @@ To say it's been an odd off-season would be a major understatement, and even aft
 
 I've been tracking roster changes all off-season, and now that all turnover should be mostly complete, I thought it was a good time to look at what each team loses and gains from both a personnel and statistical sense. With practice time and the transition to new situations likely looking different this fall, having less turnover could be even more advantageous this year than other years.
 
-Once there is a better sense of what the season will look like and schedules are finalized for each of the teams, I'll probably end up using this information to form my predictions, but for now, I just have few general thoughts and observations.
+Once there is a better sense of what the season will look like and schedules are finalized for each of the teams, I'll probably end up using this information to form my predictions, but for now, I have just a few general thoughts and observations.
 
 For each team, I have indicated players that have left, newly joined the team, and are continuing with their career. I've noted why certain players are leaving, and with the NBA Draft deadline passed (at least as far as the NCAA is concerned) this should be as finalized as can be with everything going on. I've noted the recruiting rankings of incoming players as well as whether incoming transfers are immediately eligible to play or currently have to sit out a year (%). I imagine more players will get eligibility waivers this year, but for now, I've assumed that everyone other than grad transfers and those that have already received a waiver will have to sit out.
 
@@ -235,9 +235,9 @@ Mississippi State had one of their better chances to challenge for the SEC champ
 
 **Incoming Recruiting Class National Rank:** 157th (14th)
 
-Missouri is retuning almost everybody and leads the SEC in contribution percentage for points, rebounds, assists and minutes. There were times last season where it looked like the Tigers were showing signs of finally figuring things out in Columbia, but with every major player other than Reed Nikko returning, Cuonzo Martin's squad could finally be relevant. At the very least, Missouri has the title as the sleeper on lock for next season.
+Missouri is retuning almost everybody and leads the SEC in contribution percentage for points, rebounds, assists, and minutes. There were times last season where it looked like the Tigers were showing signs of finally figuring things out in Columbia, but with every major player other than Reed Nikko returning, Cuonzo Martin's squad could finally be relevant. At the very least, Missouri has the title as the sleeper on lock for next season.
 
-I've mentioned several times throughout this post that I think experience will be more valuable than talent next season because of the uncertainty and likely loss of practice time, therefore I will not be shocked if Missouri uses that massive advantage to makes some noise this year. Now is the time to make the most of it, because with six seniors and three juniors next season and just a single low ranked recruit adding youth there might not be a better opportunity for the Tigers.
+I've mentioned several times throughout this post that I think the experience will be more valuable than talent next season because of the uncertainty and likely loss of practice time, therefore I will not be shocked if Missouri uses that massive advantage to makes some noise this year. Now is the time to make the most of it, because with six seniors and three juniors next season and just a single low ranked recruit adding youth there might not be a better opportunity for the Tigers.
 
 {% include ad-content.html %}
 
@@ -303,7 +303,7 @@ Rick Barnes has probably the most talent returning and adds the second-best recr
 
 Buzz Williams joins Nate Oates and Eric Musselman as the most recent batch of highly touted up-and-coming coaches to join the league last season. With all going into their second year in the SEC, Buzz Williams will try to keep up with them through returning talent and a highly ranked recruiting class of his own.
 
-The Aggies won enough games last season to finish in the top of the league after a pretty poor non-conference showing. If Buzz Williams can get this year's team to match the full season to last year's conference play success, Texas A&M might have enough to make it back to the post-season. The two top-100, 4-stars joining the squad along with graduate transfer Kevin Marfo should provide a spark to pair with the returning skill and hopefully, the Aggies can get back into conference title conversation if things go their way.
+The Aggies won enough games last season to finish at the top of the league after a pretty poor non-conference showing. If Buzz Williams can get this year's team to match the full season to last year's conference play success, Texas A&M might have enough to make it back to the post-season. The two top-100, 4-stars joining the squad along with graduate transfer Kevin Marfo should provide a spark to pair with the returning skill and hopefully, the Aggies can get back into conference title conversation if things go their way.
 
 {% include ad-content.html %}
 
