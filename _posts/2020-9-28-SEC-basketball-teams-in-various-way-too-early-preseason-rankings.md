@@ -7,8 +7,6 @@ time_to_read: 4 minutes
 description: Taking a look at where SEC basketball teams find themselves in various "way too early" preseason college basketball rankings.
 ---
 
-DRAFT
-
 There's still plenty of time for more official polls to release their 2020-2021 college basketball rankings, but there are already enough personal polls and early rankings released to get a sense of where expectations lie for each SEC basketball team.
 
 I plan to track these polls and other more prominent and important polls like KenPom, the AP Poll, and the NET ratings throughout the year. But for now, each of these polls gives a good idea of where various "experts" think that SEC basketball teams stand going into the 2020-2021 college basketball season.
