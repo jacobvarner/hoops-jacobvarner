@@ -7,8 +7,6 @@ time_to_read: 10 minutes
 description: We are still over 50 days until college basketball tips off, but with more and more information starting to slowly come out, I was tired of waiting and decided to go ahead and release my "way too early" preseason power rankings for the SEC.
 ---
 
-DRAFT
-
 In the last week or so we finally got a start date for college basketball (November 25th) and the first dates for SEC league play (December 29th and 30th). I've been holding off on starting my outlook for the 2020-2021 season, but with the key information starting to come out, I figured I could go ahead and release my "way too early" preseason power rankings for the SEC.
 
 These are not my preseason predictions for the SEC, because I firmly believe in only releasing those once a full schedule is announced for each team and I can predict the year game-by-game. However, with all buy a few transfer waiver announcements remaining and barring any SEC basketball players decide to opt-out, I think I have enough information to be confident in my preseason power rankings.
