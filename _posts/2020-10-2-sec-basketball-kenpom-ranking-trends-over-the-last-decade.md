@@ -7,8 +7,6 @@ time_to_read: 9 minutes
 description: A look at how each SEC basketball team has progressed or regressed in KenPom ranking from the preseason to the final rankings each of the years in the last decade.
 ---
 
-DRAFT
-
 If you [follow me on Twitter](https://www.twitter.com/jacobvarner) it's probably not a secret that I am a little obsessed with [KenPom](https://www.kenpom.com). KenPom ranks every team in college basketball based on their offensive and defensive efficiencies weighted against every other team in college basketball. Because of this, KenPom is a good way to see a pretty accurate ranking of where each college basketball team stands in any given year and any given game.
 
 I decided to go back and look at the KenPom ranking for each SEC team in each of their games over the last decade. This allowed me to see which teams improved throughout the year, bounced between surpassing or falling below expectations, or just fell throughout the year. I've also included the range that each team stayed in throughout the year as well as their average ranking if you wish to see how a team did throughout a full season.
