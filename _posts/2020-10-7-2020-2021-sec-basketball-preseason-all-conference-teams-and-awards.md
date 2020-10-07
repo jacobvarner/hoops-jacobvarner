@@ -7,8 +7,6 @@ time_to_read: 8 minutes
 description: My prediction for which players will land on each of the All-SEC teams as well as who will take home awards such as Player of the Year, Defensive Player of the Year, and Freshman of the Year at the end of the season.
 ---
 
-DRAFT
-
 Last week, I released my ["way too early" preseason power rankings for SEC basketball teams]({% post_url 2020-9-30-2020-2021-sec-basketball-power-rankings-preseason %}). Now to follow that up, here are my preseason all-conference teams as well as my predictions for player awards.
 
 While it made it harder to decide on teams, I believe in having all-conference teams that only have five players per team and resemble an accurate mix of players that could be run out onto the court at once. In this case, each team has three guards and two frontcourt players. Because of these guidelines, there are quite a few quality guard players that were left off of the three teams, and I plan to have a follow-up post covering the players that were also considered for these teams but didn't quite make the cut.
