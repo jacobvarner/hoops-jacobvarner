@@ -128,9 +128,9 @@ Dru Smith was another player that shocked me a little bit when looking at where 
 
 Terrence Clarke joins BJ Boston as the only other top-10 freshman playing in the SEC this season and will also be expected to contribute immediately if Kentucky is going to successfully rely on a loaded freshman class even more so this season.
 
-#### Oliver Sarr - SR, C, Kentucky
+#### Olivier Sarr - SR, C, Kentucky
 
-I currently have Kentucky as one of the favorites to be the best team in the SEC this season along with Tennessee, but Oliver Sarr being eligible is a big part of that expectation. If Sarr is granted immediate eligibility by the SEC after transferring from Wake Forrest, he would immediately become one of the best bigs in the SEC after having success in the ACC.
+I currently have Kentucky as one of the favorites to be the best team in the SEC this season along with Tennessee, but Olivier Sarr being eligible is a big part of that expectation. If Sarr is granted immediate eligibility by the SEC after transferring from Wake Forest, he would immediately become one of the best bigs in the SEC after having success in the ACC.
 
 {% include ad-content.html %}
 
