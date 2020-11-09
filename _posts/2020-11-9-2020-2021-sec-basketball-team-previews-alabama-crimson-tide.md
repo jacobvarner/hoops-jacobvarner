@@ -7,8 +7,6 @@ time_to_read: 5 minutes
 description: A detailed look at the Alabama Crimson Tide heading into the 2020-2021 college basketball season including game-by-game predictions, a statistical team overview, newcomers, and a projected depth chart.
 ---
 
-DRAFT
-
 Alabama is entering year two under Nate Oats, and after instilling an exciting, fast-paced offense last year and an impressive result on the recruiting trail, the Crimson Tide are garnering plenty of preseason expectations. While I have more faith in Oats than I did in Avery Johnson, mostly because his style of play is a little bit easier to succeed with in college, he is only entering year two, so I'm still a little too skeptical to assure that they'll be a top team in the SEC.
 
 However, Nate Oats has all of the talent needed to be successful in year two after signing four 4-star recruits to join four high quality returning players. I have both John Petty Jr. and Jaden Shackelford on [my preseason All-SEC First Team]({% post_url 2020-10-7-2020-2021-sec-basketball-preseason-all-conference-teams-and-awards %}) as well as Herb Jones on the All-SEC Defensive Team.
