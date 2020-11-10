@@ -7,8 +7,6 @@ time_to_read: 5 minutes
 description: A detailed look at the Arkansas Razorbacks heading into the 2020-2021 college basketball season including game-by-game predictions, a statistical team overview, newcomers, and a projected depth chart.
 ---
 
-DRAFT
-
 Arkansas is another team entering year two with a "new" coach in the SEC and their trajectory seems to be pretty close to Alabama's as well. Unlike Alabama, the Razorbacks don't have the fortune of returning stars to help them out. Both Mason Jones and Isaiah Joe opted to declare for the NBA Draft and that leaves the Razorbacks with not many certainties.
 
 Desi Stills does return after averaging double-digit points last season, but Eric Musselman will need his large group of newcomers to contribute quickly. The Razorbacks have a nice mix of fresh faces with three players eligible this year after sitting out due to transfer, three players immediately eligible after grad transferring, and then four 4-star high school prospects.
