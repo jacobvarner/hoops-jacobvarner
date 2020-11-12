@@ -7,8 +7,6 @@ time_to_read: 5 minutes
 description: A detailed look at the Kentucky Wildcats heading into the 2020-2021 college basketball season including game-by-game predictions, a statistical team overview, newcomers, and a projected depth chart.
 ---
 
-DRAFT
-
 Kentucky once again loses almost every single player from their previous season and also once again replaces them with a top recruiting class and a few key transfers. It's beginning to certainly reach the point where Kentucky's ceiling, especially on the national level, is determined by how well the highly ranked high school prospects live up to their expectations.
 
 This season, the raw talent of Kentucky might be able to play an even bigger advantage when opposing teams likely won't have as hostile of environments as a full crowd usually provides. With a shortened offseason, it might lead to more teams not having enough time to implement set schemes, and the ability to just throw a bunch of highly talented players to just play basketball could be even more useful than usual.
