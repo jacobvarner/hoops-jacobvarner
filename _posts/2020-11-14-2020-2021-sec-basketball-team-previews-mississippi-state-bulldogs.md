@@ -55,7 +55,7 @@ Unfortunately for Mississippi State, they only get to play the other teams I pre
 
 Drawing Iowa State at home could give Mississippi State a nice chance at a mid-season bright spot and a win for the SEC in the SEC/Big 12 Challenge.
 
-Ben Howland had done enough in his time at Mississippi State to show promise and justify himself as one of the major coaches hired over the last decade, but this year might be his toughest coaching challenge. The goal will be to win some games that they probably shouldn't and hopefully find a few key players out of the lower ranked recruits their bringing in.
+Ben Howland had done enough in his time at Mississippi State to show promise and justify himself as one of the major coaches hired over the last decade, but this year might be his toughest coaching challenge. The goal will be to win some games that they probably shouldn't and hopefully find a few key players out of the lower-ranked recruits they're bringing in.
 
 ![Mississippi State Game-by-Game Projections][image4]
 
