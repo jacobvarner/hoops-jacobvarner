@@ -7,8 +7,6 @@ time_to_read: 5 minutes
 description: A detailed look at the Georgia Bulldogs heading into the 2020-2021 college basketball season including game-by-game predictions, a statistical team overview, newcomers, and a projected depth chart.
 ---
 
-DRAFT
-
 Tom Crean hasn't been off to a great start in Athens, and after losing projected top-5 pick Anthony Edwards and four other key players, it doesn't look like year three will be any better. Georgia had one of the best players in the country last season and still only managed to finish with a perfect 0.500 record on the year and second to last place in the SEC.
 
 Now, without Anthony Edwards, the Bulldogs will rely on five rising sophomores, three grad transfers, and three junior college guys to survive another year. And surviving is about the goal I'd give for this year's Georgia team. The grad transfers that they brought in from George Mason, Stony Brook, and Virginia Tech should ad quality play, but I don't think having three grad transfers immediately enter your projected starting lineup is a good recipe for success.
