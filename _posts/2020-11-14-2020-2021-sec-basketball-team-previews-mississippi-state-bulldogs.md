@@ -7,8 +7,6 @@ time_to_read: 5 minutes
 description: A detailed look at the Mississippi State Bulldogs heading into the 2020-2021 college basketball season including game-by-game predictions, a statistical team overview, newcomers, and a projected depth chart.
 ---
 
-DRAFT
-
 It is never a good sign when eight different players leave the program, and it's an even worse sign when only one of them was a graduating senior. That's exactly what Ben Howland and Mississippi State are coming off of in a year where rebuilding a team will likely be even harder due to the pandemic that's been going on since March. If Mississippi State had managed to return Nick Weatherspoon, Robert Woodard, and Reggie Perry, they might be one of the favorites to finish near the top of the SEC.
 
 Instead, they only return a handful of players including Abdul Adu, D.J. Stewart, and Iverson Molinar. While the three each played in every game last season, and there are some other key pieces joining the team, none of it makes up for all the talent that the Bulldogs have lost and I don't think it'll be a good year in Starkville.
