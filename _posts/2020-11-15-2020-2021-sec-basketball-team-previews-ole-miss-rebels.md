@@ -7,8 +7,6 @@ time_to_read: 5 minutes
 description: A detailed look at the Ole Miss Rebels heading into the 2020-2021 college basketball season including game-by-game predictions, a statistical team overview, newcomers, and a projected depth chart.
 ---
 
-DRAFT
-
 While I don't think he's fully shown it yet, I have long realized that Kermit Davis is one of the better coaches in the SEC, especially when it comes to X's and O's and in-game performance. Now that he has one of his most talented, well-rounded teams since coming to Oxford, Ole Miss is a popular pick to be a team that can make some noise in the SEC this season.
 
 Consider me on the Ole Miss hype train going into this year. The Rebels return three of their top five scorers including Devontae Shuler who looks like he can step in as the primary scoring guard that Ole Miss usually has, most recently Breein Tyree. Along with returning several key players, Ole Miss also adds three transfers, two guys who redshirted last season, and a top-40 prospect in Matthew Murrell.
