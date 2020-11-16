@@ -7,8 +7,6 @@ time_to_read: 5 minutes
 description: A detailed look at the Tennessee Volunteers heading into the 2020-2021 college basketball season including game-by-game predictions, a statistical team overview, newcomers, and a projected depth chart.
 ---
 
-DRAFT
-
 Last season was a bit of a down year for Tennessee under Rick Barnes, but a lot of that had to do with key injuries and other factors. To make up for it, Tennessee returns almost all of the talent from last year and adds even more which makes them the best team in the SEC, [in my eyes]({% post_url 2020-9-30-2020-2021-sec-basketball-power-rankings-preseason %}), going into 2020-2021.
 
 Rick Barnes has done a nice job developing lower-ranked guys and international prospects over the past few years, but now he's starting
