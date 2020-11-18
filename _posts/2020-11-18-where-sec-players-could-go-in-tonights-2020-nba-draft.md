@@ -7,8 +7,6 @@ time_to_read: 6 minutes
 description: I once again went and dug through 40 recent NBA mock drafts to see where each SEC player could be projected to get picked.
 ---
 
-DRAFT
-
 I meant to keep up with this series and post a few updates over the last couple of months, but things got away from me. Instead, here is the final look at 40 different NBA mock drafts that I found across the internet and where each SEC player is projected to land.
 
 Once again, I have linked each of the drafts that I used at the bottom of this post. Many are doing live updates, so they could even change from the time I am writing this (Tuesday night), especially with all of the trades being announced and the anticipation that the draft will be very unpredictable already.
