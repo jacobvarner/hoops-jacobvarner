@@ -7,8 +7,6 @@ time_to_read: 5 minutes
 description: A detailed look at the Vanderbilt Commodores heading into the 2020-2021 college basketball season including game-by-game predictions, a statistical team overview, newcomers, and a projected depth chart.
 ---
 
-DRAFT
-
 It feels bad to pick Vanderbilt at the bottom of the league, once again, but with the SEC acquiring a surge of talent each of the last few years, the Commodores find themselves still in a transition as Jerry Stackhouse enters year two. Key pieces are returning like Scottie Pippen Jr. and Maxwell Evans, but unless one of them or someone else has an Aaron Nesmith like breakout season (and stays healthy) it's hard to see Vanderbilt climbing too far out of the cellar this season.
 
 The Commodores will most likely look better, and may actually be better, but so is the rest of the league around them. Similar to Texas A&M, Vanderbilt just doesn't have enough to get into the next tier and compete with the large group of teams in the "middle of the pack" in the SEC. I think Stackhouse can work at Vanderbilt, but he'll need much more patience than Bryce Drew received while he was in Nashville, and the injury bug has to leave the Commodores alone for at least a few years.
