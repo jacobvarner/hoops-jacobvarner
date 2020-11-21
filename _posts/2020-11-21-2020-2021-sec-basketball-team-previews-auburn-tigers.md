@@ -7,8 +7,6 @@ time_to_read: 5 minutes
 description: A detailed look at the Auburn Tigers heading into the 2020-2021 college basketball season including game-by-game predictions, a statistical team overview, newcomers, and a projected depth chart.
 ---
 
-DRAFT
-
 For each of the last few years, Auburn has been underrated going into the season, and it's hard to doubt Bruce Pearl and his squad at this point. However, it is undeniable that this will be the youngest team in recent memory and while it still has a high ceiling, getting young guys to all play to their full potential is a bigger challenge than getting experienced players to play better than others expected them to. Last season, Auburn won a lot of games with clutch moments late in games and made a lot of comebacks based on insane runs. I'm not saying that all the young talent can't do that, but early in the year, I don't expect Auburn to wind up on the winning side of every game.
 
 Last season Bruce Pearl had a case for coach of the year, and if the award was given out at the end of the postseason, he probably should have won it in 2019 as well. But if Pearl can manage to turn this young team into a contender in the SEC, and not just finish in the top half like I expect them to, then he really deserves the award, finally. All eyes and expectations should really be on the 2021-2022 team at this point, but Pearl has shown that overlooking Auburn might be a mistake and I don't think he or the team are looking for a "rebuilding year" even if Auburn fans should still set that as their expectation (I know they won't).
