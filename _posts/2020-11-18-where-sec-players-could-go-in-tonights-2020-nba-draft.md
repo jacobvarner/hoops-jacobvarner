@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where SEC Basketball Players Could go in Tonight's 2020 NBA Draft
+title: Where SEC Basketball Players Could Go in Tonight's 2020 NBA Draft
 author: Jacob Varner
 tags: [SEC, NBA Draft]
 time_to_read: 6 minutes
