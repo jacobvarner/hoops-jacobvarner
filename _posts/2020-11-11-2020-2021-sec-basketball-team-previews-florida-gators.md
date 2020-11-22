@@ -45,9 +45,11 @@ The three returning starters all hold onto their starting spots and then the fin
 
 Florida won't have much time to get accustomed to a new year of college basketball as they have major games against Virginia, Oklahoma, and Florida State all within the first month and all three are away from home. I have the Gators losing each of those, but if they can win one of those or at least all of their other non-conference games, they should set themselves up well enough where a nice run in the SEC can secure them a tournament spot.
 
-In SEC play, I have the Gators as one of the second tier teams and I think their schedule will play out where they find themselves tied with Alabama and South Carolina in the final standings but the tiebreaker will benefit them the most. Florida is fortunate to have Kentucky only at home, but they also have to travel to West Virginia in the middle of league play for the SEC/Big 12 Challenge.
+In SEC play, I have the Gators as one of the second-tier teams and I think their schedule will play out where they find themselves tied with Alabama and South Carolina in the final standings but the tiebreaker will benefit them the most. Florida is fortunate to have Kentucky only at home, but they also have to travel to West Virginia in the middle of league play for the SEC/Big 12 Challenge.
 
 I'm hesitant to put a lot of faith in Mike White's team again this year, but I think they'll start clicking once they get to SEC play again and the talent should be enough to handle games they should win and pull off enough wins against better competition.
+
+*EDIT: Florida had a COVID instance reported on 11/22 and will not travel to Mohegan Sun to face UMass Lowell and Virginia as previously scheduled. The updated schedule and predictions are below.*
 
 ![Florida Game-by-Game Projections][image4]
 
