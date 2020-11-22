@@ -2,7 +2,7 @@
 layout: post
 title: With 200 days left until college basketball returns these are the biggest questions for each SEC team
 author: Jacob Varner
-tags: [SEC, Off-Season]
+tags: [SEC, Offseason]
 time_to_read: 20 minutes
 description: The biggest unknowns and questions surrounding each of the SEC basketball teams 200 days out from the 2020 season.
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 2020-2021 SEC Basketball Roster Turnover and Returning Contribution Roundup
 author: Jacob Varner
-tags: [SEC, Off-Season]
+tags: [SEC, Offseason]
 time_to_read: 11 minutes
 description: A comprehensive look at what each SEC basketball team loses and adds to their roster going into the 2020-2021 season as well as initial expectations for each team.
 ---

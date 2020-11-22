@@ -3,8 +3,8 @@ layout: post
 title: An overview of KenPom, the NET, and other official metrics used by the NCAA Tournament selection committee in 2020
 author: Jacob Varner
 time_to_read: 10 minutes
-tags: NCAA Tournament
-description: The NCAA Tournament selection committee uses a handful of evaluation metrics, such as KenPom, the NET, strength of record, and others, and this is how they work.
+tags: [NCAA Tournament]
+description: The NCAA Tournament selection committee uses a handful of evaluation metrics, such as KenPom, the NET, the strength of record, and others, and this is how they work.
 ---
 
 A few years ago, the NCAA officially ditched the RPI (finally) and introduced a
@@ -46,7 +46,7 @@ more favorable than a team with a similar resume or slightly resume that didn't
 lose any key players to injury.
 
 Alongside the NET, which is a combination of both, the five other metrics that
-the NCAA uses are broken into two groups: results-based etrics and predictive
+the NCAA uses are broken into two groups: results-based metrics and predictive
 metrics.
 
 {% include ad-content.html %}
@@ -70,7 +70,7 @@ taken at the end of the year for Selection Sunday. For instance, a team may get
 a win that counts as a Quad 1 win at the time, but if that other team finished
 the year poorly, it may slide to a Quad 2 win by the end of the year.
 
-While the NET says that it caps the impact of margin of victory, some still
+While the NET says that it caps the impact of the margin of victory, some still
 criticize it because the efficiency component is most likely still not capped.
 This is still technically speculation because seemingly no one knows the
 official algorithm used to generate the rankings.

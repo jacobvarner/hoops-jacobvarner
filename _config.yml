@@ -23,6 +23,11 @@ defaults:
 baseurl: "/"
 url: "https://hoops.jacobvarner.com"
 
+collections:
+  mytags:
+    output: true
+    permalink: /tag/:name/
+
 # Number of posts per page and url/slug used for pagination
 paginate: 10
 paginate_path: "/page:num/"

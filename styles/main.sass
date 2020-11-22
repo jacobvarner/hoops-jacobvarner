@@ -84,6 +84,15 @@ div#posts-container, div#search-container
   display: block
   margin: 20px auto
   padding: 20px
+  
+  h2.tag-header
+    font-family: "Roboto Condensed", sans-serif
+    font-size: 36px
+    color: $dark-gray
+    line-height: 40px
+    margin: 0 0 10px 0
+    padding: 0
+    vertical-align: middle
 
   div.post-container
     display: block
@@ -97,11 +106,13 @@ div#posts-container, div#search-container
       padding: 0
       color: $light-gray
 
-      p
+      a,a:hover,a:active,a:visited
         line-height: 20px
         font-size: 18px
         font-family: "Roboto Condensed", serif
         text-transform: uppercase
+        text-decoration: none
+        color: $light-gray
         margin: 0
         padding: 0
     
@@ -361,6 +372,15 @@ div#resources-container
   margin: 20px auto
   padding: 20px
 
+  h2#resources-header
+    font-family: "Roboto Condensed", sans-serif
+    font-size: 36px
+    color: $dark-gray
+    line-height: 40px
+    margin: 0 0 10px 0
+    padding: 0
+    vertical-align: middle
+
   div.resource
     display: block
     margin: 0 0 60px 0
@@ -395,3 +415,44 @@ div#resources-container
       color: black
       text-decoration: none
       border-radius: 3px
+
+div#tags-container
+  position: relative
+  max-width: 1000px
+  display: block
+  margin: 20px auto
+  padding: 20px
+
+  h2#tags-header
+    font-family: "Roboto Condensed", sans-serif
+    font-size: 36px
+    color: $dark-gray
+    line-height: 40px
+    margin: 0 0 10px 0
+    padding: 0
+    vertical-align: middle
+  
+  h3.tags-subheader
+    font-family: "Roboto Condensed", sans-serif
+    font-size: 30px
+    color: black
+    line-height: 40px
+    margin: 20px 0 10px 0
+    padding: 0
+    vertical-align: middle
+
+  span.post-tag
+    display: inline-block
+    margin: 0 10px 10px 0
+    padding: 0
+    color: $light-gray
+
+    a,a:hover,a:active,a:visited
+      line-height: 20px
+      font-size: 18px
+      font-family: "Roboto Condensed", serif
+      text-transform: uppercase
+      text-decoration: none
+      color: $light-gray
+      margin: 0
+      padding: 0
