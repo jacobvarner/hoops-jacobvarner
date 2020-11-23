@@ -8,8 +8,6 @@ description: A detailed look at the LSU Tigers heading into the 2020-2021 colleg
 image: "/images/post-images/2020-2021-sec-basketball-team-previews-lsu-tigers.png"
 ---
 
-DRAFT
-
 There is speculation about how he was able to do it, but there is no denying that Will Wade has turned LSU into an SEC power in just his first few seasons on the job. With 28 SEC regular-season wins over the last two seasons and already a regular-season title, Will Wade just keeps reloading. While the Tigers struggled down the stretch in SEC play last season, they return key players and have one of the nation's top recruiting classes which should put them in a position to push for another conference title.
 
 I have LSU as one of the more talented teams in the SEC this season, right below Tennessee and Kentucky, and I think what Will Wade has already proven makes me a little more confident in them, compared to teams like Alabama and Florida who have just as much talent. Assuming the NCAA doesn't finally choose to do something about all the things LSU has been investigated for, this will likely be another season where the Tigers have lofty expectations.
