@@ -5,11 +5,12 @@ author: Jacob Varner
 tags: [Texas A&M, Preseason]
 time_to_read: 5 minutes
 description: A detailed look at the Texas A&M Aggies heading into the 2020-2021 college basketball season including game-by-game predictions, a statistical team overview, newcomers, and a projected depth chart.
+image: "/images/post-images/2020-2021-sec-basketball-team-previews-texas-a-m-aggies.png"
 ---
 
 Buzz Williams enters year two in College Station after managing to get his team to rally from a 6-6 non-conference record to finish 10-8 in the SEC in year one. With another difficult non-conference schedule and arguably a better SEC from top to bottom, it might be difficult for Williams to repeat the top-half finish in league play, but I also wouldn't be surprised if he did it again since Texas A&M does have enough talent.
 
-While [I have the Aggies all the way down at 11th in my preseason power rankings]({% post_url 2020-9-30-2020-2021-sec-basketball-power-rankings-preseason %}), that's mostly because the teams above them are better instead of them being bad. I think there's still a decent gap between them and the bottom three teams and they have the opportuntiy to be a surprise if they can overachieve like they did last season. It's just going to be a massive challenge this year for any of the teams in the middle of the pack to set themselves a part and I just don't see enough upside from Texas A&M to pick them over other teams like Missouri, South Carolina, and Ole Miss.
+While [I have the Aggies down at 11th in my preseason power rankings]({% post_url 2020-9-30-2020-2021-sec-basketball-power-rankings-preseason %}), that's mostly because the teams above them are better instead of them being bad. I think there's still a decent gap between them and the bottom three teams and they have the opportunity to be a surprise if they can overachieve like they did last season. It's just going to be a massive challenge this year for any of the teams in the middle of the pack to set themselves apart and I just don't see enough upside from Texas A&M to pick them over other teams like Missouri, South Carolina, and Ole Miss.
 
 {% include ad-content.html %}
 
@@ -37,7 +38,7 @@ Texas A&M will also add three key young guards including Cashius McNeilly who re
 
 There should be no problem scoring and getting production from Texas A&M's backcourt this season and the wealth of talent should provide competition within the guards to keep them all playing at their best. I think Quenton Jackson will get the nod to start the year because he had so much starting experience from last season and Jaxson Robinson just has too much talent not to be utilized. Right behind them will be Jay Jay Chandler, Cashius McNeilly, and Andre Gordon all fighting for minutes.
 
-However, the front-court isn't nearly as deep. After starters Flagg, Miller, and Marfo, there's just one other scholarship forward listed on the roster and that's 6'10" sophomore Jonathan Aku. Especially with the added risk of missing guys for COVID-19, the lack of availibilty of forwards could pose a serious issue down the stretch for the Aggies.
+However, the front-court isn't nearly as deep. After starters Flagg, Miller, and Marfo, there's just one other scholarship forward listed on the roster and that's 6'10" sophomore Jonathan Aku. Especially with the added risk of missing guys for COVID-19, the lack of availability of forwards could pose a serious issue down the stretch for the Aggies.
 
 ![Texas A&M Projected Depth Chart][image3]
 

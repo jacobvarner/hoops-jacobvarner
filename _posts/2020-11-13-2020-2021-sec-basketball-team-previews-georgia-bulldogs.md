@@ -5,6 +5,7 @@ author: Jacob Varner
 tags: [Georgia, Preseason]
 time_to_read: 5 minutes
 description: A detailed look at the Georgia Bulldogs heading into the 2020-2021 college basketball season including game-by-game predictions, a statistical team overview, newcomers, and a projected depth chart.
+image: "/images/post-images/2020-2021-sec-basketball-team-previews-georgia-bulldogs.png"
 ---
 
 Tom Crean hasn't been off to a great start in Athens, and after losing projected top-5 pick Anthony Edwards and four other key players, it doesn't look like year three will be any better. Georgia had one of the best players in the country last season and still only managed to finish with a perfect 0.500 record on the year and second to last place in the SEC.

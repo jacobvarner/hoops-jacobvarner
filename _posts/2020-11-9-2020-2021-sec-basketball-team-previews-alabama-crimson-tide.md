@@ -5,6 +5,7 @@ author: Jacob Varner
 tags: [Alabama, Preseason]
 time_to_read: 5 minutes
 description: A detailed look at the Alabama Crimson Tide heading into the 2020-2021 college basketball season including game-by-game predictions, a statistical team overview, newcomers, and a projected depth chart.
+image: "/images/post-images/2020-2021-sec-basketball-team-previews-alabama-crimson-tide.png"
 ---
 
 Alabama is entering year two under Nate Oats, and after instilling an exciting, fast-paced offense last year and an impressive result on the recruiting trail, the Crimson Tide are garnering plenty of preseason expectations. While I have more faith in Oats than I did in Avery Johnson, mostly because his style of play is a little bit easier to succeed with in college, he is only entering year two, so I'm still a little too skeptical to assure that they'll be a top team in the SEC.
@@ -27,7 +28,7 @@ The Crimson Tide are losing six different players from last year's team, but the
 
 In addition to the four returning players, Alabama will have nine newcomers on the roster. James Rojas and Juwan Gary will be available after missing all of last season due to injuries. Quinerly, mentioned above, is eligible to play after transferring from Villanova before last season and Jordan Bruner is immediately eligible after grad transferring from Yale.
 
-The Crimson Tide landed the 12th best recruiting class in the nation and 6th best in the SEC which includes two top-60 prospects and four 4-stars overall.
+The Crimson Tide landed the 12th-best recruiting class in the nation and 6th best in the SEC which includes two top-60 prospects and four 4-stars overall.
 
 ![Alabama Newcomers][image2]
 

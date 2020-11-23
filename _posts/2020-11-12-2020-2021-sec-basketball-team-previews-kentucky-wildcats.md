@@ -5,6 +5,7 @@ author: Jacob Varner
 tags: [Kentucky, Preseason]
 time_to_read: 5 minutes
 description: A detailed look at the Kentucky Wildcats heading into the 2020-2021 college basketball season including game-by-game predictions, a statistical team overview, newcomers, and a projected depth chart.
+image: "/images/post-images/2020-2021-sec-basketball-team-previews-kentucky-wildcats.png"
 ---
 
 Kentucky once again loses almost every single player from their previous season and also once again replaces them with a top recruiting class and a few key transfers. It's beginning to certainly reach the point where Kentucky's ceiling, especially on the national level, is determined by how well the highly ranked high school prospects live up to their expectations.
@@ -17,7 +18,7 @@ Despite how well the young talent performs for Kentucky, the final granting of i
 
 ### Player Stats
 
-This section isn't super useful for Kentucky's preview other than to show how good all the players that left were. Keion Brooks Jr. is the lone returning player and even he only played 15.1 minutes per game and started just six times. Brooks will look to expand his role, and if he can have the sophomore jump that players like Immanuel Quickley and other have had at Kentucky, it could make the Wildcats even more dangerous at the end of th year.
+This section isn't super useful for Kentucky's preview other than to show how good all the players that left were. Keion Brooks Jr. is the lone returning player and even he only played 15.1 minutes per game and started just six times. Brooks will look to expand his role, and if he can have the sophomore jump that players like Immanuel Quickley and others have had at Kentucky, it could make the Wildcats even more dangerous at the end of the year.
 
 ![Kentucky Player Stats for Returning and Non-Returning Players][image1]
 
@@ -27,7 +28,7 @@ This section isn't super useful for Kentucky's preview other than to show how go
 
 The newcomers are always where John Calipari's Kentucky teams thrive. This season is no different as the Wildcats bring in the top high school recruiting class with two 5-star, top-10 players in Brandon Boston Jr. and Terrence Clarke as well as four more 4-star guys and three transfers. Dontaie Allen is also available after sitting out last season to fully heal from a knee injury that happened during his senior year of high school.
 
-Brandon Boston Jr. and Terrence Clarke are both most likely going to be some of the best freshmen, and players overall, both in the SEC and college basketball. But as I alluded to above, the addition and eligibility of Olivier Sarr is most likely the key piece that the Wildcats need to content for another SEC title. Davion Mintz grad transferring from Creighton should also give the Wildcats more experience at the point guard position while Devin Askew can morph into the role as a backup player, at least initially.
+Brandon Boston Jr. and Terrence Clarke are both most likely going to be some of the best freshmen, and players overall, both in the SEC and college basketball. But as I alluded to above, the addition and eligibility of Olivier Sarr is most likely the key piece that the Wildcats need to content for another SEC title. Davion Mintz's grad transferring from Creighton should also give the Wildcats more experience at the point guard position while Devin Askew can morph into the role as a backup player, at least initially.
 
 ![Kentucky Newcomers][image2]
 

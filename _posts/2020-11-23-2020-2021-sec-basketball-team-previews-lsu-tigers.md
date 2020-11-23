@@ -5,6 +5,7 @@ author: Jacob Varner
 tags: [LSU, Preseason]
 time_to_read: 5 minutes
 description: A detailed look at the LSU Tigers heading into the 2020-2021 college basketball season including game-by-game predictions, a statistical team overview, newcomers, and a projected depth chart.
+image: "/images/post-images/2020-2021-sec-basketball-team-previews-lsu-tigers.png"
 ---
 
 DRAFT

@@ -5,6 +5,7 @@ author: Jacob Varner
 tags: [Arkansas, Preseason]
 time_to_read: 5 minutes
 description: A detailed look at the Arkansas Razorbacks heading into the 2020-2021 college basketball season including game-by-game predictions, a statistical team overview, newcomers, and a projected depth chart.
+image: "/images/post-images/2020-2021-sec-basketball-team-previews-arkansas-razorbacks.png"
 ---
 
 Arkansas is another team entering year two with a "new" coach in the SEC and their trajectory seems to be pretty close to Alabama's as well. Unlike Alabama, the Razorbacks don't have the fortune of returning stars to help them out. Both Mason Jones and Isaiah Joe opted to declare for the NBA Draft and that leaves the Razorbacks with not many certainties.
@@ -25,7 +26,7 @@ Arkansas is going to have to replace two of the best players in the SEC last sea
 
 ### Newcomers
 
-Like I mentioned above, Arkansas has a lot of new faces taking the court this season and it's a nice mix of transfers and recruits. Eric Musselman brought in the 8th best recruiting class in the nation and 4th best recruiting class in the SEC. Joining the talented high school prospects are three graduate transfers and three players that sat out last season after transferring the year prior.
+Like I mentioned above, Arkansas has a lot of new faces taking the court this season and it's a nice mix of transfers and recruits. Eric Musselman brought in the 8th-best recruiting class in the nation and the 4th-best recruiting class in the SEC. Joining the talented high school prospects are three graduate transfers and three players that sat out last season after transferring the year prior.
 
 ![Arkansas Newcomers][image2]
 

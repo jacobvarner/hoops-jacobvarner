@@ -5,11 +5,12 @@ author: Jacob Varner
 tags: [Mississippi State, Preseason]
 time_to_read: 5 minutes
 description: A detailed look at the Mississippi State Bulldogs heading into the 2020-2021 college basketball season including game-by-game predictions, a statistical team overview, newcomers, and a projected depth chart.
+image: "/images/post-images/2020-2021-sec-basketball-team-previews-mississippi-state-bulldogs.png"
 ---
 
 It is never a good sign when eight different players leave the program, and it's an even worse sign when only one of them was a graduating senior. That's exactly what Ben Howland and Mississippi State are coming off of in a year where rebuilding a team will likely be even harder due to the pandemic that's been going on since March. If Mississippi State had managed to return Nick Weatherspoon, Robert Woodard, and Reggie Perry, they might be one of the favorites to finish near the top of the SEC.
 
-Instead, they only return a handful of players including Abdul Adu, D.J. Stewart, and Iverson Molinar. While the three each played in every game last season, and there are some other key pieces joining the team, none of it makes up for all the talent that the Bulldogs have lost and I don't think it'll be a good year in Starkville.
+Instead, they only return a handful of players including Abdul Adu, D.J. Stewart, and Iverson Molinar. While the three played in every game last season, and some other key pieces are joining the team, none of it makes up for all the talent that the Bulldogs have lost and I don't think it'll be a good year in Starkville.
 
 Mississippi State managed to finish fourth in the SEC last season before the SEC Tournament was canceled, but they might wind up on the exact opposite side of the standings this year and are going into the season looking like one of the worst teams in the league. Maybe Ben Howland will show off an ability to find diamonds in the rough with one or two of his 3-star prospects, but I wouldn't count on this being anything more than a rough rebuilding year for the Bulldogs.
 
@@ -29,7 +30,7 @@ Ben Howland will be hoping that at least two of Woodard, Perry, and Weatherspoon
 
 Mississippi State is very fortunate that the pandemic likely led to Javian Davis getting immediate eligibility after transferring from Alabama. Davis brings even more size to the Bulldogs and more importantly he has proven that he can contribute in the SEC already.
 
-4-star guard Deivon Smith could also be a bright spot for Ben Howland, and whether or not he lives up to his top-60 high school ranking, he should get plenty of opportunities to show off his talents on a team that lost most of its backcourt from a year ago. Other than Smith, there are just four lowly ranked 3-stars joining the squad who will have to prove what they can bring to the SEC and college basketball.
+4-star guard Deivon Smith could also be a bright spot for Ben Howland, and whether or not he lives up to his top-60 high school ranking, he should get plenty of opportunities to show off his talents on a team that lost most of its backcourt from a year ago. Other than Smith, just four lowly ranked 3-stars are joining the squad who will have to prove what they can bring to the SEC and college basketball.
 
 ![Mississippi State Newcomers][image2]
 
@@ -49,7 +50,7 @@ On the bench, there's plenty of size for Mississippi State to work with and Ben 
 
 Starting the season against Clemson in the Cancun Challenge probably isn't a good sign for Mississippi State and I expect them to start and end the year with losses with plenty of others in between. There's a brief window of easier games in the non-conference schedule, but the Bulldogs still have tough matchups against Dayton and Utah State before they make it to SEC play.
 
-Unfortunately for Mississippi State, they only get to play the other teams I predict to be near the bottom of the league four total times and just two of those are at home. The home games against Texas A&M and Vanderbilt could wind up being the Bulldogs only wins in conference play.
+Unfortunately for Mississippi State, they only get to play the other teams I predict to be near the bottom of the league four total times and just two of those are at home. The home games against Texas A&M and Vanderbilt could wind up being the Bulldogs' only wins in conference play.
 
 Drawing Iowa State at home could give Mississippi State a nice chance at a mid-season bright spot and a win for the SEC in the SEC/Big 12 Challenge.
 

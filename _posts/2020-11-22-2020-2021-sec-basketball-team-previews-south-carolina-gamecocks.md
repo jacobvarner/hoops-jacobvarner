@@ -5,6 +5,7 @@ author: Jacob Varner
 tags: [South Carolina, Preseason]
 time_to_read: 5 minutes
 description: A detailed look at the South Carolina Gamecocks heading into the 2020-2021 college basketball season including game-by-game predictions, a statistical team overview, newcomers, and a projected depth chart.
+image: "/images/post-images/2020-2021-sec-basketball-team-previews-south-carolina-gamecocks.png"
 ---
 
 If there is any coach in the SEC that I trust more to surpass expectations and make the most of whatever roster he has than Bruce Pearl, it's Frank Martin. Whether it's taking a relatively unknown team to the Final Four in 2017, or consistently finishing in the top half of the SEC despite preseason expectations, Frank Martin almost always finds a way to be successful with his South Carolina teams.
@@ -17,7 +18,7 @@ I'm picking South Carolina to finish in the middle of the pack, but in the top h
 
 ### Player Stats
 
-While I said that South Carolina is returning almost all of their players, they're still losing two starters and guys that were the third and fifth leading scorers on the team. Going off of Adjusted Game Score (my favorite advanced metric), Kotsar was actually South Carolina's best player last year because he did so much. It'll be hard to replace a guy that averaged over 11 points, 6 rebounds, 2 assists, 1 steal, and 1 block per game last year.
+While I said that South Carolina is returning almost all of their players, they're still losing two starters and guys that were the third and fifth leading scorers on the team. Going off of Adjusted Game Score (my favorite advanced metric), Kotsar was South Carolina's best player last year because he did so much. It'll be hard to replace a guy that averaged over 11 points, 6 rebounds, 2 assists, 1 steal, and 1 block per game last year.
 
 If Justin Minaya and Wildens Leveque can make up for Kotsar's lost production in the frontcourt, South Carolina should have plenty of returning talent in the backcourt with leading scorers AJ Lawson and Jermaine Cousinard both returning. AJ Lawson flirted with the NBA Draft last year and could show that he's good enough after this season.
 
@@ -31,7 +32,7 @@ Alonzo Fink could also be a key weapon in the frontcourt for the Gamecocks as he
 
 South Carolina originally had two high school guys committed to play, but one of the three stars decided not to enroll this year. The Gamecocks are left with just Ja'Von Benson who will most likely be towards the end of the bench but could provide needed depth, especially in a year that will likely be affected by COVID.
 
-The key newcomer for the Gamecocks is definitely North Carolina transfer Seventh Woods. Woods never really made it into the main rotation at North Carolina because of the talent level that the Tarheels almost always have, but he is a former 4-star, top-50 prospect and had a year to learn South Carolina's system last season while he sat out due to the transfer. He will be the only senior on the team and should provide good depth in the backcourt right behind Jermaine Cousinard at the point guard spot. If Woods can be a key player for the Gamecocks, they will have a better shot at finishing higher amongst the middle of the pack SEC teams.
+The key newcomer for the Gamecocks is North Carolina transfer Seventh Woods. Woods never really made it into the main rotation at North Carolina because of the talent level that the Tarheels almost always have, but he is a former 4-star, top-50 prospect and had a year to learn South Carolina's system last season while he sat out due to the transfer. He will be the only senior on the team and should provide good depth in the backcourt right behind Jermaine Cousinard at the point guard spot. If Woods can be a key player for the Gamecocks, they will have a better shot at finishing higher amongst the middle of the pack SEC teams.
 
 ![South Carolina Newcomers][image2]
 
@@ -53,7 +54,7 @@ Frank Martin has two key guys immediately coming off the bench with Woods and Fi
 
 I may be wrong right off the bat with my non-conference predictions for South Carolina. Currently, I think both TCU and Tulsa will provide a tough game while a road game against a better Houston squad is also a hard win. However, all of the returning experience for South Carolina could give them an advantage early in the season when other teams are more affected by the shortened and different offseason. I also have South Carolina winning the in-state rivalry with Clemson in a year where they didn't have to face their powerhouse counterpart on the football field.
 
-South Carolina starts SEC play where probably no one would prefer, in Rupp Arena against Kentucky. Then after a few better winning opportunities against Florida A&M and Texas A&M at home, the Gamecocks then have another tough four-game stretch where they play at Ole Miss, at LSU, and at Missouri with a home game against Tennessee thrown in there. This is one of the stretches where the Gamecocks could let four tough games, games that I have them losing, get to them, but I suspect this experienced team will be able to bounce back.
+South Carolina starts SEC play where probably no one would prefer, in Rupp Arena against Kentucky. Then after a few better winning opportunities against Florida A&M and Texas A&M at home, the Gamecocks have another tough four-game stretch where they play at Ole Miss, at LSU, and at Missouri with a home game against Tennessee thrown in there. This is one of the stretches where the Gamecocks could let four tough games, games that I have them losing, get to them, but I suspect this experienced team will be able to bounce back.
 
 A home game at Auburn should give the Gamecocks enough of an advantage, but this could be the point in the year where Auburn's young talent has developed enough to match South Carolina's experience. That will be a key game for how both teams finish in the final standings. Other key games for South Carolina's final standing are also at home against Alabama, Ole Miss, Missouri, and Arkansas. The benefit of those games being at home is why I have South Carolina finishing the season strong, winning ten of their last twelve games after a tough four-game losing streak near the beginning of SEC play.
 

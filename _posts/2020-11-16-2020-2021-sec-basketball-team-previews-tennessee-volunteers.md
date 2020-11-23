@@ -5,6 +5,7 @@ author: Jacob Varner
 tags: [Tennessee, Preseason]
 time_to_read: 5 minutes
 description: A detailed look at the Tennessee Volunteers heading into the 2020-2021 college basketball season including game-by-game predictions, a statistical team overview, newcomers, and a projected depth chart.
+image: "/images/post-images/2020-2021-sec-basketball-team-previews-tennessee-volunteers.png"
 ---
 
 Last season was a bit of a down year for Tennessee under Rick Barnes, but a lot of that had to do with key injuries and other factors. To make up for it, Tennessee returns almost all of the talent from last year and adds even more which makes them the best team in the SEC, [in my eyes]({% post_url 2020-9-30-2020-2021-sec-basketball-power-rankings-preseason %}), going into 2020-2021.
@@ -28,7 +29,7 @@ I think Vescovi will be a big key piece for Tennessee's ceiling this season, but
 
 ### Newcomers
 
-Rick Barnes has already made Tennessee nationally relevant and won a regular season SEC championship, but he's done that all with just one 5-star prospect, Josiah-Jordan James last season. Now he'll double that number in one class with the addition of Jaden Springer and Keon Johnson. Both highly rated freshmen will still have plenty of opportunities to contribute and show what they can bring to college basketball, but they also have the benefit of not being heavily relied on since they're joining an already talented team.
+Rick Barnes has already made Tennessee nationally relevant and won a regular-season SEC championship, but he's done that all with just one 5-star prospect, Josiah-Jordan James last season. Now he'll double that number in one class with the addition of Jaden Springer and Keon Johnson. Both highly rated freshmen will still have plenty of opportunities to contribute and show what they can bring to college basketball, but they also have the benefit of not being heavily relied on since they're joining an already talented team.
 
 Along with the two 5-stars, Tennessee also adds more experience with Victor Bailey Jr. and E.J. Anosike. Bailey Jr. has already had a year in Knoxville to learn the program and Anosike will provide more depth in the front-court as he takes the step up from the Northeast Conference to the SEC.
 
@@ -52,7 +53,7 @@ We'll get a good idea of how good Tennessee is early on when they face one of th
 
 In SEC play, I have Tennessee getting to the SEC/Big 12 Challenge without a loss, mostly because they don't face Kentucky in the first half and their biggest road competition will just be Missouri, South Carolina, and Florida. The final month of conference play will be more difficult for Tennessee with road games against Ole Miss, Kentucky, LSU, and Auburn where I see them suffering their three losses. Kentucky and LSU are two of the teams on or closest to Tennessee's level of talent this season and Auburn has had Tennessee's number in recent years, at in the last week of the season, their young, talented roster should be coming around.
 
-Because Tennessee only plays Kentucky once, and I have both teams finishing 15-3, the Wildcats would get the top seed in my predictions, but both would have a share of the regular season title and would likely have a very good chance of settling the "tie" in the SEC Tournament Championship Game.
+Because Tennessee only plays Kentucky once, and I have both teams finishing 15-3, the Wildcats would get the top seed in my predictions, but both would have a share of the regular-season title and would likely have a very good chance of settling the "tie" in the SEC Tournament Championship Game.
 
 ![Tennessee Game-by-Game Projections][image4]
 

@@ -5,6 +5,7 @@ author: Jacob Varner
 tags: [Ole Miss, Preseason]
 time_to_read: 5 minutes
 description: A detailed look at the Ole Miss Rebels heading into the 2020-2021 college basketball season including game-by-game predictions, a statistical team overview, newcomers, and a projected depth chart.
+image: "/images/post-images/2020-2021-sec-basketball-team-previews-ole-miss-rebels.png"
 ---
 
 While I don't think he's fully shown it yet, I have long realized that Kermit Davis is one of the better coaches in the SEC, especially when it comes to X's and O's and in-game performance. Now that he has one of his most talented, well-rounded teams since coming to Oxford, Ole Miss is a popular pick to be a team that can make some noise in the SEC this season.
