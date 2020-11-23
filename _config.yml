@@ -6,9 +6,8 @@ description: >-
   Jacob Varner's personal blog for all things college basketball with a focus on
   stats and analysis for Auburn and the SEC.
 
-# Author for Twitter summary card
-author:
-  twitter: jacobvarner
+twitter:
+  username: jacobvarner
 
 # Set default image and other fallbacks
 defaults:
