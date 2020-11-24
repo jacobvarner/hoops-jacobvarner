@@ -8,8 +8,6 @@ description: A detailed look at the Missouri Tigers heading into the 2020-2021 c
 image: "/images/post-images/2020-2021-sec-basketball-team-previews-missouri-tigers.png"
 ---
 
-DRAFT
-
 With almost every major player returning for the Tigers, Cuonzo Martin's team has as good a shot at taking the next step and being competitive in the SEC once again. Last season saw Missouri deal with various injuries throughout the year, which ultimately allowed nine different players to get starting experience with eight of those starting at least ten games. All but one of those nine players are back for another year, and that's what makes Missouri a very serious contender to be a major sleeper and shock some people this season.
 
 I believe Missouri was supposed to be an addition to the SEC that made the conference better in basketball, and since the Tigers joined, the conference has gotten better without them. Missouri being competitive again will allow the conference to bring in another passionate basketball fanbase and continue the progression towards being seen as more than just a football conference.
