@@ -8,8 +8,6 @@ description: While a few SEC teams have had to delay their season due to COVID-1
 image: "/images/post-images/sec-power-rankings-11-29-2020.png"
 ---
 
-DRAFT
-
 Because of COVID cases in a few SEC programs and those scheduled to play others, we didn't get all of the matchups that the first week of the season was scheduled to have. But we still got enough games to teach us some early things about most of the teams in the league. I'm trying to tell myself not to overreact to anything with such a small sample size, but I've already seen enough to adjust my power rankings slightly.
 
 Hopefully we don't have anymore COVID shutdowns, because this next week should allow the rest of the teams to get their first games in and then we'll at least have some data to compare all of the teams to eachother.
