@@ -56,7 +56,7 @@ South Carolina now holds one of the better wins for the SEC with their win over 
 
 #### 9. Auburn Tigers
 
-**Last Week:** WLost at UCF 55-63, Won vs South Alabama 90-81
+**Last Week:** Lost at UCF 55-63, Won vs South Alabama 90-81
 
 Auburn showed both extreme ends of the shooting and defensive spectrums this week when they shot poorly at UCF and ultimately lost despite good defense and then was on fire against South Alabama but let the Jaguars keep climbing back into it with poor defense and bad control of the ball. Both of those things sound like pretty common issues with really young teams. Auburn still has no sign of getting Sharife Cooper eligible, but Justin Powell has played very well in his absence.
 
