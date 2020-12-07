@@ -8,11 +8,13 @@ description: With another week of games, there is plenty of movement in this wee
 image: "/images/post-images/sec-power-rankings-12-7-2020.png"
 ---
 
+DRAFT
+
 Between seeing Alabama play three games in three days at the Maui Invitational and getting to get the first look at Texas A&M, Florida, and Georgia this week, I feel like I learned a lot more about where teams stand in the SEC pecking order. There are still a lot of questions I'd like answered, but I might not get those answers until more teams start to play tougher competition.
 
 Missouri, Arkansas, and even Georgia have all looked very impressive, but only Missouri in that group has done it against tough competition. One team that has played some tougher competition has been Kentucky, but instead of the Wildcats using that to their advantage in my rankings, they've lost all three games and look to have issues beyond just being an extremely young team.
 
-Anyways, here is where I think each SEC team stands, right now, as well as my general thoughts about the teams based on the small sample size that I have seen from each. If you'd like to discuss these rankings, the best place to start a conversation is definitely [on Twitter](https://www.twitter.com/jacobvarner).
+Anyway, here is where I think each SEC team stands, right now, as well as my general thoughts about the teams based on the small sample size that I have seen from each. If you'd like to discuss these rankings, the best place to start a conversation is [on Twitter](https://www.twitter.com/jacobvarner).
 
 *My method for power rankings is whom I think will win a game between two teams on a neutral court if the game was played at the time of the rankings. For instance, I would pick the number one team to beat every team ranked below it on a neutral court and the fourth-ranked team would be favored over everyone other than the top three teams. I consider the entire season as a basis for how good I think the team is, but if a team is missing key players or is in a slump, that can weigh more in my current power rankings, even if a team is better overall for the season.*
 
