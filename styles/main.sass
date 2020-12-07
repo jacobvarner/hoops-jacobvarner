@@ -2,7 +2,8 @@
 ---
 
 $dark-gray: #666666
-$light-gray: #bbbbbb
+$gray: #bbbbbb
+$light-gray: #dddddd
 
 body
   padding-top: 80px
@@ -75,7 +76,7 @@ header
         font-size: 24px
         font-family: "Roboto Condensed", serif
         font-weight: 400
-        color: $light-gray
+        color: $gray
         margin: 0 10px
 
 div#posts-container, div#search-container
@@ -104,7 +105,7 @@ div#posts-container, div#search-container
       display: inline-block
       margin: 0 10px 10px 0
       padding: 0
-      color: $light-gray
+      color: $gray
 
       a,a:hover,a:active,a:visited
         line-height: 20px
@@ -112,7 +113,7 @@ div#posts-container, div#search-container
         font-family: "Roboto Condensed", serif
         text-transform: uppercase
         text-decoration: none
-        color: $light-gray
+        color: $gray
         margin: 0
         padding: 0
     
@@ -198,7 +199,7 @@ div.pagination
   a.disabled.pagination-next:active,
   a.disabled.pagination-previous:visited,
   a.disabled.pagination-next:visited
-    color: $light-gray
+    color: $gray
     cursor: not-allowed
 
   p.pagination-numbers
@@ -220,7 +221,7 @@ footer
   p
     font-family: "Roboto Slab", serif
     font-size: 18px
-    color: $light-gray
+    color: $gray
     line-height: 24px
     margin: 10px 0
     padding: 0
@@ -242,7 +243,7 @@ article.post-wrapper
       display: inline-block
       margin: 0 10px 10px 0
       padding: 0
-      color: $light-gray
+      color: $gray
 
       p
         line-height: 20px
@@ -317,7 +318,7 @@ article.post-wrapper
 
     hr
       margin: 40px 100px
-      border: 2px solid $light-gray
+      border: 2px solid $gray
 
     img
       display: block
@@ -332,7 +333,7 @@ article.post-wrapper
       display: inherit
       text-align: center
       font-size: 16px
-      color: $light-gray
+      color: $gray
       margin: -10px 0 20px 0
 
     div.tweet-wrapper
@@ -411,10 +412,64 @@ div#resources-container
       font-family: "Roboto Condensed", sans-serif
       font-size: 18px
       line-height: 18px
-      background-color: $light-gray
+      background-color: $gray
       color: black
       text-decoration: none
       border-radius: 3px
+
+div#glossary-container
+  position: relative
+  max-width: 1000px
+  display: block
+  margin: 20px auto
+  padding: 20px
+
+  h2#glossary-header
+    font-family: "Roboto Condensed", sans-serif
+    font-size: 36px
+    color: $dark-gray
+    line-height: 40px
+    margin: 0 0 10px 0
+    padding: 0
+    vertical-align: middle
+
+  a.glossary-menu-item, a.glossary-menu-item:visited
+    display: inline-block
+    margin: 5px 5px 5px 0
+    padding: 5px 8px
+    color: $dark-gray
+    font-family: "Roboto Condensed", sans-serif
+    font-size: 16px
+    background-color: $light-gray
+    border-radius: 3px
+    text-decoration: none
+
+  a.glossary-menu-item:hover, a.glossary-menu-item:active
+    background-color: $dark-gray
+    color: white
+
+  h3.glossary-stat-header
+    font-family: "Roboto Condensed", sans-serif
+    font-size: 24px
+    line-height: 28px
+    color: black
+    margin: 20px 0 10px
+    padding: 0
+
+  p
+    font-family: "Roboto Slab", serif
+    font-size: 18px
+    line-height: 30px
+    color: $dark-gray
+    padding: 0
+    margin: 0 0 20px 0
+
+    span.inline-formula
+      font-family: "Roboto Mono", sans-serif
+      font-size: 16px
+      color: black
+      background-color: $light-gray
+      padding: 2px 4px
 
 div#tags-container
   position: relative
@@ -445,7 +500,7 @@ div#tags-container
     display: inline-block
     margin: 0 10px 10px 0
     padding: 0
-    color: $light-gray
+    color: $gray
 
     a,a:hover,a:active,a:visited
       line-height: 20px
@@ -453,6 +508,6 @@ div#tags-container
       font-family: "Roboto Condensed", serif
       text-transform: uppercase
       text-decoration: none
-      color: $light-gray
+      color: $gray
       margin: 0
       padding: 0
