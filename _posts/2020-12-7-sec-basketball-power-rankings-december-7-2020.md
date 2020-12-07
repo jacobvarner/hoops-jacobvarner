@@ -8,8 +8,6 @@ description: With another week of games, there is plenty of movement in this wee
 image: "/images/post-images/sec-power-rankings-12-7-2020.png"
 ---
 
-DRAFT
-
 Between seeing Alabama play three games in three days at the Maui Invitational and getting to get the first look at Texas A&M, Florida, and Georgia this week, I feel like I learned a lot more about where teams stand in the SEC pecking order. There are still a lot of questions I'd like answered, but I might not get those answers until more teams start to play tougher competition.
 
 Missouri, Arkansas, and even Georgia have all looked very impressive, but only Missouri in that group has done it against tough competition. One team that has played some tougher competition has been Kentucky, but instead of the Wildcats using that to their advantage in my rankings, they've lost all three games and look to have issues beyond just being an extremely young team.
