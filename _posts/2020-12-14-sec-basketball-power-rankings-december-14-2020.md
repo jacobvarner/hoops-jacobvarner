@@ -29,13 +29,15 @@ Anyway, here is where I think each SEC team stands, right now, as well as my gen
 #### 14. Texas A&M Aggies
 
 **Previous:** 12
+
 **Last Week:** Lost vs TCU 55-73
 
 The last few weeks I've tried to brush off the fairly close games with pretty bad teams such as Tarleton State and UTRGV, but after getting [dominated by TCU](https://twitter.com/jacobvarner/status/1337881705839988736?s=20) on a neutral court (closer to Fort Worth), I'm not giving Buzz William's team as much benefit of the doubt. I still have confidence that he can turn it around with this squad to at least compete in the SEC, but for now, the Aggies are probably at the bottom of the league. TCU is still a better team than most of the other "bottom tier" teams have faced, but until we have more even schedules, the Aggies get to hold the bottom spot.
 
 #### 13. South Carolina Gamecocks
 
-**Previous:** 12
+**Previous:** 10
+
 **Last Week:** No games played
 
 South Carolina is now one of the SEC teams on COVID pause, so they didn't play a game in this last week, but with a decent win and close, double-overtime loss to Dayton, I'm going to give Mississippi State the bump over the Gamecocks. South Carolina has still played one of the more difficult schedules in the SEC, but with the win over Tulsa getting worse, Frank Martin can't just rely on losses to good teams with an SEC league that is supposed to be one of the best conferences in the country.
@@ -43,6 +45,7 @@ South Carolina is now one of the SEC teams on COVID pause, so they didn't play a
 #### 12. Mississippi State Bulldogs
 
 **Previous:** 14
+
 **Last Week:** Won vs Jackson State 82-59, Lost vs Dayton 82-85 2OT
 
 I'm still not going to forget the Liberty loss for Mississippi State, which is why they'll stay in the bottom tier for a while, but a win over any team, [even if it's Jackson State](https://twitter.com/jacobvarner/status/1336525670290255877?s=20) and then taking a pretty decent [Dayton team to double-overtime](https://twitter.com/jacobvarner/status/1337895837796622344?s=20) is worth the Bulldogs getting out of the cellar.
@@ -54,6 +57,7 @@ Iverson Molinar is currently one of the best players in the SEC after his delaye
 #### 11. Georgia Bulldogs
 
 **Previous:** 11
+
 **Last Week:** Won vs Montana 63-70, Won vs Samford 79-75
 
 The [win against Montana](https://twitter.com/jacobvarner/status/1336518976969576448?s=20) was the best team that Georgia has played this season and a [close game against a sub-250 Samford team](https://twitter.com/jacobvarner/status/1337955688128110594?s=20) is more evidence that this Georgia team is undefeated mostly because they haven't played a team higher than 162 in KenPom.
@@ -63,6 +67,7 @@ Next Saturday against Cincinnati will tell me a lot about this Georgia team. If 
 #### 10. Vanderbilt Commodores
 
 **Previous:** 13
+
 **Last Week:** Won vs Mississippi Valley State 84-41
 
 Yes, everyone beats Mississippi Valley state, but through two games, Vanderbilt has some decent performances. They haven't played anyone good, but I like this Vanderbilt and have more faith in Jerry Stackhouse. Dylan Disu and Scotty Pippen Jr. are both showing that they can be good players against bad teams, but I think at least Pippen Jr. will carry that throughout the season.
@@ -72,6 +77,7 @@ The Dores play Richmond this week, which will be their first major test. [Missis
 #### 9. Kentucky Wildcats
 
 **Previous:** 8
+
 **Last Week:** Lost vs Notre Dame 63-64
 
 Okay, Kentucky is definitely not good so far this season. Through five games, I can't look at what we've seen as just keep relying on the "John Calipari will figure it out" line. Yes, I believe that Kentucky will not be the 9th place team in the SEC at the end of the year, but it's very clear that there a more concerns this season for the Wildcats and the lack of exhibitions and a weaker schedule has had a major impact on the development for Kentucky so far.
@@ -85,6 +91,7 @@ John Calipari has a lot to figure out, and until he does, I will keep Kentucky w
 #### 8. Auburn Tigers
 
 **Previous:** 9
+
 **Last Week:** Won vs Memphis 74-71
 
 After an eight-day break, Auburn got an [impressive win over Memphis](https://twitter.com/jacobvarner/status/1337935513970487296?s=20) to become the only SEC team to get a win in the Holiday Hoopsgiving event in Atlanta. Justin Powell has gone from low ranked 3-star recruit to the best player on Auburn's roster in just five games. Through his two starts, he's even better.
@@ -94,6 +101,7 @@ Auburn's ceiling is still dependent on when and if Sharife Cooper is cleared by 
 #### 7. Alabama Crimson Tide
 
 **Previous:** 6
+
 **Last Week:** Lost vs Clemson 56-64
 
 The ten-day break might have not helped Alabama as they looked a little [slow to start against Clemson](https://twitter.com/jacobvarner/status/1337976376020901891?s=20) and other than a late run in the second half, never looked like the better team in this game. That's not necessarily a bad thing, as Clemson has a really good squad this season, but Alabama still has some work to do to establish itself as one of the better teams in the SEC.
@@ -103,6 +111,7 @@ Nate Oats turned Alabama into one of the more exciting teams in the SEC last sea
 #### 6. Ole Miss Rebels
 
 **Previous:** 7
+
 **Last Week:** Won vs Jackson State 80-45, Won vs UNC Wilmington 78-58
 
 Getting two 20+ point wins is a great way to start the season, especially coming off of a two-week delay and shut down due to COVID. Many people were picking Ole Miss as one of the better teams in the SEC, and based on the small sample size we've seen so far, that seems to be a fair assessment.
@@ -114,6 +123,7 @@ The game next Saturday against Dayton will be more telling, but so far, the Rebe
 #### 5. LSU Tigers
 
 **Previous:** 5
+
 **Last Week:** No games played
 
 LSU didn't have any games this last week because they had to pause due to COVID. The Tigers still have probably the best player in the SEC in Trendon Watford and one of the best freshmen in Cameron Thomas. LSU has three more "warm-up" games this week against bad teams before facing VCU the next week and then starting SEC play.
@@ -121,6 +131,7 @@ LSU didn't have any games this last week because they had to pause due to COVID.
 #### 4. Arkansas Razorbacks
 
 **Previously:** 4
+
 **Last Week:** Won vs Southern 79-44, Won vs Central Arkansas 100-75
 
 It stinks that Arkansas wasn't able to play Tulsa this past week because I want to see Arkansas against a decent team. The Razorbacks are averaging more than 30 points per game than they're giving up, but they have yet to play a top-100 KenPom team. They still won't play a top-100 KenPom team until they face Auburn in their SEC opener.
@@ -130,6 +141,7 @@ Despite the poor competition, the consistency and distribution of talent for Ark
 #### 3. Florida Gators
 
 **Previously:** 2
+
 **Last Week:** Lost at Florida State 71-83
 
 First off, I want to extend well wishes and quick recovery to Florida's Keyontae Johnson. Early in the game against Florida State, Johnson collapsed on the floor and has been in critical condition since. As of the time I'm writing this, Johnson is still in a Tallahassee hospital with his parents and coach Mike White, so his recovery is the only thing that matters in the SEC right now.
@@ -143,6 +155,7 @@ I'm dropping Florida only because Missouri deserves to move ahead of them, not b
 #### 2. Missouri Tigers
 
 **Previous:** 3
+
 **Last Week:** Won vs Liberty 69-60, Won vs Illinois 81-78
 
 Missouri got a massive win in their Braggin' Rights game [against Illinois on Saturday](https://twitter.com/jacobvarner/status/1337972462949175296?s=20) and the Tigers might officially be back. Win or lose, I thought that Missouri had done enough to warrant a top-25 national ranking, but with the win, the Tigers might be a top-15 team in the country.
@@ -152,6 +165,7 @@ I knew that Missouri's veteran squad would make them one of the better teams ear
 #### 1. Tennessee Volunteers
 
 **Previous:** 1
+
 **Last Week:** Won vs Colorado 56-47, Won vs Cincinnati 65-56
 
 They weren't the prettiest performances, but considering Tennessee was hitting the court for the first time this season, getting back to back nearly double-digit wins over two top-60 KenPom teams is fairly impressive for the Vols. It's certainly enough to make me keep Tennessee at the top spot in my power rankings considering I still think they're the most talented team in the SEC.
