@@ -8,8 +8,6 @@ description: Ole Miss and Tennessee finally got to start their seasons this week
 image: "/images/post-images/sec-power-rankings-12-14-2020.png"
 ---
 
-DRAFT
-
 With Ole Miss and Tennessee both getting two games in this week, we have finally had the chance to see all SEC teams play this season. With teams playing anywhere from two to six games, and a very different level of competition amongst those games, it's still really difficult for me to confidently rank teams, which is why these power rankings will probably continue to have a lot of movement.
 
 If I'm sticking to the tier concept from [the preseason rankings]({% post_url 2020-9-30-2020-2021-sec-basketball-power-rankings-preseason %}) I think the tiers are as follows for now:
