@@ -64,6 +64,7 @@ Key Losses: None
 
 Key Wins:
 - Texas by 4 on the road
+- Arizona State by 9 on a neutral court
 
 Key Losses:
 - Virginia Tech by 8 on a neutral court in overtime
