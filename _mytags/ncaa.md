@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: SEC
-slug: sec
+name: NCAA
+slug: ncaa
 ---
