@@ -3,8 +3,8 @@ layout: post
 title: SEC Basketball Picks and Predictions - 2021 Week 1B
 author: Jacob Varner
 tags: [SEC, Game Picks]
-time_to_read: 8 minutes
-description: Ole Miss and Tennessee finally got to start their seasons this week, so all SEC teams have played at least two games and these rankings have at least some data to go off of for each team. Kentucky continues to struggle and might be an even bigger concern than I thought while the uneven schedules and number of games for each team make it difficult for me to be confident in certain positions.
+time_to_read: 5 minutes
+description: After road teams went 4-2 in the first set of SEC games, I have home teams getting a slight bounce back in the second half of week one. There is still a lot to learn about some of these SEC teams, and hopefully these games will show that I'm on the right track to understanding SEC teams early in the season.
 image: "/images/post-images/sec-basketball-game-picks-week-1b-2021.png"
 ---
 
