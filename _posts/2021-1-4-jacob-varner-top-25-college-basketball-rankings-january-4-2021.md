@@ -72,6 +72,8 @@ None
  - Gonzaga on a neutral court by 11
  - Minnesota on the road by 7 in OT
 
+{% include ad-content.html %}
+
 #### 6. Houston (7-1)
 
 **Key Wins:**
@@ -123,6 +125,8 @@ None
 
 **Losses:**
  - Alabama at home by 8
+
+{% include ad-content.html %}
 
 #### 11. Kansas (8-2)
 
@@ -182,6 +186,8 @@ None
 **Losses:**
  - Tennessee at home by 20
 
+{% include ad-content.html %}
+
 #### 16. Rutgers (7-2)
 
 **Key Wins:**
@@ -231,7 +237,9 @@ None
 **Losses:**
  - Florida State on the road by 12
 
-#### 19. Ohio State (8-2)
+{% include ad-content.html %}
+
+#### 21. Ohio State (8-2)
 
 **Key Wins:**
  - Notre Dame on the road by 5
@@ -281,6 +289,7 @@ None
 **Losses:**
  - Wisconsin on the road by 27
 
+{% include ad-content.html %}
 
 #### Also Under Consideration (Alphabetical)
 
