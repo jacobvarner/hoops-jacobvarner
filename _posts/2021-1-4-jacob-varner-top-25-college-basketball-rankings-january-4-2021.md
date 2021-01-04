@@ -8,8 +8,6 @@ description: After a few weeks off from my Top 25, here is where I think the 25 
 image: "/images/post-images/jacob-varner-college-basketball-top-25-rankings-january-4-2021.png"
 ---
 
-DRAFT
-
 I took a few weeks off from my top-25 for the holidays, but have been keeping up with games as much as I can. As SEC play tips off, I don't get as much time to watch games around the rest of the country, but that's what Twitter and all the wonderful websites such as [KenPom](https://www.kenpom.com) are for.
 
 Over the last few weeks, the main thing I've noticed is that Gonzaga and Baylor seem to be even more alone at the top as the best teams in college basketball, and the Big 12 and Big 10 have already started to devour each other as both leagues look to be pretty deep. The ACC certainly looks to be having a down year and the SEC is hard to fully evaluate right now with the league having pure chaos in the first few league games.
