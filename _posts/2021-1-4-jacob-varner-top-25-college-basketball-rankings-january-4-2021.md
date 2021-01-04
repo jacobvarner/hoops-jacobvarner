@@ -47,7 +47,7 @@ None
  - Marquette on the road by 17
  
 **Losses:**
- - Virginia Tech at home by 8 in OT
+ - Virginia Tech on a neutral court by 8 in OT
 
 #### 4. Texas (8-1)
 
