@@ -42,7 +42,7 @@ Against my better judgment, I thought that Vanderbilt might have a chance at hom
 
 **Previous:** 5
 
-**Last Week:** Lost at Alabama 644-82, Lost vs Wichita State 79-83
+**Last Week:** Lost at Alabama 64-82, Lost vs Wichita State 79-83
 
 Going into SEC play, I had Ole Miss as the 5th best team in my power rankings. I was really buying into their defense and thought that Romello White and Luis Rodriguez would be perfect additions to Devontae Shuler. However, the Rebels instead got run out of the gym in Tuscaloosa and then followed it up with a home loss to Wichita State. The close road loss at Dayton is I guess worth something as a data point, but it seems that all the other wins might have had more to do with the fact that those teams were all closer to the bottom in college basketball.
 
