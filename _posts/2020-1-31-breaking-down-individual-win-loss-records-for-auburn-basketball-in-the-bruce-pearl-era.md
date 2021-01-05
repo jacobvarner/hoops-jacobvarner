@@ -16,7 +16,6 @@ this season:
     <p lang="en" dir="ltr">Assuming I have the calculation right, I&#39;m getting the following individual W-L for this year&#39;s Auburn major contributers so far:<br><br>Doughty: 1.82 - 0.91<br>Okoro: 2.09 - 0.39<br>McCormick: 1.66 - 0.87<br>Purifoy: 1.59 - 0.43<br>Wiley: 2.07 - 0.14<br>McLemore: 1.49 - 0.15</p>&mdash; Jacob Varner 👨‍💻 🏀 🌮 (@jacobvarner) <a href="https://twitter.com/jacobvarner/status/1219104474414960640?ref_src=twsrc%5Etfw">January 20, 2020</a>
   </blockquote>
 </div>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I tried to explain the calculations in a general sense on Twitter, but it’s
 difficult, even in even a series of tweets, so I’m going to attempt to explain it

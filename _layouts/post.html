@@ -17,13 +17,29 @@ layout: default
     {% if page.time_to_read %}
       <p class="post-time-to-read"><i class="fas fa-clock" aria-hidden="true"></i> {{ page.time_to_read }} </p>
     {% endif %}
+    <br/>
+    <div class="share-buttons top">
+      <a class="twitter-share-button"
+        href="https://twitter.com/intent/tweet"
+        data-size="large">
+      Tweet</a>
+      <div class="fb-share-button" data-layout="button" data-size="large"></div>
+    </div>
   </div>
   {% include ad-post-top.html %}
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
   <div class="more-reading">
-    <h3>More Reading</h3>
+    <h3>Like what you read?</h3>
+    <div class="share-buttons">
+      <a class="twitter-share-button"
+        href="https://twitter.com/intent/tweet"
+        data-size="large">
+      Tweet</a>
+      <div class="fb-share-button" data-layout="button" data-size="large"></div>
+    </div>
+    <h3>Other Recent Posts</h3>
     {% for post in site.posts limit:4 %}
       {% if post.url != page.url %} 
         {% if forloop.index < 4 or found %}

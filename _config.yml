@@ -1,10 +1,16 @@
 # Website name
-title: Jacob Varner's Basketball Blog
+title: JV's Basketball Blog
+
+# Short Tagline
+tagline: Stats and analysis for the SEC and college basketball
 
 # Website description
 description: >-
-  Jacob Varner's personal blog for all things college basketball with a focus on
-  stats and analysis for Auburn and the SEC.
+  Jacob Varner's take on the SEC and college basketball including advanced stats
+  analysis, SEC power rankings, a college basketball top 25, and SEC previews,
+  game picks, and season predictions.
+
+logo: /images/logo-black-on-white.png
 
 # Author for Twitter summary card
 author:
@@ -12,6 +18,15 @@ author:
 
 twitter:
   username: jacobvarner
+
+facebook:
+  publisher: 103514855024108
+
+social:
+  name: Jacob Varner
+  links:
+    - https://www.twitter.com/jacobvarner
+    - https://www.facebook.com/hoops.jacobvarner
 
 # Set default image and other fallbacks
 defaults:
