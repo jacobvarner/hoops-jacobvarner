@@ -24,7 +24,7 @@ It's a new week and barring any more COVID issues, we should finally get to see 
 
 If I learned anything from the first week of SEC play, homecourt advantage will probably not be a major factor for the foreseeable future. With that said, if Alabama shoots as they did at Tennessee, they can beat just about any team, anywhere.
 
-Alabama can usually hit major ups and downs throughout a season, and given that Saturday was one of their best games of the year, I might expect them to cool off even more against the Gators. Or they could continue to make me look back and John Petty Jr. still goes off.
+Alabama can usually hit major ups and downs throughout a season, and given that Saturday was one of their best games of the year, I might expect them to cool off even more against the Gators. Or they could continue to make me look bad and John Petty Jr. still goes off.
 
 Both teams had co-SEC Players of the Week in Petty and Colin Castleton for Florida. The Gators currently have two active players, Scottie Lewis and Tre Mann, ahead of Alabama's best player in my current SEC player rankings, but both teams still have plenty of weapons on offense.
 
