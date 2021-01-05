@@ -8,8 +8,6 @@ description: It was a pretty wild first weekend of SEC basketball, and as a resu
 image: "/images/post-images/sec-basketball-game-picks-week-2a-2021.png"
 ---
 
-DRAFT
-
 After a wild first week of SEC games, my early record in predictions isn't looking too hot. I was feeling good with a 2-0 start on opening night, but quickly was brought back down to earth and finished 5-6 on my picks for the first week.
 
 But that's okay. While I'd love to be right more often than not, me missing that many usually means that there are some surprising and fun matchups, and I'll welcome chaos whenever SEC basketball wants to give it to us (which is quite often).
