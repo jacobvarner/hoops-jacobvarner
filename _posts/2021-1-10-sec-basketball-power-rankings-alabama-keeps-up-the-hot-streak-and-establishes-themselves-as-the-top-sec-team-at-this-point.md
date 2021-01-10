@@ -8,8 +8,6 @@ description: Alabama had another 2-0 week, this time over Florida and a re-energ
 image: "/images/post-images/sec-power-rankings-1-10-2021.png"
 ---
 
-DRAFT
-
 Alabama ended last week with a very impressive road win over Tennessee. At the time, it was Tennessee's first loss and the Vols played a pretty uncharacteristic game, and I was hesitant to immediately overreact and move Alabama to the top.
 
 The Crimson Tide has also had a history of having a really good week followed by a disappointing week. That certainly wasn't the case this time. After a good week last week, Alabama might have had an even better week this week and have established themselves as the best team in the SEC right now.
