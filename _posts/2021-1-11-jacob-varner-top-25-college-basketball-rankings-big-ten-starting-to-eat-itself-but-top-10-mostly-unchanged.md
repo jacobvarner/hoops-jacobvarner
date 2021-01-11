@@ -20,7 +20,7 @@ With normal powers like Duke, North Carolina, and Virginia having slow starts to
 
 *I have a new system for tracking teams and will use it to base a lot of my decisions. As the year goes on, I find that a lot of people get sucked into the most recent games and put a little too much weight on recent results sometimes. Because of this, and because I generally like objective data as much as possible, I'm going to use these metrics in my post as well as the basis for my thought process.*
 
-*I use [KenPom](https://www.kenpom.com) as my starting point and keep track of the top-50 overall teams and a few others as I see fit. A key win in my rankings is defined as a top-50 win at home, a top-75 win on a neutral court, or a top-100 win on the road. I will try to record all losses for now, but will also denote bad losses when necessary and those are just the opposite of the good wins. For instance, if a team loses to a team not in the top-50 at home, then it's a "bad" loss. Same for a loss to a team outside of the top-100 anywhere.*
+*I use [KenPom](https://www.kenpom.com) as my starting point and keep track of the top-50 overall teams and a few others as I see fit. A key win in my rankings is defined as a top-50 win at home, a top-75 win on a neutral court, or a top-100 win on the road. I will try to record all losses for now, but will also denote bad losses in italics when necessary and those are just the opposite of the good wins. For instance, if a team loses to a team not in the top-50 at home, then it's a "bad" loss. Same for a loss to a team outside of the top-100 anywhere.*
 
 {% include ad-content.html %}
 
@@ -167,22 +167,9 @@ With normal powers like Duke, North Carolina, and Virginia having slow starts to
 
 **Losses:**
  - Kansas on the road by 1
- - Marquette at home by 5
+ - *Marquette at home by 5*
 
-#### 13. Ohio State (9-3)
-
-**Key Wins:**
- - Notre Dame on the road by 5
- - UCLA at home by 7
- - Rutgers at home by 12
- - Rutgers on the road by 11
-
-**Losses:**
- - Purdue on the road by 7
- - Northwestern on the road by 1
- - Minnesota on the road by 17
-
-#### 14. Illinois (9-4)
+#### 13. Illinois (9-4)
 
 **Key Wins:**
  - Duke on the road by 15
@@ -196,6 +183,19 @@ With normal powers like Duke, North Carolina, and Virginia having slow starts to
  - Missouri on the road by 3
  - Rutgers on the road by 3
  - Maryland at home by 3
+
+#### 14. Ohio State (9-3)
+
+**Key Wins:**
+ - Notre Dame on the road by 5
+ - UCLA at home by 7
+ - Rutgers at home by 12
+ - Rutgers on the road by 11
+
+**Losses:**
+ - Purdue on the road by 7
+ - Northwestern on the road by 1
+ - Minnesota on the road by 17
 
 #### 15. Texas Tech (10-3)
 
@@ -302,7 +302,7 @@ With normal powers like Duke, North Carolina, and Virginia having slow starts to
 **Losses:**
  - Stanford on a neutral court by 18
  - Clemson on a neutral court by 8
- - Western Kentucky at home by 2
+ - *Western Kentucky at home by 2*
 
 #### 24. Saint Louis (7-1)
 
