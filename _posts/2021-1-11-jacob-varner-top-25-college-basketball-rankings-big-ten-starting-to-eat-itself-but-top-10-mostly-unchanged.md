@@ -8,8 +8,6 @@ description: The competition in the Big Ten is starting to devour itself, but Mi
 image: "/images/post-images/jacob-varner-college-basketball-top-25-rankings-january-11-2021.png"
 ---
 
-DRAFT
-
 The Big Ten continues to look like the top conference in the country, but with so many good teams, they're starting to devour each other which leads to some bad looking records, but still great resumes towards the top of my rankings. Michigan has avoided a loss so far and is continuing to look better, especially with the increasing contribution from Hunter Dickinson.
 
 Gonzaga and Baylor continue to look like they're in a category of their own at the top, but the Bears have a few tough matchups coming up with three straight games against West Virginia, Texas Tech, and Kansas. With Gonzaga not playing Big 12 level competition the rest of the way, if Baylor can stay undefeated, they may rack up enough quality wins to dethrone the Zags at the top of my rankings.
