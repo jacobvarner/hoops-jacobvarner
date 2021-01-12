@@ -8,8 +8,6 @@ description: After missing just two predictions all of last week, it seems like 
 image: "/images/post-images/sec-basketball-game-picks-week-3a-2021.png"
 ---
 
-DRAFT
-
 Over the last week, I missed just two predictions (I had Missouri beating Mississippi State and Florida beating Kentucky), and that brought my record on the season all the way up to 16-8 through two full weeks.
 
 As I mentioned in my [updated power rankings]({% post_url 2021-1-10-sec-basketball-power-rankings-alabama-keeps-up-the-hot-streak-and-establishes-themselves-as-the-top-sec-team-at-this-point %}), it seems that we are starting to get a good idea of where teams stand right now. Kentucky and Auburn both getting key new pieces could mix things up a little bit, but only time will tell if Keion Brooks Jr. and Sharife Cooper's season debuts were a sign of what they can do on a weekly basis.
