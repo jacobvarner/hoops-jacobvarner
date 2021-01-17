@@ -8,8 +8,6 @@ description: Alabama continues to look even more dominant, the top 3 teams seem 
 image: "/images/post-images/sec-power-rankings-1-17-2021.png"
 ---
 
-DRAFT
-
 Going into the final game of the night, South Carolina vs LSU, I thought I had a good idea of what my power rankings would look like. I expected LSU to just come out and easily handle a South Carolina team that was coming off their third COVID pause of the season.
 
 Instead, South Carolina looked just as good as they did in the one game they played before going on pause against Texas A&M. I need to stop thinking South Carolina will be anything other than a problem in the SEC while Frank Martin is the coach, but I'm still not sure.
