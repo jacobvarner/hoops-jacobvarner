@@ -8,8 +8,6 @@ description: Michigan made a massive statement when they destroyed Wisconsin, th
 image: "/images/post-images/jacob-varner-college-basketball-top-25-rankings-january-18-2021.png"
 ---
 
-DRAFT
-
 This week Michigan looked like they were making a statement that they belonged in the top tier with Gonzaga and Baylor with their dominant win against Wisconsin. Then the Wolverines followed it up by losing to Minnesota on the road. Michigan still is a top team for sure, but I'm not sure a team will have the ability to fully join the top-2 for a while now that Michigan and Texas lost this week.
 
 After not being in my Top 25 yet this year, Virginia makes a large jump up to 15th after they absolutely dominated Clemson on the road.
