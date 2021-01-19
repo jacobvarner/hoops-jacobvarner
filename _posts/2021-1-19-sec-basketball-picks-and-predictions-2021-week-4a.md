@@ -3,12 +3,10 @@ layout: post
 title: SEC Basketball Picks and Predictions - 2021 Week 4A
 author: Jacob Varner
 tags: [SEC, Game Picks]
-time_to_read: 
+time_to_read: 10 minutes
 description: After Alabama dominated Kentucky last week to hold onto first place in the league, they have to defend the top spot on the road again, this time at LSU. I think they can get it done again as well.
 image: "/images/post-images/sec-basketball-game-picks-week-4a-2021.png"
 ---
-
-DRAFT
 
 It seems like more than a week ago that Alabama traveled to Rupp Arena with first place in the SEC on the line. While Kentucky appears to have fallen back to mediocrity again, Alabama has another important road game, this time against LSU, with first place in the league on the line again.
 
