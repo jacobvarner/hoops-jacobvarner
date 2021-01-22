@@ -122,7 +122,7 @@ The Crimson Tide are currently the best team in the SEC in both offensive and de
 
 Mississippi State leads the league in rebounding rate at 53.8%, but if Alabama shoots anything as they did against LSU, there won't be many defensive rebounds for the Bulldogs to even attempt to get.
 
-Can Alabama go for a third straight 30-point win? At home in Coleman Coliseum, maybe so.
+Can Alabama go for a third straight 30-point win? At home, in Coleman Coliseum, maybe so.
 
 **Prediction: Alabama 85, Mississippi State 60**
 
