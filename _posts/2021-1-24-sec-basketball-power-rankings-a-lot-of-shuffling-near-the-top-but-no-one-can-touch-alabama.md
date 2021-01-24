@@ -8,8 +8,6 @@ description: Florida and Arkansas get things back on track, which lead to the bi
 image: "/images/post-images/sec-power-rankings-1-24-2021.png"
 ---
 
-DRAFT
-
 We are definitely reaching the point of the season where so many games are starting to blend together. With just one cancelation during the week and then another full Saturday slate of games, there was plenty of basketball to work from in updating these rankings.
 
 Several teams went 2-0 this week including impressive turnarounds from Florida and Arkansas. Even Kentucky appeared to have an offense against LSU after losing their third straight game in the final seconds at Georgia.
