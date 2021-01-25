@@ -1,14 +1,20 @@
 ---
 layout: post
-title: "College Basketball Top 25 Rankings:"
+title: "College Basketball Top 25 Rankings: There is Finally a New Number One Team in My Rankings"
 author: Jacob Varner
 tags: [NCAA, Top 25]
-time_to_read:
-description:
+time_to_read: 6 minutes
+description: I mentioned last week with their win over Kansas that if Baylor could knock of Oklahoma State, I would see them with a better overall resume than Gonzaga and move them into the top spot. I am a man of my word and for the first time, there is a new number on team in my rankings.
 image: "/images/post-images/jacob-varner-college-basketball-top-25-rankings-january-25-2021.png"
 ---
 
+I mentioned last week with their win over Kansas that if Baylor could knock of Oklahoma State, I would see them with a better overall resume than Gonzaga and move them into the top spot. I am a man of my word and for the first time, there is a new number on team in my rankings.
 
+Gonzaga is still the best overall team in my mind, and if the two teams faced off next week (yes, please), I still think I would pick the Zags in a close one. However, I try to rank based on resumes and Baylor continues to stay undefeated and rack up big wins while paying in a much more competitive conference.
+
+There was a little bit of other movement in the top-10 as Big Ten teams continue to knock each other off and teams like Kansas and Tennessee found themselves on quite the down week with mutliple losses in a row.
+
+It's approaching the point in the year where the top 10 to 15 teams seem solidly ranked in the top-25 somewhere but it is getting difficult to determine what teams after that are worthy of holding down the last few spots in my rankings, especially since I try to keep resume in mind above anything else.
 
 *I have a new system for tracking teams and will use it to base a lot of my decisions. As the year goes on, I find that a lot of people get sucked into the most recent games and put a little too much weight on recent results sometimes. Because of this, and because I generally like objective data as much as possible, I'm going to use these metrics in my post as well as the basis for my thought process.*
 
