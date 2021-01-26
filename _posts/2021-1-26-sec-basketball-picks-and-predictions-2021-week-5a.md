@@ -8,8 +8,6 @@ description: This week is highlighted by three games between teams that are just
 image: "/images/post-images/sec-basketball-game-picks-week-5a-2021.png"
 ---
 
-DRAFT
-
 Saturday's games saw some surprises with Kentucky and Missouri getting wins over LSU and Tennessee while Auburn dominated South Carolina in Columbia. Mississippi State also gave Alabama at least a run for their money for most of the game in Tuscaloosa.
 
 The middle of the pack just seems to get bigger and bigger with just Alabama clearly at the top and Vanderbilt clearly at the bottom. Those two teams are about the only ones that I'm almost instantly confident in picking them to win and lose. The middle twelve teams have all shown at least some signs of being good and with just a little bit of chaos could probably beat any of the others in that group on any given night.
