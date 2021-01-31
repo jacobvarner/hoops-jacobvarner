@@ -8,8 +8,6 @@ description: While the SEC got the win in the SEC/Big 12 Challenge, a lot of gam
 image: "/images/post-images/sec-power-rankings-1-31-2021.png"
 ---
 
-DRAFT
-
 The SEC got a useful win in the SEC/Big 12 Challenge this week, which could help determine the number of teams that the league can send to the NCAA Tournament this season. Florida and Tennessee got the biggest wins while Arkansas and LSU at least looked competitive in their games against ranked teams from the Big 12.
 
 There isn't a ton of movement in my rankings this week because a lot of games went about as I expected, and therefore I feel more confident in my current opinions of teams. It's also harder to compare the results of the SEC/Big 12 Challenge games so I'm sort of working off a game or game-and-a-half this week.
