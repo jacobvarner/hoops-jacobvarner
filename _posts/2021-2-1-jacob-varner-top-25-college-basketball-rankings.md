@@ -8,8 +8,6 @@ description: The top four teams stay in their same positions with a little shuff
 image: "/images/post-images/jacob-varner-college-basketball-top-25-rankings-february-1-2021.png"
 ---
 
-DRAFT
-
 It was a nice change of pace to see some high-level non-conference matchups in the SEC/Big 12 Challenge, with the SEC taking the narrow win but several teams, including Oklahoma, Florida, Tennessee, and Texas Tech getting important wins.
 
 Speaking of Oklahoma, the Sooners continued their hot streak with wins over Texas and Alabama this week which vaults them into my top-15.
