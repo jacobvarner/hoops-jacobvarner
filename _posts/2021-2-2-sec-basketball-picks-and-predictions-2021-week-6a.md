@@ -8,8 +8,6 @@ description: After a slight break for an SEC/Big 12 Challenge win, the conferenc
 image: "/images/post-images/sec-basketball-game-picks-week-6a-2021.png"
 ---
 
-DRAFT
-
 I'm going into this week after a really good run last week and the SEC is coming back from a 5-4 win in the SEC/Big 12 Challenge. Kentucky had to delay their game against Missouri by a day, but the Wildcats should be back to action meaning we have a full SEC slate once again.
 
 I think this week is highlighted by the games between Arkansas and Mississippi State, LSU and Alabama, and Vanderbilt and Texas A&M. The first two are games between teams that have a chance or are already near the top of the league while the last one will be close because it's the battle of the basement in the league.
