@@ -8,8 +8,6 @@ description: It's still a little difficult to make sense of the mess in the midd
 image: "/images/post-images/sec-power-rankings-2-7-2021.png"
 ---
 
-DRAFT
-
 It's still a little difficult to make sense of the mess in the middle of the league, but I think some teams are starting to rise up while others fall. Not many teams have separated themselves, so pretty much everyone is still one good or bad week from making a big move.
 
 Missouri is the latest team to be in the spot to challenge Alabama at the top of the standings, but even after handing the Crimson Tide their first loss in SEC play, the Tigers are still three games out of first place.
