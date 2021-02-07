@@ -30,8 +30,6 @@ With all that said, enjoy my updated SEC basketball power rankings. As always, i
 
 While other teams in the bottom of the standings like Georgia, South Carolina, and Ole Miss got big wins this week, it's hard for Texas A&M to even have a chance of moving up as they had to skip both games this week with a COVID pause in their program.
 
-{% include ad-content.html %}
-
 #### 13. Vanderbilt Commodores
 
 **Previous:** 12

@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div id="glossary-container">
+    <h2 id="glossary-header">Stat Glossary and Explainations</h2>
+    <a class="glossary-menu-item" href="#minutes-played-percentage">MP%</a>
+    <a class="glossary-menu-item" href="#usage-rate">USG%</a>
+
+    {% include ad-post-top.html %}
+
+    <h3 class="glossary-stat-header" id="minutes-played-percentage">MP% - Minutes Played Percentage</h3>
+    <p>This stat just calculates the amount of minutes a player has played out of the maximum minutes that they could have played for their team. MP% is slightly better than just minutes per game because it can factor in overtime games. The calculation is simply <span class="inline-formula">Player MP / (Team MP / 5)</span>.</p>
+
+    <h3 class="glossary-stat-header" id="usage-rate">USG% - Usage Rate</h3>
+    <p>The usage rate for player estimates what percentage of their team's possessions were they responsible for ending, either with a shot, a turnover, or getting fouled. This stat is useful for determinig how involved a player is while they are on the floor. Getting minutes is certainly valuable, but if a player is not being used at the end of plays, they're probably not as important as a player that plays a lot and is actually used in the offense. The calculation I use for usage rate is: <span class="inline-formula">[(FGA + TOV + 0.475 * FTA) * TeamMP / 5] / [TeamMP * (TeamFGA + TeamTOV + 0.475 * TeamFTA)]</span>.</p>
+</div>
