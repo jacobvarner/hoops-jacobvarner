@@ -3,10 +3,12 @@ layout: post
 title: "College Basketball Top 25 Rankings: It Wasn't a Fun Week to be a Top Ranked Team Except for Gonzaga, Baylor, and Ohio State"
 author: Jacob Varner
 tags: [NCAA, Top 25]
-time_to_read: 6 minutes
+time_to_read: 7 minutes
 description: Several ranked teams picked up losses this week, but Gonzaga and Baylor continue to be dominant while Ohio State looks like the most recent team to make a case for the top-4.
 image: "/images/post-images/jacob-varner-college-basketball-top-25-rankings-february-8-2021.png"
 ---
+
+DRAFT
 
 Several ranked teams picked up losses this week, but Gonzaga and Baylor continue to be dominant while Ohio State looks like the most recent team to make a case for the top-4.
 
