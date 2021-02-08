@@ -117,24 +117,7 @@ Despite no major wins, Loyola Chicago is up to 13th in KenPom and with just thre
  - Virginia Tech on a neutral court by 8 in OT
  - St. John's on the road by 11
 
-#### 7. Iowa (13-6)
-
-**Key Wins:**
- - North Carolina at home by 13
- - Purdue at home by 15
- - Rutgers on the road by 2
- - Maryland on the road by 22
- - Minnesota at home by 15
- - Northwestern on the road by 23
-
-**Losses:**
- - Gonzaga on a neutral court by 11
- - Minnesota on the road by 7 in OT
- - Indiana at home by 12
- - Illinois on the road by 5
- - Ohio State at home by 4
-
-#### 8. Alabama (15-5)
+#### 7. Alabama (15-5)
 
 **Key Wins:**
  - Providence on a neutral court by 17
@@ -153,7 +136,7 @@ Despite no major wins, Loyola Chicago is up to 13th in KenPom and with just thre
  - Oklahoma on the road by 5
  - Missouri on the road by 3
 
-#### 9. Houston (16-2)
+#### 8. Houston (16-2)
 
 **Key Wins:**
  - Texas Tech on a neutral court by 11
@@ -164,7 +147,7 @@ Despite no major wins, Loyola Chicago is up to 13th in KenPom and with just thre
  - Tulsa on the road by 1
  - *East Carolina on the road by 9*
 
-#### 10. Texas Tech (14-5)
+#### 9. Texas Tech (14-5)
 
 **Key Wins:**
  - Oklahoma on the road by 2
@@ -180,9 +163,7 @@ Despite no major wins, Loyola Chicago is up to 13th in KenPom and with just thre
  - Baylor at home by 8
  - West Virginia on the road by 1
 
-{% include ad-content.html %}
-
-#### 11. Wisconsin (14-6)
+#### 10. Wisconsin (14-6)
 
 **Key Wins:**
  - Loyola Chicago at home by 14
@@ -202,7 +183,9 @@ Despite no major wins, Loyola Chicago is up to 13th in KenPom and with just thre
  - Penn State on the road by 10
  - Illinois on the road by 15
 
-#### 12. Virginia (13-3)
+{% include ad-content.html %}
+
+#### 11. Virginia (13-3)
 
 **Key Wins:**
  - Notre Dame on the road by 9
@@ -215,6 +198,23 @@ Despite no major wins, Loyola Chicago is up to 13th in KenPom and with just thre
  - *San Francisco on a neutral court by 1*
  - Gonzaga on a neutral court by 23
  - Virginia Tech on the road by 14
+
+#### 12. Iowa (13-6)
+
+**Key Wins:**
+ - North Carolina at home by 13
+ - Purdue at home by 15
+ - Rutgers on the road by 2
+ - Maryland on the road by 22
+ - Minnesota at home by 15
+ - Northwestern on the road by 23
+
+**Losses:**
+ - Gonzaga on a neutral court by 11
+ - Minnesota on the road by 7 in OT
+ - Indiana at home by 12
+ - Illinois on the road by 5
+ - Ohio State at home by 4
 
 #### 13. Texas (11-5)
 
