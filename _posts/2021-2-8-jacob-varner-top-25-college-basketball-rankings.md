@@ -8,8 +8,6 @@ description: Several ranked teams picked up losses this week, but Gonzaga and Ba
 image: "/images/post-images/jacob-varner-college-basketball-top-25-rankings-february-8-2021.png"
 ---
 
-DRAFT
-
 Several ranked teams picked up losses this week, but Gonzaga and Baylor continue to be dominant while Ohio State looks like the most recent team to make a case for the top-4.
 
 Iowa lost twice as the Big Ten continues to beat each other up, Alabama dropped their first SEC game to Missouri, and Texas and Kansas had a rough week in Big 12 play.
