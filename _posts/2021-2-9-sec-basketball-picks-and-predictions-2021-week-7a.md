@@ -8,8 +8,6 @@ description: The SEC had to move games around again with Texas A&M and Florida s
 image: "/images/post-images/sec-basketball-game-picks-week-7a-2021.png"
 ---
 
-DRAFT
-
 The SEC had to move games around again with Texas A&M and Florida still dealing with COVID issues, but they at least minimized the loss by moving Georgia and Tennessee's matchup so the two teams will now play each other on Wednesday.
 
 That game comes at a good time for Georgia as the Bulldogs are on a three-game winning streak and could have the opportunity to take down the Volunteers like Ole Miss was able to last week. On the other side of that coin, Auburn will look to snap its two-game SEC losing streak with a win at Vanderbilt before the schedule gets even tougher down the stretch after two missed opportunities against Ole Miss and Georgia last week.
