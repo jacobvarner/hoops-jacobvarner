@@ -8,8 +8,6 @@ description: Two of those teams, Ole Miss and Arkansas, are on four and six-game
 image: "/images/post-images/sec-power-rankings-2-14-2021.png"
 ---
 
-DRAFT
-
 This week did an okay job of providing some more separation in the SEC standings, but there are still quite a few teams in the top half of the league that can still easily play for the double-bye in the SEC Tournament.
 
 Two of those teams, Ole Miss and Arkansas, are on four and six-game SEC winning streaks respectively, and find themselves shooting up my power rankings over the last two weeks. While Missouri and Tennessee still don't look perfect, they're both also capable of beating just about anyone in this league in any given game.
