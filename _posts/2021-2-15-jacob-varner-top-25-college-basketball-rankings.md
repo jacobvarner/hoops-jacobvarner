@@ -8,8 +8,6 @@ description: With wins over BYU and San Francisco, both on the road, I have once
 image: "/images/post-images/jacob-varner-college-basketball-top-25-rankings-february-15-2021.png"
 ---
 
-DRAFT
-
 Michigan returned from their COVID pause to get a comeback win over Wisconsin and remain in a select group at the top of the rankings.
 
 With wins over BYU and San Francisco, both on the road, I have once again moved Gonzaga back to the top spot, but they and Baylor still seem to be a few lengths away from Michigan and even further from others with Villanova's loss.
