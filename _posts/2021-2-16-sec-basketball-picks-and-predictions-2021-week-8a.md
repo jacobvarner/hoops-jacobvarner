@@ -8,8 +8,6 @@ description: Right when the SEC was looking to have all teams available once aga
 image: "/images/post-images/sec-basketball-game-picks-week-8a-2021.png"
 ---
 
-DRAFT
-
 Right when the SEC was looking to have all teams available once again, an abnormally extreme winter across the south made things difficult for games to go on as scheduled. As it stands now, it looks like every game has found a solution and now we're treated to a full seven-game slate stretched across three days instead of the normal two.
 
 I'm glad the conference and each of the teams were able to make things work because there are a couple of really good matchups this week. Arkansas and Florida as well as LSU and Ole Miss are each trying to stay in the hunt for a double-bye in the SEC Tournament while Auburn and Vanderbilt will look to climb a little higher in the standings against struggling teams in Mississippi State and Kentucky.
