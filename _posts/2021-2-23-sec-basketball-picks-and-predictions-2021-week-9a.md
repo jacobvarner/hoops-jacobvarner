@@ -8,8 +8,6 @@ description: Alabama at Arkansas is obviously the biggest game of the week, but 
 image: "/images/post-images/sec-basketball-game-picks-week-9a-2021.png"
 ---
 
-DRAFT
-
 Saturday's seemingly one-sided matchups ended up providing a day with plenty of upsets and even more almost upsets. These midweek games already appear to have more interesting matchups, including one of the best we've had all year when Alabama travels to Arkansas, so I have high expectations for the quality of games this week.
 
 Texas A&M had to delay another game, this time against Kentucky, so instead of the Wildcats getting to build on their quickly progressing winning streak, the Aggies will likely finish the season with almost half the games played as the rest of the league.
