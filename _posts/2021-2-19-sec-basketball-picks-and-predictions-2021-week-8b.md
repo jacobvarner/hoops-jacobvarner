@@ -3,7 +3,7 @@ layout: post
 title: SEC Basketball Picks and Predictions - 2021 Week 8B
 author: Jacob Varner
 tags: [SEC, Game Picks]
-time_to_read: 9 mintues
+time_to_read: 9 minutes
 description: Now the weather should be better everywhere so that we get a full slate of Saturday games, but at first glance, it looks like each one should have a favored team in every matchup. The seven teams that are either likely to make the NCAA Tournament or on the cusp will each be playing a team that likely won't be playing in the postseason without an SEC Tournament auto bid.
 image: "/images/post-images/sec-basketball-game-picks-week-8b-2021.png"
 ---
