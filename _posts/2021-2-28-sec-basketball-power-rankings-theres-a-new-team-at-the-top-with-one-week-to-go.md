@@ -8,8 +8,6 @@ description: With just one week left in the regular season, there is finally a n
 image: "/images/post-images/sec-power-rankings-2-28-2021.png"
 ---
 
-DRAFT
-
 With just one week left in the regular season, there is finally a new top team in my power rankings. Of all the teams that got to play two games this week, everyone except for Arkansas and Florida went 1-1, which made placing teams even more difficult this week. Some of the teams that split their games did so by also looking like a totally different team in each one.
 
 This last week could determine which teams head into Nashville with the best chance to make some noise, but outside of Arkansas and Alabama, I'm not sure who is going to be a safe pick. This year more than ever, the bracket and matchups in the SEC Tournament will make a big difference. Teams like Mississippi State, South Carolina, and Georgia have all looked both good or bad this year, depending on who they're playing or when they're playing.
