@@ -7,8 +7,6 @@ time_to_read: 5 minutes
 description: After winning the SEC regular season title, Alabama lands three players on my All-SEC teams. Arkansas, LSU, Florida, and Missouri each had two players make one of the three teams.
 ---
 
-DRAFT
-
 With the completion of another eventful SEC regular season, it's time for people to release their postseason awards for players, teams, and coaches. I enjoy putting my thoughts out there and providing a slightly different way of looking at things.
 
 In almost anything I do regarding basketball, I will never claim to be an expert on X's and O's and instead prefer to dive into stats and data. Now you need a combination of both to have a really good analysis, but I've always felt that people lean too much on the first one and trust the "eye test" a little bit too much. I've also sensed that people use a few good early games they watch the dictate a little too much of their decision and make up their mind on things, postseason awards, in this case, just a few weeks into the season.
